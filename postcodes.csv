@@ -1,0 +1,3293 @@
+postcode,name,longitude,latitude
+"AB10","Altens, Aberdeen City",57.135,-2.117
+"AB11","Altens, Aberdeen City",57.138,-2.092
+"AB12","Altens, Aberdeen City",57.101,-2.111
+"AB13","Altens, Aberdeen City",57.108,-2.237
+"AB14","Altens, Aberdeen City",57.101,-2.27
+"AB15","Altens, Aberdeen City",57.138,-2.164
+"AB16","Altens, Aberdeen City",57.161,-2.156
+"AB21","Aberdeen, Aberdeen City",57.21,-2.2
+"AB22","Danestone, Aberdeen City",57.187,-2.119
+"AB23","Balmedie, Aberdeenshire",57.212,-2.088
+"AB25","Aberdeen, Aberdeen City",57.153,-2.112
+"AB30","Arbuthnott, Aberdeenshire",56.847,-2.477
+"AB31","Auchattie, Aberdeenshire",57.074,-2.527
+"AB32","Achath, Aberdeenshire",57.156,-2.317
+"AB33","Alford, Aberdeenshire",57.225,-2.741
+"AB34","Aboyne, Aberdeenshire",57.094,-2.812
+"AB35","Allanaquoich, Aberdeenshire",57.038,-3.149
+"AB36","Badenyon, Aberdeenshire",57.197,-3.067
+"AB37","Auchbreck, Moray",57.331,-3.351
+"AB38","Archiestown, Moray",57.486,-3.225
+"AB39","Borrowfield, Aberdeenshire",56.978,-2.217
+"AB41","Ardo, Aberdeenshire",57.376,-2.105
+"AB42","Aldie, Aberdeenshire",57.501,-1.888
+"AB43","Bogfold, Aberdeenshire",57.658,-2.043
+"AB44","Macduff, Aberdeenshire",57.669,-2.492
+"AB45","Ardiecow, Moray",57.651,-2.566
+"AB51","Auchorrie, Aberdeenshire",57.289,-2.405
+"AB52","Ardlair, Aberdeenshire",57.344,-2.607
+"AB53","Auchininna, Aberdeenshire",57.525,-2.393
+"AB54","Aberchirder, Aberdeenshire",57.454,-2.763
+"AB55","Achnastank, Moray",57.524,-2.99
+"AB56","Arradoul, Moray",57.675,-2.926
+"AL1","St Albans, Hertfordshire",51.748,-0.322
+"AL10","Hatfield, Hertfordshire",51.76,-0.23
+"AL2","Bricket Wood, Hertfordshire",51.72,-0.333
+"AL3","",51.778,-0.37
+"AL4","Blackmore End, Hertfordshire",51.772,-0.294
+"AL5","Harpenden, Hertfordshire",51.816,-0.351
+"AL6","Ayot St Lawrence, Hertfordshire",51.831,-0.197
+"AL7","Hatfield Hyde, Hertfordshire",51.797,-0.186
+"AL8","Cromer Hyde, Hertfordshire",51.803,-0.209
+"AL9","Bell Bar, Hertfordshire",51.745,-0.199
+"B1","Birmingham, West Midlands",52.478,-1.907
+"B10","",52.47,-1.851
+"B11","",52.454,-1.858
+"B12","",52.46,-1.882
+"B13","Moseley, West Midlands",52.437,-1.878
+"B14","",52.417,-1.889
+"B15","Chad Valley, West Midlands",52.467,-1.924
+"B16","",52.476,-1.933
+"B17","Harborne, West Midlands",52.461,-1.961
+"B18","",52.491,-1.924
+"B19","",52.496,-1.905
+"B2","Birmingham, West Midlands",52.479,-1.897
+"B20","",52.514,-1.918
+"B21","Handsworth, West Midlands",52.506,-1.939
+"B23","Gravelly Hill, West Midlands",52.528,-1.854
+"B24","Erdington, West Midlands",52.519,-1.827
+"B25","Hay Mills, West Midlands",52.465,-1.82
+"B26","Elmdon, West Midlands",52.461,-1.79
+"B27","",52.445,-1.822
+"B28","Hall Green, West Midlands",52.427,-1.842
+"B29","Bournbrook, West Midlands",52.437,-1.947
+"B3","Birmingham, West Midlands",52.48,-1.902
+"B30","Bournville, West Midlands",52.422,-1.927
+"B31","Longbridge, West Midlands",52.408,-1.972
+"B32","Frankley, Hereford and Worcester",52.448,-1.993
+"B33","Tile Cross, West Midlands",52.48,-1.787
+"B34","",52.496,-1.781
+"B35","",52.519,-1.788
+"B36","Castle Bromwich, West Midlands",52.504,-1.779
+"B37","Marston Green, West Midlands",52.478,-1.741
+"B38","",52.4,-1.933
+"B4","Birmingham, West Midlands",52.482,-1.894
+"B40","",52.459,-1.722
+"B42","Perry Barr, West Midlands",52.533,-1.911
+"B43","Great Barr, West Midlands",52.548,-1.929
+"B44","Kingstanding, West Midlands",52.545,-1.884
+"B45","Barnt Green, Hereford and Worcester",52.388,-2.009
+"B46","Coleshill, Warwickshire",52.508,-1.694
+"B47","Drakes Cross, Hereford and Worcester",52.387,-1.88
+"B48","Alvechurch, Hereford and Worcester",52.355,-1.948
+"B49","Alcester, Warwickshire",52.217,-1.867
+"B5","Birmingham, West Midlands",52.47,-1.896
+"B50","Barton, Warwickshire",52.169,-1.854
+"B6","Aston, West Midlands",52.504,-1.885
+"B60","Aston Fields, Hereford and Worcester",52.326,-2.049
+"B61","Bournheath, Hereford and Worcester",52.345,-2.067
+"B62","Illey, West Midlands",52.456,-2.032
+"B63","Cradley, West Midlands",52.452,-2.067
+"B64","Old Hill, West Midlands",52.472,-2.068
+"B65","Blackheath, West Midlands",52.483,-2.042
+"B66","Smethwick, West Midlands",52.493,-1.964
+"B67","",52.486,-1.977
+"B68","Warley, West Midlands",52.479,-2
+"B69","Oldbury, West Midlands",52.502,-2.028
+"B7","",52.493,-1.873
+"B70","West Bromwich, West Midlands",52.52,-2.003
+"B71","Bird End, West Midlands",52.535,-1.989
+"B72","Wylde Green, West Midlands",52.552,-1.821
+"B73","",52.552,-1.841
+"B74","Four Oaks, West Midlands",52.583,-1.858
+"B75","Canwell Hall, Staffordshire",52.578,-1.809
+"B76","Curdworth, Warwickshire",52.545,-1.785
+"B77","Amington, Staffordshire",52.618,-1.667
+"B78","Bonehill, Staffordshire",52.606,-1.673
+"B79","Alvecote, Warwickshire",52.65,-1.681
+"B8","Saltley, West Midlands",52.49,-1.84
+"B80","Gorcott Hill, Warwickshire",52.277,-1.895
+"B9","",52.478,-1.849
+"B90","Shirley, West Midlands",52.4,-1.824
+"B91","Blossomfield, West Midlands",52.413,-1.782
+"B92","Bickenhill, West Midlands",52.436,-1.774
+"B93","Barston, West Midlands",52.38,-1.743
+"B94","Earlswood, Warwickshire",52.351,-1.791
+"B95","Aston Cantlow, Warwickshire",52.285,-1.779
+"B96","Astwood Bank, Hereford and Worcester",52.252,-1.96
+"B97","Crabbs Cross, Hereford and Worcester",52.299,-1.954
+"B98","Beoley, Hereford and Worcester",52.303,-1.914
+"BA1","Bath, Bath Avon",51.391,-2.36
+"BA10","Bruton, Somerset",51.113,-2.446
+"BA11","Berkley, Somerset",51.236,-2.325
+"BA12","Barrow Street, Wiltshire",51.171,-2.187
+"BA13","Bratton, Wiltshire",51.262,-2.179
+"BA14","Ashton Common, Wiltshire",51.318,-2.201
+"BA15","Bradford Leigh, Wiltshire",51.351,-2.265
+"BA16","Overleigh, Somerset",51.125,-2.743
+"BA2","Bathampton, Bristol Avon",51.36,-2.377
+"BA20","Yeovil, Somerset",50.938,-2.642
+"BA21","Mudford, Somerset",50.951,-2.633
+"BA22","Ashington, Somerset",50.968,-2.637
+"BA3","Ashwick, Somerset",51.275,-2.473
+"BA4","Alhampton, Somerset",51.171,-2.531
+"BA5","Bleadney, Somerset",51.212,-2.653
+"BA6","Baltonsborough, Somerset",51.141,-2.705
+"BA7","Alford, Somerset",51.089,-2.518
+"BA8","Abbas Combe, Somerset",50.999,-2.411
+"BA9","Barrow, Somerset",51.057,-2.409
+"BB1","Belthorn, Lancashire",53.756,-2.462
+"BB10","Brierfield, Lancashire",53.799,-2.219
+"BB11","Burnley, Lancashire",53.783,-2.252
+"BB12","Barley, Lancashire",53.803,-2.29
+"BB18","Belthorn, Lancashire",53.914,-2.171
+"BB2","Balderstone, Lancashire",53.741,-2.5
+"BB3","Darwen, Lancashire",53.698,-2.465
+"BB4","Crawshawbooth, Lancashire",53.703,-2.29
+"BB5","Accrington, Lancashire",53.754,-2.371
+"BB6","Great Harwood, Lancashire",53.792,-2.417
+"BB7","Barrow, Lancashire",53.874,-2.386
+"BB8","Barnoldswick, Lancashire",53.858,-2.163
+"BB9","Barrowford, Lancashire",53.837,-2.214
+"BD1","Bradford, West Yorkshire",53.796,-1.752
+"BD10","Bradford, West Yorkshire",53.832,-1.725
+"BD11","Adwalton, West Yorkshire",53.751,-1.676
+"BD12","Low Moor, Bradford",53.746,-1.761
+"BD13","Cullingworth, West Yorkshire",53.786,-1.859
+"BD14","Clayton, West Yorkshire",53.782,-1.816
+"BD15","Allerton, West Yorkshire",53.81,-1.836
+"BD16","Bingley, West Yorkshire",53.849,-1.833
+"BD17","Baildon, West Yorkshire",53.847,-1.767
+"BD18","Shipley, West Yorkshire",53.831,-1.776
+"BD19","Cleckheaton, West Yorkshire",53.727,-1.712
+"BD2","",53.814,-1.734
+"BD20","Cononley, North Yorkshire",53.897,-1.947
+"BD21","Ingrow, West Yorkshire",53.864,-1.906
+"BD22","Cowling, North Yorkshire",53.846,-1.952
+"BD23","Airton, North Yorkshire",53.993,-2.054
+"BD24","Cleatop, North Yorkshire",54.077,-2.274
+"BD3","",53.798,-1.727
+"BD4","Bierley, West Yorkshire",53.776,-1.718
+"BD5","",53.778,-1.758
+"BD6","Buttershaw, West Yorkshire",53.765,-1.783
+"BD7","",53.783,-1.782
+"BD8","",53.801,-1.781
+"BD9","",53.812,-1.789
+"BH1","",50.724,-1.86
+"BH10","",50.759,-1.891
+"BH11","Bearwood, Poole",50.761,-1.917
+"BH12","Branksome, Poole",50.737,-1.926
+"BH13","Branksome Park, Poole",50.71,-1.917
+"BH14","Lilliput, Poole",50.721,-1.944
+"BH15","Longfleet, Poole",50.722,-1.984
+"BH16","Holton Heath, Dorset",50.738,-2.044
+"BH17","Waterloo, Poole",50.746,-1.975
+"BH18","Broadstone, Poole",50.758,-1.993
+"BH19","",50.611,-1.97
+"BH2","Bournemouth, Bournemouth",50.721,-1.881
+"BH20","Arne, Dorset",50.686,-2.146
+"BH21","Boveridge, Dorset",50.812,-1.973
+"BH22","Dudsbury, Dorset",50.805,-1.887
+"BH23","Avon, Hampshire",50.746,-1.754
+"BH24","Ashley Heath, Dorset",50.844,-1.786
+"BH25","Ashley, Hampshire",50.752,-1.657
+"BH3","Winton, Bournemouth",50.735,-1.88
+"BH31","Romford, Dorset",50.876,-1.872
+"BH4","Westbourne, Bournemouth",50.721,-1.898
+"BH5","Boscombe, Bournemouth",50.725,-1.834
+"BH6","Southbourne, Bournemouth",50.727,-1.804
+"BH7","",50.735,-1.831
+"BH8","Holdenhurst, Bournemouth",50.74,-1.851
+"BH9","Moordown, Bournemouth",50.749,-1.871
+"BL0","Edenfield, Lancashire",53.646,-2.315
+"BL1","Astley Bridge, Greater Manchester",53.59,-2.444
+"BL2","Ainsworth, Greater Manchester",53.588,-2.395
+"BL3","Daubhill, Greater Manchester",53.565,-2.431
+"BL4","Farnworth, Greater Manchester",53.547,-2.4
+"BL5","Westhoughton, Greater Manchester",53.549,-2.515
+"BL6","Adlington, Lancashire",53.592,-2.539
+"BL7","Belmont, Lancashire",53.63,-2.421
+"BL8","Greenmount, Greater Manchester",53.605,-2.327
+"BL9","Bury, Greater Manchester",53.592,-2.286
+"BN1","Coldean, Brighton and Hove",50.839,-0.138
+"BN10","Peacehaven, East Sussex",50.795,0.003
+"BN11","West Worthing, West Sussex",50.813,-0.376
+"BN12","Ferring, West Sussex",50.813,-0.425
+"BN13","Clapham, West Sussex",50.83,-0.405
+"BN14","Broadwater, West Sussex",50.832,-0.38
+"BN15","Coombes, West Sussex",50.83,-0.324
+"BN16","Angmering, West Sussex",50.814,-0.494
+"BN17","Climping, West Sussex",50.814,-0.535
+"BN18","Amberley, West Sussex",50.848,-0.579
+"BN2","Bevendean, Brighton and Hove",50.824,-0.103
+"BN20","Birling Gap, East Sussex",50.774,0.255
+"BN21","Eastbourne, East Sussex",50.773,0.277
+"BN22","Hampden Park, East Sussex",50.788,0.284
+"BN23","Friday Street, East Sussex",50.798,0.314
+"BN24","Hankham, East Sussex",50.816,0.331
+"BN25","Bishopstone, East Sussex",50.776,0.11
+"BN26","Alciston, East Sussex",50.821,0.223
+"BN27","Bodle Street Green, East Sussex",50.871,0.265
+"BN3","Hangleton, Brighton and Hove",50.835,-0.174
+"BN41","Portslade, Brighton and Hove",50.84,-0.215
+"BN42","Southwick, West Sussex",50.837,-0.231
+"BN43","Kingston by Sea, West Sussex",50.836,-0.266
+"BN44","Ashurst, West Sussex",50.89,-0.322
+"BN45","Poynings, West Sussex",50.889,-0.185
+"BN5","Blackstone, West Sussex",50.927,-0.268
+"BN6","Albourne, West Sussex",50.929,-0.152
+"BN7","Cooksbridge, East Sussex",50.877,0.001
+"BN8","Barcombe Cross, East Sussex",50.913,0.052
+"BN9","Denton, East Sussex",50.795,0.051
+"BR1","Bickley, Greater London",51.411,0.022
+"BR2","Bromley Common, Greater London",51.389,0.023
+"BR3","Beckenham, Greater London",51.403,-0.031
+"BR4","West Wickham, Greater London",51.375,-0.007
+"BR5","St Mary Cray, Greater London",51.39,0.104
+"BR6","Chelsfield, Greater London",51.366,0.094
+"BR7","Chislehurst Caves, Greater London",51.41,0.072
+"BR8","Crockenhill, Kent",51.398,0.176
+"BS1","Bristol, Bristol",51.453,-2.593
+"BS10","Catbrain, South Gloucestershire",51.506,-2.61
+"BS11","Avonmouth, Bristol",51.497,-2.675
+"BS13","Bishopsworth, Bristol",51.412,-2.611
+"BS14","Whitchurch, Bristol Avon",51.413,-2.561
+"BS15","Kingswood, South Gloucestershire",51.459,-2.506
+"BS16","Downend, South Gloucestershire",51.485,-2.51
+"BS2","",51.46,-2.581
+"BS20","Clapton-in-Gordano, North Somerset",51.479,-2.752
+"BS21","Clevedon, North Somerset",51.435,-2.849
+"BS22","Bourton, North Somerset",51.36,-2.929
+"BS23","Uphill, North Somerset",51.343,-2.97
+"BS24","Banwell, North Somerset",51.327,-2.932
+"BS25","Rowberrow, Somerset",51.32,-2.826
+"BS26","Axbridge, Somerset",51.279,-2.855
+"BS27","Cheddar, Somerset",51.271,-2.77
+"BS28","Blackford, Somerset",51.225,-2.814
+"BS29","",51.331,-2.878
+"BS3","",51.438,-2.602
+"BS30","Abson, South Gloucestershire",51.445,-2.472
+"BS31","",51.408,-2.491
+"BS32","",51.542,-2.559
+"BS34","",51.523,-2.564
+"BS35","",51.596,-2.549
+"BS36","Coalpit Heath, South Gloucestershire",51.526,-2.486
+"BS37","Chipping Sodbury, South Gloucestershire",51.539,-2.416
+"BS39","",51.328,-2.532
+"BS4","Brislington, Bristol",51.435,-2.561
+"BS40","Brislington, Bristol",51.346,-2.691
+"BS41","Brislington, Bristol",51.422,-2.651
+"BS48","Brislington, Bristol",51.425,-2.747
+"BS49","Brislington, Bristol",51.38,-2.817
+"BS5","",51.462,-2.551
+"BS6","Bristol, Bristol",51.47,-2.599
+"BS7","Horfield, Bristol",51.486,-2.58
+"BS8","Abbots Leigh, North Somerset",51.457,-2.621
+"BS9","Westbury on Trym, Bristol",51.487,-2.625
+"BS99","Bristol (PO Boxes), Bristol",51.458,-2.573
+"BT1","Belfast, Belfast",53.262,-2.991
+"BT10","Belfast, Belfast",53.22,-3.042
+"BT11","Belfast, Belfast",53.236,-3.056
+"BT12","Belfast, Belfast",53.254,-3.018
+"BT13","Belfast, Belfast",53.267,-3.021
+"BT14","Belfast, Belfast",53.282,-3.024
+"BT15","Belfast, Belfast",53.285,-2.996
+"BT16","Belfast, Belfast",53.257,-2.864
+"BT17","Belfast, Belfast",53.214,-3.074
+"BT18","Hollywood, County Down",53.306,-2.89
+"BT19","Belfast, Belfast",53.32,-2.741
+"BT2","",53.255,-2.993
+"BT20","",53.327,-2.74
+"BT21","",53.311,-2.623
+"BT22","",53.176,-2.588
+"BT23","",53.231,-2.782
+"BT24","",53.08,-2.923
+"BT25","",53.053,-3.153
+"BT26","",53.111,-3.109
+"BT27","",53.17,-3.074
+"BT28","",53.181,-3.14
+"BT29","",53.276,-3.25
+"BT3","",53.283,-2.969
+"BT30","",53.002,-2.755
+"BT31","",52.939,-3.008
+"BT32","",52.99,-3.278
+"BT33","",52.884,-2.93
+"BT34","",52.811,-3.203
+"BT35","",52.814,-3.46
+"BT36","",53.339,-3.022
+"BT37","",53.339,-2.977
+"BT38","",53.395,-2.876
+"BT39","",53.405,-3.088
+"BT4","",53.266,-2.933
+"BT40","",53.511,-2.906
+"BT41","",53.386,-3.321
+"BT42","",53.507,-3.353
+"BT43","",53.544,-3.339
+"BT44","",53.627,-3.362
+"BT45","",53.404,-3.691
+"BT46","",53.509,-3.722
+"BT47","Derry, County Londonderry",53.604,-4.26
+"BT48","",53.636,-4.374
+"BT49","",53.684,-4.014
+"BT5","",53.252,-2.935
+"BT51","",53.701,-3.753
+"BT52","",53.778,-3.732
+"BT53","",53.734,-3.554
+"BT54","",53.854,-3.354
+"BT55","",53.822,-3.789
+"BT56","",53.842,-3.733
+"BT57","",53.849,-3.605
+"BT6","",53.243,-2.96
+"BT60","Armagh, County Armagh",52.937,-3.668
+"BT61","",53.013,-3.647
+"BT62","",53.061,-3.496
+"BT63","",53.055,-3.424
+"BT64","",53.1,-3.429
+"BT65","",53.096,-3.403
+"BT66","",53.108,-3.373
+"BT67","",53.14,-3.313
+"BT68","Caledon, County Tyrone",53.005,-3.864
+"BT69","",53.061,-3.967
+"BT7","",53.245,-2.986
+"BT70","",53.153,-3.913
+"BT71","",53.156,-3.737
+"BT74","Enniskillen, County Fermanagh",52.963,-4.654
+"BT75","",53.003,-4.318
+"BT76","",53.05,-4.201
+"BT77","",53.06,-4.13
+"BT78","",53.197,-4.389
+"BT79","",53.254,-4.224
+"BT8","",53.203,-2.964
+"BT80","",53.286,-3.788
+"BT81","",53.315,-4.629
+"BT82","",53.451,-4.458
+"BT9","",53.233,-3.01
+"BT92","",52.847,-4.449
+"BT93","",53.081,-4.818
+"BT94","",52.998,-4.537
+"CA1","Carleton, Cumbria",54.886,-2.911
+"CA10","Askham, Cumbria",54.611,-2.659
+"CA11","Blencow, Cumbria",54.664,-2.786
+"CA12","Applethwaite, Cumbria",54.602,-3.133
+"CA13","Bewaldeth, Cumbria",54.66,-3.366
+"CA14","Asby, Cumbria",54.634,-3.537
+"CA15","Allonby, Cumbria",54.712,-3.481
+"CA16","Appleby-in-Westmorland, Cumbria",54.574,-2.483
+"CA17","Brough Sowerby, Cumbria",54.479,-2.35
+"CA18","Broad Oak, Cumbria",54.354,-3.39
+"CA19","Beckfoot, Cumbria",54.387,-3.382
+"CA2","Cummersdale, Cumbria",54.884,-2.949
+"CA20","Calder Bridge, Cumbria",54.41,-3.461
+"CA21","Beckermet, Cumbria",54.445,-3.515
+"CA22","Egremont, Cumbria",54.48,-3.531
+"CA23","Cleator, Cumbria",54.514,-3.493
+"CA24","Moor Row, Cumbria",54.515,-3.542
+"CA25","Cleator Moor, Cumbria",54.523,-3.517
+"CA26","Arlecdon, Cumbria",54.544,-3.481
+"CA27","St Bees, Cumbria",54.491,-3.592
+"CA28","Hensingham, Cumbria",54.544,-3.577
+"CA3","Houghton, Cumbria",54.907,-2.939
+"CA4","Aiketgate, Cumbria",54.847,-2.833
+"CA5","Abbeytown, Cumbria",54.855,-3.015
+"CA6","Bewcastle, Cumbria",54.994,-2.892
+"CA7","Aikton, Cumbria",54.807,-3.237
+"CA8","Banks, Cumbria",54.939,-2.685
+"CA9","Alston, Cumbria",54.802,-2.419
+"CB1","Balsham, Cambridgeshire",52.176,0.19
+"CB10","Ashdon, Essex",52.03,0.266
+"CB11","Arkesden, Essex",52,0.214
+"CB2","Babraham, Cambridgeshire",52.163,0.133
+"CB3","Bar Hill, Cambridgeshire",52.213,0.025
+"CB4","Boxworth End, Cambridgeshire",52.243,0.115
+"CB5","Bottisham, Cambridgeshire",52.239,0.211
+"CB6","Aldreth, Cambridgeshire",52.404,0.224
+"CB7","Barway, Cambridgeshire",52.366,0.322
+"CB8","Ashley, Cambridgeshire",52.231,0.427
+"CB9","Barnardiston, Suffolk",52.082,0.441
+"CF10","Canton, Cardiff",51.474,-3.176
+"CF11","Canton, Cardiff",51.473,-3.192
+"CF14","Canton, Cardiff",51.519,-3.203
+"CF15","Canton, Cardiff",51.534,-3.273
+"CF23","Llanedeyrn, Cardiff",51.515,-3.151
+"CF24","Llanedeyrn, Cardiff",51.485,-3.164
+"CF3","Began, Caerphilly",51.519,-3.111
+"CF31","Bridgend, Bridgend",51.509,-3.576
+"CF32","Abergarw, Bridgend",51.56,-3.583
+"CF33","Kenfig Hill, Bridgend",51.524,-3.69
+"CF34","Caerau, Bridgend",51.61,-3.651
+"CF35","Blackmill, Bridgend",51.522,-3.519
+"CF36","Newton, Bridgend",51.485,-3.698
+"CF37","Clifynydd, Rhondda Cynon Taff",51.603,-3.333
+"CF38","Beddau, Rhondda Cynon Taff",51.56,-3.332
+"CF39","Coedely, Rhondda Cynon Taff",51.601,-3.423
+"CF40","Clydach Vale, Rhondda Cynon Taff",51.62,-3.45
+"CF41","Pentre, Rhondda Cynon Taff",51.647,-3.481
+"CF42","Blaencwm, Rhondda Cynon Taff",51.667,-3.522
+"CF43","Ferndale, Rhondda Cynon Taff",51.658,-3.449
+"CF44","Aber-llia, Powys",51.718,-3.458
+"CF45","Abercynon, Rhondda Cynon Taff",51.669,-3.361
+"CF46","Bedlinog, Merthyr Tydfil",51.665,-3.3
+"CF47","Merthyr Tydfil, Merthyr Tydfil",51.751,-3.374
+"CF48","Abercanaid, Merthyr Tydfil",51.741,-3.369
+"CF5","Bonvilston, Vale of Glamorgan",51.482,-3.242
+"CF61","Boverton, Vale of Glamorgan",51.408,-3.48
+"CF62","Barry, Vale of Glamorgan",51.404,-3.308
+"CF63","Cadoxton, Vale of Glamorgan",51.412,-3.256
+"CF64","Cogan, Vale of Glamorgan",51.433,-3.189
+"CF71","Aberthin, Vale of Glamorgan",51.461,-3.454
+"CF72","Bryncae, Rhondda Cynon Taff",51.53,-3.398
+"CF81","Aber Bargoed, Caerphilly",51.7,-3.243
+"CF82","Cefn Hengoed, Caerphilly",51.652,-3.236
+"CF83","Abertridwr, Caerphilly",51.586,-3.217
+"CH1","Blacon, Cheshire",53.202,-2.908
+"CH2","Backford, Cheshire",53.216,-2.868
+"CH3","Aldersey Green, Cheshire",53.167,-2.822
+"CH4","Bretton, Flintshire",53.168,-2.939
+"CH41","Birkenhead, Merseyside",53.394,-3.03
+"CH42","Birkenhead, Merseyside",53.374,-3.021
+"CH43","Bidston, Merseyside",53.383,-3.058
+"CH44","Wallasey, Merseyside",53.415,-3.036
+"CH45","New Brighton, Merseyside",53.428,-3.05
+"CH46","Moreton, Merseyside",53.404,-3.11
+"CH47","Hoylake, Merseyside",53.396,-3.168
+"CH48","Caldy, Merseyside",53.372,-3.169
+"CH49","Upton, Merseyside",53.381,-3.103
+"CH5","Aston, Flintshire",53.204,-3.041
+"CH6","Bagillt, Flintshire",53.25,-3.145
+"CH60","Gayton, Merseyside",53.326,-3.095
+"CH61","Barnston, Merseyside",53.348,-3.101
+"CH62","Bagillt, Flintshire",53.334,-2.981
+"CH63","Wirral, Merseyside",53.345,-3.011
+"CH64","Bagillt, Flintshire",53.288,-3.047
+"CH65","Bagillt, Flintshire",53.277,-2.902
+"CH66","Bagillt, Flintshire",53.277,-2.934
+"CH7","Afon-wen, Flintshire",53.169,-3.133
+"CH8","Babell, Flintshire",53.281,-3.241
+"CM0","Asheldham, Essex",51.663,0.837
+"CM1","Broomfield, Essex",51.745,0.457
+"CM11","Billericay, Essex",51.623,0.446
+"CM12","Little Burstead, Essex",51.628,0.416
+"CM13","Childerditch, Essex",51.615,0.338
+"CM14","Brentwood, Essex",51.618,0.293
+"CM15","Doddinghurst, Essex",51.643,0.306
+"CM16","Coopersale Common, Essex",51.7,0.122
+"CM17","Church Langley, Essex",51.771,0.146
+"CM18","Broomfield, Essex",51.756,0.107
+"CM19","Great Parndon, Essex",51.76,0.075
+"CM2","Galleyend, Essex",51.722,0.487
+"CM20","Eastwick, Hertfordshire",51.775,0.105
+"CM21","",51.812,0.147
+"CM22","",51.862,0.222
+"CM23","Berden, Essex",51.871,0.16
+"CM24","Stansted Mountfitchet, Essex",51.899,0.207
+"CM3","Althorne, Essex",51.72,0.585
+"CM4","Blackmore, Essex",51.674,0.392
+"CM5","Abbess Roding, Essex",51.721,0.249
+"CM6","Aythorpe Roding, Essex",51.877,0.367
+"CM7","Bardfield Saling, Essex",51.897,0.539
+"CM8","Chipping Hill, Essex",51.805,0.639
+"CM9","Broad Street Green, Essex",51.741,0.702
+"CO1","Colchester, Essex",51.889,0.91
+"CO10","Acton, Suffolk",52.057,0.724
+"CO11","Bradfield Heath, Essex",51.942,1.079
+"CO12","Dovercourt, Essex",51.931,1.255
+"CO13","Frinton-on-Sea, Essex",51.838,1.239
+"CO14","Walton-on-Naze, Essex",51.85,1.269
+"CO15","Clacton-on-Sea, Essex",51.796,1.157
+"CO16","Beaumont, Essex",51.821,1.126
+"CO2","Birch Green, Essex",51.869,0.895
+"CO3","Beacon End, Essex",51.884,0.863
+"CO4","",51.907,0.924
+"CO5","Abberton, Essex",51.814,0.822
+"CO6","Aldham, Essex",51.924,0.79
+"CO7","Aingers Green, Essex",51.884,1.005
+"CO8","Alphamstone, Essex",51.973,0.767
+"CO9","Barr Hall, Essex",51.969,0.611
+"CR0","Addington, Greater London",51.372,-0.074
+"CR2","Sanderstead, Greater London",51.35,-0.08
+"CR3","Caterham, Surrey",51.287,-0.08
+"CR4","Beddington Corner, Greater London",51.404,-0.159
+"CR5","Chipstead, Surrey",51.312,-0.139
+"CR6","Chelsham, Surrey",51.308,-0.052
+"CR7","",51.395,-0.103
+"CR8","Kenley, Greater London",51.336,-0.11
+"CT1","Canterbury, Kent",51.277,1.087
+"CT10","Broadstairs, Kent",51.362,1.431
+"CT11","Ramsgate, Kent",51.336,1.415
+"CT12","Cliffs End, Kent",51.343,1.373
+"CT13","Eastry, Kent",51.267,1.33
+"CT14","Betteshanger, Kent",51.216,1.387
+"CT15","Alkham, Kent",51.171,1.284
+"CT16","Buckland, Kent",51.14,1.302
+"CT17","Maxton, Kent",51.128,1.296
+"CT18","Acrise Place, Kent",51.114,1.15
+"CT19","Cheriton, Kent",51.088,1.17
+"CT2","Blean, Kent",51.293,1.082
+"CT20","Sandgate, Kent",51.079,1.166
+"CT21","Court-at-Street, Kent",51.073,1.078
+"CT3","Adisham, Kent",51.278,1.212
+"CT4","Barham, Kent",51.225,1.068
+"CT5","Chestfield, Kent",51.353,1.037
+"CT6","Beltinge, Kent",51.364,1.131
+"CT7","Acol, Kent",51.371,1.301
+"CT8","Westgate on Sea, Kent",51.38,1.341
+"CT9","Cliftonville, Kent",51.383,1.391
+"CV1","Coventry, West Midlands",52.41,-1.507
+"CV10","Ansley, Warwickshire",52.525,-1.5
+"CV11","Attleborough, Warwickshire",52.519,-1.453
+"CV12","Bedworth, Warwickshire",52.474,-1.473
+"CV13","Barlestone, Leicestershire",52.612,-1.414
+"CV2","",52.423,-1.464
+"CV21","Newbold on Avon, Warwickshire",52.368,-1.274
+"CV22","Bilton, Warwickshire",52.355,-1.287
+"CV23","Ashby St Ledgers, Northamptonshire",52.361,-1.308
+"CV3","Binley, West Midlands",52.393,-1.482
+"CV31","Radford Semele, Warwickshire",52.278,-1.524
+"CV32","Cubbington, Warwickshire",52.296,-1.53
+"CV33","Avon Dassett, Warwickshire",52.257,-1.484
+"CV34","Longbridge, Warwickshire",52.283,-1.579
+"CV35","Ashorne, Warwickshire",52.229,-1.595
+"CV36","Admington, Warwickshire",52.067,-1.625
+"CV37","Alderminster, Warwickshire",52.185,-1.713
+"CV4","Kirby Corner, West Midlands",52.398,-1.565
+"CV47","Kirby Corner, West Midlands",52.234,-1.385
+"CV5","Allesley, West Midlands",52.412,-1.551
+"CV6","Court House Green, West Midlands",52.432,-1.507
+"CV7","Ansty, Warwickshire",52.444,-1.563
+"CV8","Ashow, Warwickshire",52.351,-1.543
+"CV9","Atherstone, Warwickshire",52.585,-1.558
+"CW1","Bradfield Green, Cheshire",53.103,-2.434
+"CW10","Bostock Green, Cheshire",53.189,-2.445
+"CW11","Arclid, Cheshire",53.142,-2.365
+"CW12","Astbury, Cheshire",53.165,-2.212
+"CW2","Balterley, Staffordshire",53.081,-2.446
+"CW3","Audlem, Cheshire",53,-2.406
+"CW4","Blackden Heath, Cheshire",53.207,-2.347
+"CW5","Acton, Cheshire",53.062,-2.521
+"CW6","Alpraham, Cheshire",53.162,-2.666
+"CW7","Foxwist Green, Cheshire",53.19,-2.526
+"CW8","Acton Bridge, Cheshire",53.254,-2.563
+"CW9","Antrobus, Cheshire",53.259,-2.501
+"DA1","Crayford, Greater London",51.447,0.21
+"DA10","Northfleet, Kent",51.444,0.308
+"DA11","Perry Street, Kent",51.434,0.354
+"DA12","Chalk, Kent",51.427,0.389
+"DA13","Betsham, Kent",51.382,0.355
+"DA14","Foots Cray, Greater London",51.425,0.113
+"DA15","Bexley, Greater London",51.44,0.1
+"DA16","East Wickham, Greater London",51.464,0.109
+"DA17","Belvedere, Greater London",51.487,0.149
+"DA18","Crayford, Greater London",51.492,0.144
+"DA2","Bean, Kent",51.432,0.234
+"DA3","Fawkham Green, Kent",51.385,0.31
+"DA4","Eynsford, Kent",51.391,0.233
+"DA5","Coldblow, Greater London",51.44,0.146
+"DA6","Bexleyheath, Greater London",51.455,0.14
+"DA7","",51.466,0.147
+"DA8","Erith, Greater London",51.475,0.178
+"DA9","Greenhithe, Kent",51.447,0.28
+"DD1","Dundee, Dundee City",56.461,-2.977
+"DD10","Allardice, Aberdeenshire",56.747,-2.427
+"DD11","Arbirlot, Angus",56.573,-2.598
+"DD2","Benvie, Dundee City",56.47,-3.027
+"DD3","Auchterhouse, Angus",56.482,-2.988
+"DD4","Balgray, Angus",56.482,-2.935
+"DD5","Affleck, Angus",56.478,-2.862
+"DD6","Balmerino, Fife",56.437,-2.925
+"DD7","Barry, Angus",56.503,-2.718
+"DD76AA","Barry, Angus",56.5026,-2.7117
+"DD76AB","Barry, Angus",56.5037,-2.7113
+"DD76AD","Barry, Angus",56.5008,-2.7114
+"DD76AE","Barry, Angus",56.5012,-2.7114
+"DD76AF","Barry, Angus",56.5005,-2.7104
+"DD76AG","Barry, Angus",56.5011,-2.7101
+"DD76AH","Barry, Angus",56.5015,-2.7099
+"DD76AJ","Barry, Angus",56.5007,-2.709
+"DD76AL","Barry, Angus",56.5017,-2.7091
+"DD76AN","Barry, Angus",56.5015,-2.708
+"DD76AP","Barry, Angus",56.5016,-2.7087
+"DD76AQ","Barry, Angus",56.5021,-2.7083
+"DD76AR","Barry, Angus",56.5012,-2.7067
+"DD76AS","Barry, Angus",56.5014,-2.7041
+"DD76AT","Barry, Angus",56.5015,-2.7052
+"DD76AU","Barry, Angus",56.502,-2.6998
+"DD76AW","Barry, Angus",56.5021,-2.701
+"DD76AX","Barry, Angus",56.5011,-2.7024
+"DD76AY","Barry, Angus",56.5013,-2.6997
+"DD76AZ","Barry, Angus",56.502,-2.699
+"DD76BA","Barry, Angus",56.5015,-2.6989
+"DD76BB","Barry, Angus",56.5018,-2.6975
+"DD76BD","Barry, Angus",56.5024,-2.6975
+"DD76BE","Barry, Angus",56.5026,-2.6965
+"DD76BG","Barry, Angus",56.5036,-2.6951
+"DD76BH","Barry, Angus",56.5036,-2.6963
+"DD76BJ","Barry, Angus",56.5038,-2.6969
+"DD76BL","Barry, Angus",56.5028,-2.6985
+"DD76BN","Barry, Angus",56.5024,-2.7013
+"DD76BP","Barry, Angus",56.5024,-2.7
+"DD76BQ","Barry, Angus",56.5038,-2.6979
+"DD76BR","Barry, Angus",56.5032,-2.6988
+"DD76BS","Barry, Angus",56.5038,-2.6994
+"DD76BT","Barry, Angus",56.503,-2.7017
+"DD76BU","Barry, Angus",56.504,-2.7028
+"DD76BW","Barry, Angus",56.5034,-2.7026
+"DD76BX","Barry, Angus",56.5027,-2.7019
+"DD76BY","Barry, Angus",56.5023,-2.7019
+"DD76BZ","Barry, Angus",56.503,-2.703
+"DD76DA","Barry, Angus",56.5037,-2.7037
+"DD76DB","Barry, Angus",56.5035,-2.7048
+"DD76DD","Barry, Angus",56.5018,-2.7052
+"DD76DE","Barry, Angus",56.5023,-2.7043
+"DD76DF","Barry, Angus",56.5022,-2.7072
+"DD76DG","Barry, Angus",56.5027,-2.7045
+"DD76DH","Barry, Angus",56.5031,-2.7054
+"DD76DJ","Barry, Angus",56.5029,-2.706
+"DD76DL","Barry, Angus",56.5049,-2.6997
+"DD76DN","Barry, Angus",56.5041,-2.7012
+"DD76DP","Barry, Angus",56.5063,-2.6996
+"DD76DQ","Barry, Angus",56.507,-2.7059
+"DD76DR","Barry, Angus",56.5051,-2.7025
+"DD76DS","Barry, Angus",56.5067,-2.7026
+"DD76DT","Barry, Angus",56.5077,-2.6998
+"DD76DU","Barry, Angus",56.5047,-2.7039
+"DD76DW","Barry, Angus",56.5046,-2.6994
+"DD76DX","Barry, Angus",56.5086,-2.7016
+"DD76DY","Barry, Angus",56.5096,-2.7035
+"DD76DZ","Barry, Angus",56.5036,-2.7027
+"DD76EA","Barry, Angus",56.504,-2.6949
+"DD76EB","Barry, Angus",56.5019,-2.7119
+"DD76ED","Barry, Angus",56.5021,-2.7104
+"DD76EE","Barry, Angus",56.5029,-2.7093
+"DD76EF","Barry, Angus",56.5026,-2.7101
+"DD76EG","Barry, Angus",56.5038,-2.71
+"DD76EH","Barry, Angus",56.5041,-2.7076
+"DD76EJ","Barry, Angus",56.5031,-2.7068
+"DD76EL","Barry, Angus",56.5038,-2.7057
+"DD76EN","Barry, Angus",56.504,-2.7052
+"DD76EP","Barry, Angus",56.5042,-2.7043
+"DD76EQ","Barry, Angus",56.5046,-2.7043
+"DD76ER","Barry, Angus",56.5048,-2.7051
+"DD76ES","Barry, Angus",56.5047,-2.706
+"DD76ET","Barry, Angus",56.5045,-2.7065
+"DD76EU","Barry, Angus",56.5057,-2.7052
+"DD76EW","Barry, Angus",56.506,-2.7066
+"DD76EX","Barry, Angus",56.5078,-2.7086
+"DD76EY","Barry, Angus",56.5077,-2.7094
+"DD76FR","Barry, Angus",56.5015,-2.7068
+"DD76GP","Barry, Angus",56.5052,-2.7182
+"DD76GQ","Barry, Angus",56.5081,-2.7141
+"DD76GR","Barry, Angus",56.5052,-2.7182
+"DD76GS","Barry, Angus",56.508,-2.715
+"DD76GU","Barry, Angus",56.5074,-2.7169
+"DD76GX","Barry, Angus",56.5073,-2.7159
+"DD76GZ","Barry, Angus",56.5071,-2.716
+"DD76HA","Barry, Angus",56.5057,-2.707
+"DD76HB","Barry, Angus",56.5047,-2.7075
+"DD76HD","Barry, Angus",56.5054,-2.7076
+"DD76HE","Barry, Angus",56.5046,-2.7091
+"DD76HF","Barry, Angus",56.5044,-2.711
+"DD76HG","Barry, Angus",56.5044,-2.7115
+"DD76HH","Barry, Angus",56.5044,-2.7129
+"DD76HJ","Barry, Angus",56.5048,-2.7138
+"DD76HL","Barry, Angus",56.5059,-2.7133
+"DD76HN","Barry, Angus",56.5057,-2.7136
+"DD76HP","Barry, Angus",56.5055,-2.7141
+"DD76HQ","Barry, Angus",56.5072,-2.7135
+"DD76HR","Barry, Angus",56.5063,-2.7168
+"DD76HS","Barry, Angus",56.5096,-2.7084
+"DD76HT","Barry, Angus",56.5091,-2.7077
+"DD76HU","Barry, Angus",56.5083,-2.7075
+"DD76HW","Barry, Angus",56.5073,-2.7104
+"DD76HX","Barry, Angus",56.5087,-2.7066
+"DD76HY","Barry, Angus",56.5099,-2.7051
+"DD76HZ","Barry, Angus",56.506,-2.7084
+"DD76JA","Barry, Angus",56.5061,-2.7105
+"DD76JB","Barry, Angus",56.5072,-2.7116
+"DD76JD","Barry, Angus",56.5067,-2.7125
+"DD76JG","Barry, Angus",56.5105,-2.7023
+"DD76JJ","Barry, Angus",56.5108,-2.7044
+"DD76JL","Barry, Angus",56.5105,-2.7048
+"DD76JN","Barry, Angus",56.5102,-2.7016
+"DD76JP","Barry, Angus",56.5126,-2.6972
+"DD76JQ","Barry, Angus",56.5134,-2.6867
+"DD76JR","Barry, Angus",56.5073,-2.6877
+"DD76JS","Barry, Angus",56.5056,-2.695
+"DD76JX","Barry, Angus",56.5265,-2.7117
+"DD76JY","Barry, Angus",56.5048,-2.6962
+"DD76JZ","Barry, Angus",56.5055,-2.698
+"DD76LA","Barry, Angus",56.5098,-2.7266
+"DD76LB","Barry, Angus",56.5222,-2.7393
+"DD76LD","Barry, Angus",56.5135,-2.718
+"DD76LE","Barry, Angus",56.5254,-2.7118
+"DD76LG","Barry, Angus",56.5212,-2.7023
+"DD76LH","Barry, Angus",56.531,-2.7034
+"DD76LL","Barry, Angus",56.5217,-2.6812
+"DD76LN","Barry, Angus",56.516,-2.668
+"DD76LP","Barry, Angus",56.526,-2.668
+"DD76LQ","Barry, Angus",56.5136,-2.6683
+"DD76LR","Barry, Angus",56.5171,-2.6688
+"DD76LS","Barry, Angus",56.5172,-2.6661
+"DD76LT","Barry, Angus",56.5173,-2.6642
+"DD76LU","Barry, Angus",56.5357,-2.7287
+"DD76LW","Barry, Angus",56.5326,-2.7614
+"DD76LX","Barry, Angus",56.5244,-2.765
+"DD76LY","Barry, Angus",56.5156,-2.7518
+"DD76LZ","Barry, Angus",56.5168,-2.6679
+"DD76PA","Barry, Angus",56.5029,-2.7037
+"DD76WX","Barry, Angus",56.503,-2.7193
+"DD76YB","Barry, Angus",56.503,-2.7193
+"DD76YG","Barry, Angus",56.503,-2.7193
+"DD76YL","Barry, Angus",56.5106,-2.7259
+"DD76YP","Barry, Angus",56.503,-2.7193
+"DD76YQ","Barry, Angus",56.503,-2.7193
+"DD76YR","Barry, Angus",56.503,-2.7193
+"DD8","Aberlemno, Angus",56.656,-2.922
+"DD9","Arnhall, Aberdeenshire",56.748,-2.667
+"DE1","Derby, Derby",52.92,-1.475
+"DE11","Blackfordby, Leicestershire",52.773,-1.554
+"DE12","Appleby Magna, Leicestershire",52.725,-1.553
+"DE13","Alrewas, Staffordshire",52.808,-1.688
+"DE14","Branston, Staffordshire",52.805,-1.64
+"DE15","Bretby, Derbyshire",52.799,-1.608
+"DE21","Chaddesden, Derby",52.933,-1.432
+"DE22","Allestree, Derby",52.934,-1.496
+"DE23","Littleover, Derby",52.901,-1.494
+"DE24","Alvaston, Derby",52.89,-1.451
+"DE3","Mickleover, Derby",52.909,-1.54
+"DE4","Aldwark, Derbyshire",53.127,-1.564
+"DE45","Alport, Derbyshire",53.215,-1.676
+"DE5","Butterley, Derbyshire",53.045,-1.401
+"DE55","Alfreton, Derbyshire",53.101,-1.371
+"DE56","Alderwasley, Derbyshire",53.022,-1.474
+"DE6","Alkmonton, Derbyshire",52.993,-1.717
+"DE65","Burnaston, Derbyshire",52.867,-1.61
+"DE7","Breadsall, Derbyshire",52.973,-1.321
+"DE72","Aston on Trent, Derbyshire",52.894,-1.359
+"DE73","Barrow upon Trent, Derbyshire",52.847,-1.435
+"DE74","Castle Donington, Derbyshire",52.844,-1.33
+"DE75","Heanor, Derbyshire",53.013,-1.353
+"DG1","Ae Village, Dumfries and Galloway",55.073,-3.58
+"DG10","Beattock, Dumfries and Galloway",55.32,-3.437
+"DG11","Bankshill, Dumfries and Galloway",55.114,-3.336
+"DG12","Annan, Dumfries and Galloway",54.99,-3.251
+"DG13","Allangillfoot, Dumfries and Galloway",55.173,-3.029
+"DG14","Auchenrivock, Dumfries and Galloway",55.081,-2.985
+"DG16","Gretna Green, Dumfries and Galloway",54.997,-3.068
+"DG2","Allanton, Dumfries and Galloway",55.065,-3.657
+"DG3","Auchenbrack, Dumfries and Galloway",55.237,-3.799
+"DG4","Carco, Dumfries and Galloway",55.375,-3.952
+"DG5","Barnbarroch, Dumfries and Galloway",54.922,-3.81
+"DG6","Auchnabony, Dumfries and Galloway",54.837,-4.055
+"DG7","Airieland, Dumfries and Galloway",54.968,-4.012
+"DG8","Airyhassen, Dumfries and Galloway",54.873,-4.516
+"DG9","Airies, Dumfries and Galloway",54.878,-5.021
+"DH1","Carrville, County Durham",54.781,-1.566
+"DH2","Edmondsley, County Durham",54.86,-1.597
+"DH3","Birtley, Tyne and Wear",54.872,-1.567
+"DH4","Bournmoor, County Durham",54.854,-1.49
+"DH5","Easington Lane, Tyne and Wear",54.824,-1.454
+"DH6","Bowburn, County Durham",54.753,-1.464
+"DH7","Bearpark, County Durham",54.79,-1.664
+"DH8","Allensford, Northumberland",54.856,-1.844
+"DH9","Annfield Plain, County Durham",54.868,-1.708
+"DL1","Barmpton, Darlington",54.53,-1.536
+"DL10","Barton, North Yorkshire",54.414,-1.69
+"DL11","Aldbrough St John, North Yorkshire",54.439,-1.875
+"DL12","Barnard Castle, County Durham",54.572,-1.985
+"DL13","Bedburn, County Durham",54.716,-1.954
+"DL14","Bildershaw, County Durham",54.652,-1.69
+"DL15","Billy Row, County Durham",54.71,-1.728
+"DL16","Byers Green, County Durham",54.699,-1.604
+"DL17","Bishop Middleham, County Durham",54.681,-1.54
+"DL2","Archdeacon Newton, Darlington",54.529,-1.601
+"DL3","Darlington, Darlington",54.532,-1.57
+"DL4","Middridge, County Durham",54.63,-1.643
+"DL5","Aycliffe, County Durham",54.617,-1.576
+"DL6","Appleton Wiske, North Yorkshire",54.371,-1.389
+"DL7","Ainderby Steeple, North Yorkshire",54.338,-1.485
+"DL8","Agglethorpe, North Yorkshire",54.293,-1.786
+"DL9","Catterick Camp, North Yorkshire",54.375,-1.709
+"DN1","Doncaster, South Yorkshire",53.522,-1.129
+"DN10","Austerfield, South Yorkshire",53.427,-0.943
+"DN11","Bircotes, Nottinghamshire",53.451,-1.082
+"DN12","Conisbrough, South Yorkshire",53.483,-1.221
+"DN14","Adlingfleet, E Riding of Yorkshire",53.708,-0.936
+"DN15","Alkborough, North Lincolnshire",53.614,-0.65
+"DN16","Ashby, North Lincolnshire",53.568,-0.64
+"DN17","Althorpe, North Lincolnshire",53.572,-0.701
+"DN18","Barton-upon-Humber, North Lincolnshire",53.68,-0.446
+"DN19","Barrow Haven, North Lincolnshire",53.684,-0.359
+"DN2","",53.533,-1.102
+"DN20","Bonby, North Lincolnshire",53.558,-0.505
+"DN21","Blyborough, Lincolnshire",53.419,-0.701
+"DN22","Babworth, Nottinghamshire",53.323,-0.927
+"DN3","Armthorpe, South Yorkshire",53.546,-1.059
+"DN31","West Marsh, North Eart Lincolnshire",53.57,-0.086
+"DN32","Grimsby, North Eart Lincolnshire",53.562,-0.069
+"DN33","Scartho, North Eart Lincolnshire",53.54,-0.097
+"DN34","Armthorpe, South Yorkshire",53.557,-0.112
+"DN35","Cleethorpes, North Eart Lincolnshire",53.555,-0.035
+"DN36","Eskham, Lincolnshire",53.511,-0.037
+"DN37","Ashby cum Fenby, North Eart Lincolnshire",53.541,-0.135
+"DN38","Barnetby le Wold, North Lincolnshire",53.561,-0.392
+"DN39","Croxton, North Lincolnshire",53.617,-0.334
+"DN4","Bessacarr, South Yorkshire",53.506,-1.121
+"DN40","East Halton, North Lincolnshire",53.621,-0.224
+"DN41","Bessacarr, South Yorkshire",53.583,-0.195
+"DN5","Arksey, South Yorkshire",53.537,-1.172
+"DN6","Adwick le Street, South Yorkshire",53.596,-1.176
+"DN7","Braithwaite, South Yorkshire",53.582,-1.015
+"DN8","Moorends, South Yorkshire",53.614,-0.956
+"DN9","Auckley, South Yorkshire",53.506,-0.894
+"DT1","Dorchester, Dorset",50.711,-2.44
+"DT10","Fifehead Neville, Dorset",50.937,-2.333
+"DT11","Almer, Dorset",50.86,-2.181
+"DT2","Affpuddle, Dorset",50.749,-2.453
+"DT3","Abbotsbury, Dorset",50.641,-2.466
+"DT4","Charlestown, Dorset",50.609,-2.464
+"DT5","Easton, Dorset",50.548,-2.441
+"DT6","Bettiscombe, Dorset",50.739,-2.775
+"DT7","Dowlands, Devon",50.729,-2.946
+"DT8","Beaminster, Dorset",50.816,-2.758
+"DT9","Adber, Dorset",50.941,-2.515
+"DY1","Dudley, West Midlands",52.516,-2.096
+"DY10","Blakedown, Hereford and Worcester",52.386,-2.224
+"DY11","Blakebrook, Hereford and Worcester",52.385,-2.261
+"DY12","Bewdley, Hereford and Worcester",52.385,-2.329
+"DY13","Acton, Hereford and Worcester",52.336,-2.28
+"DY14","Baveney Wood, Shropshire",52.38,-2.462
+"DY2","Netherton, West Midlands",52.496,-2.08
+"DY3","Gornalwood, West Midlands",52.53,-2.128
+"DY4","Dudley Port, West Midlands",52.532,-2.053
+"DY5","Brierley Hill, West Midlands",52.48,-2.122
+"DY6","Kingswinford, West Midlands",52.498,-2.164
+"DY7","Bobbington, Staffordshire",52.466,-2.224
+"DY8","Amblecote, West Midlands",52.46,-2.154
+"DY9","Belbroughton, Hereford and Worcester",52.435,-2.122
+"E1","Aldgate East, Greater London",51.517,-0.058
+"E10","Lea Bridge, Greater London",51.568,-0.012
+"E11","Leytonstone, Greater London",51.568,0.014
+"E12","Aldersbrook, Greater London",51.55,0.054
+"E13","Newham, Greater London",51.527,0.027
+"E14","All Saints, Greater London",51.506,-0.019
+"E15","Pudding Mill Lane, Greater London",51.539,0.003
+"E16","Canning Town, Greater London",51.511,0.026
+"E17","Blackhorse Road, Greater London",51.586,-0.019
+"E18","South Woodford, Greater London",51.592,0.027
+"E1W","",51.508,-0.058
+"E2","Bethnal Green, Greater London",51.529,-0.061
+"E3","Bow Church, Greater London",51.528,-0.025
+"E4","Chingford Green, Greater London",51.622,-0.003
+"E5","Clapton Park, Greater London",51.559,-0.053
+"E6","Beckton, Greater London",51.526,0.056
+"E7","Forest Gate, Greater London",51.547,0.028
+"E8","Dalston Junction, Greater London",51.542,-0.064
+"E9","Hackney Wick, Greater London",51.543,-0.043
+"EC1","Aldersgate, Greater London",51.523,-0.102
+"EC1A","Aldersgate, Greater London",51.52,-0.103
+"EC1M","Aldersgate, Greater London",51.521,-0.102
+"EC1N","Aldersgate, Greater London",51.52,-0.108
+"EC1R","Aldersgate, Greater London",51.524,-0.107
+"EC1V","Aldersgate, Greater London",51.526,-0.097
+"EC1Y","Aldersgate, Greater London",51.523,-0.093
+"EC2","Bank, Greater London",51.52,-0.089
+"EC2A","Bank, Greater London",51.523,-0.085
+"EC2M","Bank, Greater London",51.518,-0.086
+"EC2N","Bank, Greater London",51.516,-0.086
+"EC2R","Bank, Greater London",51.517,-0.092
+"EC2V","Bank, Greater London",51.516,-0.093
+"EC2Y","Bank, Greater London",51.52,-0.096
+"EC3","Aldgate, Greater London",51.513,-0.083
+"EC3A","Aldgate, Greater London",51.515,-0.081
+"EC3M","Aldgate, Greater London",51.512,-0.083
+"EC3N","Aldgate, Greater London",51.513,-0.079
+"EC3P","Aldgate, Greater London",51.52,-0.101
+"EC3R","Tower of London, Greater London",51.512,-0.085
+"EC3V","Aldgate, Greater London",51.513,-0.086
+"EC4","Blackfriars, Greater London",51.514,-0.101
+"EC4A","Blackfriars, Greater London",51.516,-0.107
+"EC4M","Blackfriars, Greater London",51.515,-0.1
+"EC4N","Blackfriars, Greater London",51.514,-0.093
+"EC4R","Blackfriars, Greater London",51.512,-0.091
+"EC4V","Blackfriars, Greater London",51.513,-0.1
+"EC4Y","Blackfriars, Greater London",51.514,-0.107
+"EH1","Edinburgh, City of Edinburgh",55.952,-3.188
+"EH10","Fairmilehead, City of Edinburgh",55.92,-3.21
+"EH11","Edinburgh, City of Edinburgh",55.934,-3.249
+"EH12","Corstorphine, City of Edinburgh",55.943,-3.272
+"EH13","Colinton, City of Edinburgh",55.908,-3.241
+"EH14","Balerno, City of Edinburgh",55.91,-3.283
+"EH15","Duddingston, City of Edinburgh",55.946,-3.111
+"EH16","Craigmillar, City of Edinburgh",55.923,-3.153
+"EH17","Gilmerton, City of Edinburgh",55.907,-3.142
+"EH18","Polton, Midlothian",55.876,-3.121
+"EH19","Bonnyrigg, Midlothian",55.873,-3.104
+"EH2","Edinburgh, City of Edinburgh",55.954,-3.195
+"EH20","Loanhead, Midlothian",55.879,-3.155
+"EH21","Inveresk, East Lothian",55.939,-3.045
+"EH22","Cousland, Midlothian",55.884,-3.06
+"EH23","Arniston Engine, Midlothian",55.839,-3.051
+"EH24","Rosewell, Midlothian",55.851,-3.133
+"EH25","Bilston, Midlothian",55.858,-3.175
+"EH26","Auchendinny, Midlothian",55.833,-3.224
+"EH27","Kirknewton, West Lothian",55.89,-3.422
+"EH28","Newbridge, City of Edinburgh",55.931,-3.387
+"EH29","Kirkliston, City of Edinburgh",55.956,-3.399
+"EH3","Edinburgh, City of Edinburgh",55.954,-3.2
+"EH30","Abercorn, West Lothian",55.985,-3.384
+"EH31","Gullane, East Lothian",56.037,-2.827
+"EH32","Aberlady, East Lothian",55.968,-2.948
+"EH33","Elphinstone, East Lothian",55.942,-2.944
+"EH34","East Saltoun, East Lothian",55.909,-2.88
+"EH35","Ormiston, East Lothian",55.911,-2.942
+"EH36","Gilchriston, East Lothian",55.856,-2.851
+"EH37","Crichton, Midlothian",55.862,-2.96
+"EH38","Dewar, Scottish Borders",55.786,-2.96
+"EH39","Athelstaneford, East Lothian",56.047,-2.731
+"EH4","Blackhall, City of Edinburgh",55.962,-3.258
+"EH40","East Linton, East Lothian",55.99,-2.655
+"EH41","Bolton, East Lothian",55.948,-2.774
+"EH42","Belhaven, East Lothian",55.994,-2.525
+"EH43","Walkerburn, Scottish Borders",55.624,-3.01
+"EH44","Colquhar, Scottish Borders",55.62,-3.065
+"EH45","Cardrona, Scottish Borders",55.655,-3.191
+"EH46","Blyth Bridge, Scottish Borders",55.737,-3.35
+"EH47","Blackburn, West Lothian",55.86,-3.663
+"EH48","Armadale, West Lothian",55.901,-3.664
+"EH49","Belsyde, West Lothian",55.976,-3.598
+"EH5","Edinburgh, City of Edinburgh",55.975,-3.216
+"EH51","",56.011,-3.605
+"EH52","Broxburn, West Lothian",55.938,-3.483
+"EH53","East Calder, West Lothian",55.894,-3.476
+"EH54","Bellsquarry, West Lothian",55.892,-3.523
+"EH55","Addiewell, West Lothian",55.848,-3.572
+"EH6","Edinburgh, City of Edinburgh",55.971,-3.174
+"EH7","Edinburgh, City of Edinburgh",55.961,-3.165
+"EH8","Edinburgh, City of Edinburgh",55.949,-3.163
+"EH9","Edinburgh, City of Edinburgh",55.933,-3.185
+"EN1","Enfield, Greater London",51.653,-0.066
+"EN10","Broxbourne, Hertfordshire",51.74,-0.02
+"EN11","Hailey, Hertfordshire",51.765,-0.007
+"EN2","Botany Bay, Greater London",51.659,-0.091
+"EN3","Ponders End, Greater London",51.659,-0.038
+"EN4","Cockfosters, Greater London",51.648,-0.16
+"EN5","Arkley, Greater London",51.649,-0.195
+"EN6","Cuffley, Hertfordshire",51.699,-0.176
+"EN7","Churchgate, Hertfordshire",51.71,-0.065
+"EN8","Cheshunt, Hertfordshire",51.698,-0.032
+"EN9","Broadley Common, Essex",51.695,0.014
+"EX1","Pinhoe, Devon",50.726,-3.505
+"EX10","Bowd, Devon",50.693,-3.245
+"EX11","Alfington, Devon",50.746,-3.288
+"EX12","Axmouth, Devon",50.706,-3.081
+"EX13","Alston, Devon",50.786,-3.007
+"EX14","Awliscombe, Devon",50.813,-3.189
+"EX15","Ashill, Devon",50.877,-3.338
+"EX16","Ash Thomas, Devon",50.923,-3.491
+"EX17","Ash Bullayne, Devon",50.812,-3.702
+"EX18","Ashley, Devon",50.901,-3.887
+"EX19","Beaford, Devon",50.877,-4.004
+"EX2","Alphington, Devon",50.71,-3.517
+"EX20","Allerford, Devon",50.75,-4.019
+"EX21","Ashwater, Devon",50.805,-4.208
+"EX22","Abbots Bickington, Devon",50.828,-4.367
+"EX23","Bude, Cornwall",50.824,-4.533
+"EX24","Alphington, Devon",50.739,-3.088
+"EX3","Clyst St George, Devon",50.686,-3.458
+"EX31","Alverdiscott, Devon",51.086,-4.064
+"EX32","Benton, Devon",51.071,-4.018
+"EX33","Braunton, Devon",51.114,-4.169
+"EX34","Berrynarbor, Devon",51.199,-4.103
+"EX35","Barbrook, Devon",51.224,-3.828
+"EX36","Alswear, Devon",51.016,-3.792
+"EX37","Atherington, Devon",50.979,-3.951
+"EX38","Frithelstock Stone, Devon",50.943,-4.151
+"EX39","Abbotsham, Devon",51.014,-4.246
+"EX4","Cowley, Devon",50.73,-3.526
+"EX5","Aylesbeare, Devon",50.757,-3.439
+"EX6","Bickham House, Devon",50.677,-3.597
+"EX7","Ashcombe, Devon",50.592,-3.473
+"EX8","Exmouth, Devon",50.629,-3.401
+"EX9","Budleigh Salterton, Devon",50.639,-3.323
+"FK1","Avonbridge, Falkirk",55.985,-3.793
+"FK10","Alloa, Clackmannanshire",56.115,-3.781
+"FK11","Menstrie, Clackmannanshire",56.15,-3.85
+"FK12","Alva, Clackmannanshire",56.152,-3.8
+"FK13","Coalsnaughton, Clackmannanshire",56.151,-3.74
+"FK14","Blairingone, Perth and Kinross",56.166,-3.66
+"FK15","Ashfield, Stirling",56.203,-3.949
+"FK16","Argaty, Stirling",56.191,-4.059
+"FK17","Anie, Stirling",56.24,-4.219
+"FK18","Ardchullarie More, Stirling",56.325,-4.328
+"FK19","Ardveich, Stirling",56.371,-4.313
+"FK2","Airth, Falkirk",56.005,-3.754
+"FK20","Ardchyle, Stirling",56.406,-4.63
+"FK21","Achmore, Stirling",56.466,-4.319
+"FK3","Grangemouth, Falkirk",56.011,-3.719
+"FK4","Banknock, Falkirk",55.997,-3.906
+"FK5","Glenbervie, Falkirk",56.025,-3.818
+"FK6","Carron Bridge, Falkirk",56.022,-3.915
+"FK7","Bannockburn, Stirling",56.097,-3.917
+"FK8","Aberfoyle, Stirling",56.131,-4.051
+"FK9","Blair Drummond, Stirling",56.142,-3.94
+"FY1","Blackpool, Lancashire",53.815,-3.046
+"FY2","Bispham, Lancashire",53.845,-3.039
+"FY3","Great Marton, Lancashire",53.821,-3.021
+"FY4","Common Edge, Lancashire",53.791,-3.028
+"FY5","Burn Naze, Lancashire",53.874,-3.021
+"FY6","Carleton, Lancashire",53.868,-2.981
+"FY7","Fleetwood, Lancashire",53.916,-3.026
+"FY8","Ansdell, Lancashire",53.751,-3.002
+"G1","Glasgow, Glasgow City",55.86,-4.247
+"G11","Partick, Glasgow City",55.874,-4.312
+"G12","Glasgow, Glasgow City",55.88,-4.3
+"G13","",55.894,-4.347
+"G14","Yoker, Glasgow City",55.881,-4.349
+"G15","Drumchapel, Glasgow City",55.91,-4.365
+"G2","Glasgow, Glasgow City",55.864,-4.255
+"G20","Maryhill, Glasgow City",55.886,-4.282
+"G21","Springburn, Glasgow City",55.881,-4.22
+"G22","",55.89,-4.251
+"G23","",55.902,-4.284
+"G3","",55.866,-4.272
+"G31","",55.857,-4.208
+"G32","Carmyle, Glasgow City",55.849,-4.163
+"G33","Stepps, North Lanarkshire",55.873,-4.165
+"G34","",55.868,-4.111
+"G4","",55.868,-4.252
+"G40","",55.848,-4.222
+"G41","Glasgow, Glasgow City",55.838,-4.282
+"G42","",55.833,-4.256
+"G43","Pollokshaws, Glasgow City",55.818,-4.29
+"G44","",55.814,-4.255
+"G45","Castlemilk, Glasgow City",55.805,-4.231
+"G46","Giffnock, East Renfrewshire",55.804,-4.307
+"G5","",55.848,-4.252
+"G51","Govan, Glasgow City",55.858,-4.314
+"G52","",55.848,-4.348
+"G53","Nitshill, Glasgow City",55.822,-4.351
+"G60","Bowling, West Dunbart",55.922,-4.453
+"G61","Bearsden, East Dunbartonshire",55.919,-4.33
+"G62","Baldernock, East Dunbartonshire",55.943,-4.32
+"G63","Balafark, Stirling",56.042,-4.364
+"G64","Balmore, East Dunbartonshire",55.911,-4.217
+"G65","Banton, North Lanarkshire",55.973,-4.057
+"G66","Auchinloch, North Lanarkshire",55.941,-4.153
+"G67","Abronhill, North Lanarkshire",55.947,-3.985
+"G68","Balloch, North Lanarkshire",55.953,-4.01
+"G69","Chryston, North Lanarkshire",55.874,-4.102
+"G71","Bothwell, South Lanarkshire",55.822,-4.073
+"G72","Calderglen, South Lanarkshire",55.804,-4.128
+"G73","Rutherglen, South Lanarkshire",55.82,-4.206
+"G74","East Kilbride, South Lanarkshire",55.769,-4.173
+"G76","Busby, East Renfrewshire",55.778,-4.272
+"G77","Malletsheugh, East Renfrewshire",55.774,-4.33
+"G78","Barrhead, East Renfrewshire",55.793,-4.409
+"G81","Clydebank, West Dunbart",55.913,-4.406
+"G82","Ardmore, Argyll and Bute",55.952,-4.574
+"G83","Aldochlay, Argyll and Bute",56.012,-4.585
+"G84","Ardpeaton, Argyll and Bute",56.014,-4.754
+"GL1","Gloucester, Gloucestershire",51.86,-2.239
+"GL10","Eastington, Gloucestershire",51.743,-2.284
+"GL11","Cam, Gloucestershire",51.689,-2.356
+"GL12","Alderley, Gloucestershire",51.625,-2.385
+"GL13","Berkeley, Gloucestershire",51.693,-2.459
+"GL14","Awre, Gloucestershire",51.817,-2.479
+"GL15","Alvington, Gloucestershire",51.736,-2.551
+"GL16","Berry Hill, Gloucestershire",51.795,-2.611
+"GL17","Blaisdon, Gloucestershire",51.856,-2.514
+"GL18","",51.941,-2.414
+"GL19","Apperley, Gloucestershire",51.943,-2.286
+"GL2","Arlingham, Gloucestershire",51.846,-2.267
+"GL20","Alderton, Gloucestershire",52.003,-2.13
+"GL3","Brockworth, Gloucestershire",51.865,-2.177
+"GL4","Barnwood, Gloucestershire",51.842,-2.216
+"GL5","Amberley, Gloucestershire",51.738,-2.219
+"GL50","Cheltenham, Gloucestershire",51.9,-2.08
+"GL51","Badgeworth, Gloucestershire",51.899,-2.107
+"GL52","",51.916,-2.058
+"GL53","Coberley, Gloucestershire",51.881,-2.067
+"GL54","Aldsworth, Gloucestershire",51.897,-1.864
+"GL55","Aston Subedge, Gloucestershire",52.061,-1.768
+"GL56","Adlestrop, Gloucestershire",51.988,-1.704
+"GL6","Barton End, Gloucestershire",51.735,-2.192
+"GL7","Ablington, Gloucestershire",51.713,-1.897
+"GL8","Ashley, Gloucestershire",51.642,-2.171
+"GL9","Acton Turville, South Gloucestershire",51.557,-2.298
+"GU1","Burpham, Surrey",51.243,-0.564
+"GU10","",51.197,-0.796
+"GU11","Farnborough, Hampshire",51.248,-0.761
+"GU12","Aldershot, Hampshire",51.251,-0.731
+"GU13","Church Crookham, Hampshire",51.274,-0.837
+"GU14","Cove, Hampshire",51.293,-0.761
+"GU15","Camberley, Surrey",51.334,-0.739
+"GU16","Deepcut, Surrey",51.311,-0.729
+"GU17","Blackwater, Hampshire",51.329,-0.785
+"GU18","Lightwater, Surrey",51.349,-0.67
+"GU19","Bagshot, Surrey",51.36,-0.69
+"GU2","Onslow Village, Surrey",51.245,-0.592
+"GU20","Windlesham, Surrey",51.368,-0.656
+"GU21","Horsell, Surrey",51.32,-0.577
+"GU22","Mayford, Surrey",51.312,-0.55
+"GU23","Ockham, Surrey",51.297,-0.508
+"GU24","Bisley, Surrey",51.329,-0.626
+"GU25","Virginia Water, Surrey",51.401,-0.57
+"GU26","Beacon Hill, Surrey",51.112,-0.746
+"GU27","Camelsdale, Surrey",51.082,-0.718
+"GU28","Balls Cross, West Sussex",50.99,-0.63
+"GU29","Bepton, West Sussex",50.984,-0.746
+"GU3","Compton, Surrey",51.246,-0.624
+"GU30","Bramshott, Hampshire",51.074,-0.803
+"GU31","Buriton, Hampshire",50.996,-0.902
+"GU32","East Meon, Hampshire",51.008,-0.97
+"GU33","Blackmoor, Hampshire",51.049,-0.891
+"GU34","Alton, Hampshire",51.139,-0.983
+"GU35","Arford, Hampshire",51.116,-0.846
+"GU4","Blackheath, Surrey",51.243,-0.541
+"GU46","Darby Green, Hampshire",51.337,-0.825
+"GU47","Sandhurst, Berkshire",51.348,-0.788
+"GU5","Albury Heath, Surrey",51.203,-0.515
+"GU51","Albury Heath, Surrey",51.283,-0.84
+"GU52","Albury Heath, Surrey",51.264,-0.838
+"GU6","Alfold Crossways, Surrey",51.141,-0.482
+"GU7","Busbridge, Surrey",51.189,-0.61
+"GU8","Bowlhead Green, Surrey",51.151,-0.64
+"GU9","Badshot Lea, Surrey",51.218,-0.793
+"HA0","Alperton, Greater London",51.55,-0.304
+"HA1","Greenhill, Greater London",51.58,-0.336
+"HA2","Harrow, Greater London",51.574,-0.357
+"HA3","Harrow Weald, Greater London",51.592,-0.32
+"HA4","Ruislip, Greater London",51.57,-0.409
+"HA5","Eastcote, Greater London",51.594,-0.385
+"HA6","Eastbury, Hertfordshire",51.61,-0.42
+"HA7","Stanmore, Greater London",51.61,-0.307
+"HA8","Burnt Oak, Greater London",51.611,-0.272
+"HA9","Brent, Greater London",51.559,-0.287
+"HD1","Huddersfield, West Yorkshire",53.647,-1.788
+"HD2","",53.668,-1.775
+"HD3","Lindley, West Yorkshire",53.653,-1.828
+"HD4","Almondbury, West Yorkshire",53.626,-1.796
+"HD5","Kirkheaton, West Yorkshire",53.647,-1.746
+"HD6","Brighouse, West Yorkshire",53.702,-1.782
+"HD7","Austonley, West Yorkshire",53.624,-1.877
+"HD8","Clayton West, West Yorkshire",53.601,-1.679
+"HD9","",53.58,-1.795
+"HG1","Bilton, North Yorkshire",54,-1.533
+"HG2","",53.987,-1.526
+"HG3","Beckwithshaw, North Yorkshire",54.031,-1.616
+"HG4","Aldburgh, North Yorkshire",54.156,-1.566
+"HG5","Arkendale, North Yorkshire",54.013,-1.457
+"HP1","Bourne End, Hertfordshire",51.755,-0.488
+"HP10","Flackwell Heath, Buckinghamshire",51.609,-0.702
+"HP11","Wycombe Marsh, Buckinghamshire",51.624,-0.744
+"HP12","Booker, Buckinghamshire",51.625,-0.778
+"HP13","Downley, Buckinghamshire",51.633,-0.741
+"HP14","",51.649,-0.828
+"HP15","Cryers Hill, Buckinghamshire",51.656,-0.712
+"HP16","Ballinger Common, Buckinghamshire",51.702,-0.717
+"HP17","Aston Sandford, Buckinghamshire",51.776,-0.87
+"HP18","Ashendon, Buckinghamshire",51.814,-0.982
+"HP19","Bourne End, Hertfordshire",51.822,-0.825
+"HP2","Gaddesden Row, Hertfordshire",51.762,-0.452
+"HP20","Aylesbury, Buckinghamshire",51.819,-0.803
+"HP21","Walton, Buckinghamshire",51.806,-0.805
+"HP22","Aston Abbotts, Buckinghamshire",51.806,-0.766
+"HP23","Aldbury, Hertfordshire",51.795,-0.66
+"HP27","Askett, Buckinghamshire",51.719,-0.83
+"HP3","Apsley, Hertfordshire",51.737,-0.47
+"HP4","Berkhamsted, Hertfordshire",51.767,-0.567
+"HP5","Ashley Green, Buckinghamshire",51.712,-0.608
+"HP6","Chesham Bois, Buckinghamshire",51.678,-0.598
+"HP7","Amersham, Buckinghamshire",51.665,-0.608
+"HP8","Chalfont St Giles, Buckinghamshire",51.642,-0.573
+"HP9","Beaconsfield, Buckinghamshire",51.61,-0.639
+"HR1","Bartestree, Hereford and Worcester",52.064,-2.669
+"HR2","Abbey Dore, Hereford and Worcester",52.01,-2.783
+"HR3","Ailey, Hereford and Worcester",52.094,-3.075
+"HR4","Birley, Hereford and Worcester",52.088,-2.766
+"HR5","Bryngwyn, Powys",52.192,-3.027
+"HR6","Ashton, Hereford and Worcester",52.233,-2.771
+"HR7","Bredenbury, Hereford and Worcester",52.186,-2.521
+"HR8","Ashperton, Hereford and Worcester",52.044,-2.444
+"HR9","Aston Crews, Hereford and Worcester",51.908,-2.582
+"HS1","Lacasdal, Western Isles",58.213,-6.381
+"HS2","Achadh Mor, Western Isles",58.249,-6.468
+"HS3","Abhainnsuidhe, Western Isles",57.879,-6.853
+"HS4","Kennavay, Western Isles",57.87,-6.69
+"HS5","An t-Ob, Western Isles",57.8,-6.961
+"HS6","Baile Glas, Western Isles",57.601,-7.299
+"HS7","Aird, Western Isles",57.447,-7.34
+"HS8","",57.233,-7.346
+"HS9","Allathasdal, Western Isles",56.972,-7.472
+"HU1","Kingston upon Hull, Kingston upon Hull",53.743,-0.335
+"HU10","Anlaby, E Riding of Yorkshire",53.752,-0.441
+"HU11","Aldbrough, E Riding of Yorkshire",53.826,-0.22
+"HU12","Burstwick, E Riding of Yorkshire",53.724,-0.13
+"HU13","Hessle, E Riding of Yorkshire",53.725,-0.435
+"HU14","North Ferriby, E Riding of Yorkshire",53.728,-0.5
+"HU15","Brantingham, E Riding of Yorkshire",53.749,-0.622
+"HU16","Cottingham, E Riding of Yorkshire",53.781,-0.419
+"HU17","Arram, E Riding of Yorkshire",53.847,-0.427
+"HU18","Hornsea, E Riding of Yorkshire",53.909,-0.167
+"HU19","Hollym, E Riding of Yorkshire",53.723,0.036
+"HU2","",53.75,-0.338
+"HU20","Little Weighton, E Riding of Yorkshire",53.788,-0.513
+"HU3","",53.742,-0.365
+"HU4","",53.736,-0.4
+"HU5","",53.76,-0.375
+"HU6","Dunswell, E Riding of Yorkshire",53.781,-0.369
+"HU7","Stoneferry, Kingston upon Hull",53.789,-0.325
+"HU8","",53.769,-0.299
+"HU9","Marfleet, Kingston upon Hull",53.756,-0.286
+"HX1","Halifax, West Yorkshire",53.721,-1.87
+"HX2","Holmfield, West Yorkshire",53.738,-1.904
+"HX3","Boothtown, West Yorkshire",53.726,-1.844
+"HX4","Barkisland, West Yorkshire",53.679,-1.88
+"HX5","Elland, West Yorkshire",53.686,-1.835
+"HX6","Booth Wood, West Yorkshire",53.698,-1.924
+"HX7","Blackshaw Head, West Yorkshire",53.739,-2.007
+"IG1","Ilford, Greater London",51.559,0.075
+"IG10","High Beach, Essex",51.648,0.066
+"IG11","Barking, Greater London",51.535,0.094
+"IG2","Fairlop Waters, Greater London",51.574,0.082
+"IG3","Seven Kings, Greater London",51.562,0.101
+"IG4","",51.577,0.055
+"IG5","",51.588,0.066
+"IG6","Barkingside, Greater London",51.593,0.089
+"IG7","Chigwell Row, Essex",51.613,0.089
+"IG8","Woodford Bridge, Greater London",51.607,0.034
+"IG9","Buckhurst Hill, Essex",51.623,0.04
+"IP1","Akenham, Suffolk",52.067,1.142
+"IP10","Brightwell, Suffolk",52.019,1.27
+"IP11","Felixstowe, Suffolk",51.97,1.334
+"IP12","Alderton, Suffolk",52.092,1.373
+"IP13","Badingham, Suffolk",52.185,1.321
+"IP14","Ashfield, Suffolk",52.206,1.035
+"IP15","Aldeburgh, Suffolk",52.157,1.597
+"IP16","Aldringham, Suffolk",52.204,1.586
+"IP17","Carlton, Suffolk",52.23,1.503
+"IP18","Blackwater, Suffolk",52.33,1.673
+"IP19","All Saints South Elmham, Suffolk",52.34,1.495
+"IP2","Chantry, Suffolk",52.045,1.136
+"IP20","Alburgh, Norfolk",52.406,1.321
+"IP21","Ashfield Green, Suffolk",52.364,1.236
+"IP22","Blo Norton, Norfolk",52.376,1.053
+"IP23","Bedingfield, Suffolk",52.307,1.125
+"IP24","Barnham, Suffolk",52.419,0.759
+"IP25","Ashill, Norfolk",52.586,0.84
+"IP26","Bodney, Norfolk",52.508,0.577
+"IP27","Brandon, Suffolk",52.43,0.586
+"IP28","Barton Mills, Suffolk",52.326,0.549
+"IP29","Barrow, Suffolk",52.193,0.663
+"IP3","",52.041,1.188
+"IP30","Beyton Green, Suffolk",52.209,0.837
+"IP31","Ampton, Suffolk",52.291,0.828
+"IP32","",52.254,0.717
+"IP33","Bury St Edmunds, Suffolk",52.242,0.708
+"IP4","",52.06,1.181
+"IP5","Kesgrave, Suffolk",52.061,1.242
+"IP6","Ashbocking, Suffolk",52.131,1.116
+"IP7","Aldham, Suffolk",52.068,0.95
+"IP8","Belstead, Suffolk",52.062,1.083
+"IP9","Bentley, Suffolk",51.99,1.149
+"IV1","Abersky, Highland",57.487,-4.231
+"IV10","Balmungie, Highland",57.585,-4.126
+"IV11","Craighead, Highland",57.677,-4.038
+"IV12","Achindown, Highland",57.574,-3.864
+"IV13","Balvraid, Highland",57.343,-4.013
+"IV14","Auchterneed, Highland",57.586,-4.547
+"IV15","Dingwall, Highland",57.599,-4.43
+"IV16","Ardullie, Highland",57.665,-4.337
+"IV17","Achandunie, Highland",57.7,-4.26
+"IV18","Achnagarron, Highland",57.702,-4.155
+"IV19","Aldie, Highland",57.805,-4.061
+"IV2","Culcabock, Highland",57.468,-4.19
+"IV20","Balaldie, Highland",57.786,-3.907
+"IV21","Auchtercairn, Highland",57.724,-5.72
+"IV22","Achgarve, Highland",57.742,-5.506
+"IV23","Ardcharnich, Highland",57.773,-5.01
+"IV24","Achnahanat, Highland",57.891,-4.355
+"IV25","Achosnich, Highland",57.891,-4.042
+"IV26","Achiltibuie, Highland",57.916,-5.173
+"IV27","Achany, Highland",58.277,-4.8
+"IV28","Ardochu, Highland",58.015,-4.157
+"IV3","Abriachan, Highland",57.477,-4.245
+"IV30","Altonside, Moray",57.654,-3.327
+"IV31","Branderburgh, Moray",57.717,-3.289
+"IV32","Auchenhalrig, Moray",57.632,-3.11
+"IV36","Ardoch, Moray",57.611,-3.604
+"IV4","Ardnagrask, Highland",57.448,-4.533
+"IV40","Allt-na-subh, Highland",57.275,-5.65
+"IV41","Kyleakin, Highland",57.274,-5.735
+"IV42","Breakish, Highland",57.239,-5.829
+"IV43","Camus Croise, Highland",57.156,-5.81
+"IV44","Kilbeg, Highland",57.115,-5.874
+"IV45","Aird of Sleat, Highland",57.067,-5.906
+"IV46","Achnacloich, Highland",57.114,-5.984
+"IV47","Bualintur, Highland",57.294,-6.344
+"IV48","Sconser, Highland",57.311,-6.098
+"IV49","Blackhill, Highland",57.228,-5.946
+"IV5","Achnagairn, Highland",57.468,-4.411
+"IV51","Balgown, Highland",57.481,-6.246
+"IV52","Plockton, Highland",57.337,-5.651
+"IV53","Achmore, Highland",57.344,-5.554
+"IV54","Achintee, Highland",57.431,-5.616
+"IV55","Balmore, Highland",57.459,-6.611
+"IV56","Bracadale, Highland",57.366,-6.429
+"IV6","Balvaird, Highland",57.526,-4.458
+"IV63","Balvaird, Highland",57.323,-4.505
+"IV7","Alcaig, Highland",57.584,-4.384
+"IV8","Belmaduthy, Highland",57.554,-4.265
+"IV9","Avoch, Highland",57.569,-4.177
+"KA1","Adamhill, South Ayrshire",55.596,-4.496
+"KA10","Barassie, South Ayrshire",55.549,-4.648
+"KA11","Dreghorn, North Ayrshire",55.618,-4.626
+"KA12","Irvine, North Ayrshire",55.619,-4.664
+"KA13","Auchentiber, North Ayrshire",55.655,-4.699
+"KA14","Glengarnock, North Ayrshire",55.74,-4.671
+"KA15","Barrmill, North Ayrshire",55.748,-4.625
+"KA16","Greenholm, East Ayrshire",55.607,-4.33
+"KA17","Darvel, East Ayrshire",55.611,-4.282
+"KA18","Afton Bridgend, East Ayrshire",55.451,-4.239
+"KA19","Blairquhan, South Ayrshire",55.346,-4.667
+"KA2","Crosshouse, East Ayrshire",55.596,-4.563
+"KA20","Stevenston, North Ayrshire",55.641,-4.751
+"KA21","Saltcoats, North Ayrshire",55.641,-4.783
+"KA22","Ardrossan, North Ayrshire",55.65,-4.807
+"KA23","Crosbie, North Ayrshire",55.691,-4.855
+"KA24","Blairpark, North Ayrshire",55.71,-4.715
+"KA25","Kilbirnie, North Ayrshire",55.753,-4.688
+"KA26","Aldons, South Ayrshire",55.219,-4.834
+"KA27","Balliekine, North Ayrshire",55.539,-5.172
+"KA28","Ballochmartin, North Ayrshire",55.755,-4.924
+"KA29","Fairlie, North Ayrshire",55.757,-4.853
+"KA3","Cunninghamhead, North Ayrshire",55.644,-4.495
+"KA30","Largs, North Ayrshire",55.797,-4.862
+"KA4","Galston, East Ayrshire",55.599,-4.382
+"KA5","Ballochmyle, East Ayrshire",55.51,-4.386
+"KA6","Annbank, South Ayrshire",55.415,-4.505
+"KA7","Alloway, South Ayrshire",55.448,-4.628
+"KA8","New Prestwick, South Ayrshire",55.472,-4.612
+"KA9","Monkton, South Ayrshire",55.497,-4.604
+"KT1","Kingston upon Thames, Greater London",51.407,-0.297
+"KT10","Claygate, Surrey",51.368,-0.354
+"KT11","Cobham, Surrey",51.328,-0.402
+"KT12","Hersham, Surrey",51.377,-0.407
+"KT13","Weybridge, Surrey",51.368,-0.449
+"KT14","Byfleet, Surrey",51.339,-0.486
+"KT15","Addlestone, Surrey",51.363,-0.494
+"KT16","Chertsey, Surrey",51.383,-0.514
+"KT17","Epsom, Surrey",51.341,-0.248
+"KT18","Headley, Surrey",51.317,-0.262
+"KT19","Kingston upon Thames, Greater London",51.351,-0.267
+"KT2","Norbiton, Greater London",51.416,-0.289
+"KT20","Burgh Heath, Surrey",51.286,-0.23
+"KT21","Ashtead, Surrey",51.311,-0.301
+"KT22","Givons Grove, Surrey",51.301,-0.337
+"KT23","Fetcham, Surrey",51.281,-0.37
+"KT24","East Horsley, Surrey",51.269,-0.429
+"KT3","New Malden, Greater London",51.399,-0.256
+"KT4","Malden, Greater London",51.378,-0.242
+"KT5","",51.392,-0.286
+"KT6","Surbiton, Greater London",51.389,-0.299
+"KT7","Thames Ditton, Surrey",51.389,-0.328
+"KT8","East Molesey, Surrey",51.401,-0.363
+"KT9","Chessington, Greater London",51.364,-0.301
+"KW1","Ackergill, Highland",58.458,-3.121
+"KW10","Aberscross, Highland",57.975,-3.975
+"KW11","Achargary, Highland",58.305,-4.13
+"KW12","Achies, Highland",58.506,-3.491
+"KW13","Achiemore, Highland",58.455,-3.895
+"KW14","Achina, Highland",58.589,-3.556
+"KW15","Berstane, Orkney Islands",58.981,-2.959
+"KW16","Aith, Orkney Islands",58.96,-3.274
+"KW17","Abune-the-Hill, Orkney Islands",59.042,-3.003
+"KW2","Bruan, Highland",58.349,-3.163
+"KW3","Blackness, Highland",58.308,-3.279
+"KW5","Achavanich, Highland",58.287,-3.382
+"KW6","Achnaclyth, Highland",58.249,-3.442
+"KW7","Badbea, Highland",58.187,-3.5
+"KW8","Craggie, Highland",58.116,-3.664
+"KW9","Achrimsdale, Highland",58.014,-3.858
+"KY1","Coaltown of Wemyss, Fife",56.128,-3.137
+"KY10","Abercrombie, Fife",56.231,-2.7
+"KY11","Charlestown, Fife",56.047,-3.415
+"KY12","Balgonar, Fife",56.077,-3.492
+"KY13","Arlary, Perth and Kinross",56.208,-3.432
+"KY14","Auchtermuchty, Fife",56.31,-3.239
+"KY15","Baldinnie, Fife",56.3,-3.051
+"KY16","Balmullo, Fife",56.342,-2.819
+"KY2","Auchtertool, Fife",56.123,-3.182
+"KY3","Aberdour, Fife",56.064,-3.23
+"KY4","Cowdenbeath, Fife",56.115,-3.361
+"KY5","Auchterderran, Fife",56.145,-3.294
+"KY6","Auchmuirbridge, Fife",56.197,-3.197
+"KY7","Balbirnie, Fife",56.197,-3.154
+"KY8","Backmuir of New Gilston, Fife",56.197,-3.011
+"KY9","Colinsburgh, Fife",56.21,-2.833
+"L1","",53.402,-2.979
+"L10","Aintree, Merseyside",53.474,-2.926
+"L11","",53.448,-2.914
+"L12","West Derby, Merseyside",53.435,-2.895
+"L13","",53.417,-2.919
+"L14","Knotty Ash, Merseyside",53.418,-2.879
+"L15","",53.397,-2.919
+"L16","Childwall, Merseyside",53.398,-2.887
+"L17","Aigburth, Merseyside",53.378,-2.94
+"L18","Allerton, Merseyside",53.38,-2.907
+"L19","Garston, Merseyside",53.359,-2.902
+"L2","",53.407,-2.989
+"L20","Bootle, Merseyside",53.452,-2.988
+"L21","Litherland, Merseyside",53.471,-2.999
+"L22","Seaforth, Merseyside",53.477,-3.026
+"L23","Crosby, Merseyside",53.491,-3.022
+"L24","Speke, Merseyside",53.343,-2.836
+"L25","Gateacre, Merseyside",53.378,-2.862
+"L26","Halewood, Merseyside",53.364,-2.832
+"L27","",53.388,-2.837
+"L28","",53.435,-2.864
+"L29","Lunt, Merseyside",53.507,-2.983
+"L3","Liverpool, Merseyside",53.409,-2.983
+"L30","Ford, Merseyside",53.484,-2.971
+"L31","Lydiate, Merseyside",53.513,-2.937
+"L32","Kirkby, Merseyside",53.478,-2.888
+"L33","",53.489,-2.875
+"L34","Knowsley, Merseyside",53.437,-2.815
+"L35","Rainhill Stoops, Merseyside",53.415,-2.782
+"L36","Huyton, Merseyside",53.414,-2.84
+"L37","Formby, Merseyside",53.557,-3.062
+"L38","Hightown, Merseyside",53.524,-3.05
+"L39","Aughton Park, Lancashire",53.562,-2.896
+"L4","",53.438,-2.96
+"L40","Bescar, Lancashire",53.602,-2.841
+"L5","",53.425,-2.975
+"L6","",53.419,-2.95
+"L69","",53.407,-2.974
+"L7","",53.406,-2.948
+"L70","",53.409,-2.97
+"L8","",53.39,-2.962
+"L9","Walton, Merseyside",53.461,-2.952
+"LA1","Lancaster, Lancashire",54.046,-2.799
+"LA10","Cautley, Cumbria",54.314,-2.493
+"LA11","Allithwaite, Cumbria",54.2,-2.924
+"LA12","Aldingham, Cumbria",54.203,-3.082
+"LA13","Dendron, Cumbria",54.118,-3.198
+"LA14","Barrow-in-Furness, Cumbria",54.118,-3.23
+"LA15","Dalton-in-Furness, Cumbria",54.156,-3.178
+"LA16","Askam in Furness, Cumbria",54.186,-3.202
+"LA17","Beck Side, Cumbria",54.239,-3.175
+"LA18","Broadgate, Cumbria",54.215,-3.275
+"LA19","Annaside, Cumbria",54.293,-3.375
+"LA2","Abbeystead, Lancashire",54.066,-2.673
+"LA20","Bank End, Cumbria",54.294,-3.205
+"LA21","Bowmanstead, Cumbria",54.364,-3.072
+"LA22","Ambleside, Cumbria",54.422,-2.987
+"LA23","Bowness-on-Windermere, Cumbria",54.371,-2.911
+"LA3","Heaton, Lancashire",54.051,-2.877
+"LA4","Morecambe, Lancashire",54.07,-2.852
+"LA5","Arnside, Cumbria",54.143,-2.79
+"LA6","Arkholme, Lancashire",54.176,-2.611
+"LA7","Beetham, Cumbria",54.226,-2.772
+"LA8","Beck Foot, Cumbria",54.323,-2.759
+"LA9","Burneside, Cumbria",54.325,-2.742
+"LD1","Abbeycwmhir, Powys",52.261,-3.365
+"LD2","Aberduhonw, Powys",52.141,-3.393
+"LD3","Abercynafon, Powys",51.96,-3.371
+"LD4","Cefn-gorwydd, Powys",52.118,-3.555
+"LD5","Abergwesyn, Powys",52.127,-3.616
+"LD6","Bwlch-y-sarnau, Powys",52.309,-3.508
+"LD7","Beguildy, Powys",52.352,-3.085
+"LD8","Burlingjobb, Powys",52.268,-3.043
+"LE1","Leicester, Leicester",52.634,-1.128
+"LE10","Aston Flamville, Leicestershire",52.537,-1.368
+"LE11","Loughborough, Leicestershire",52.769,-1.216
+"LE12","Barrow upon Soar, Leicestershire",52.766,-1.192
+"LE13","Melton Mowbray, Leicestershire",52.765,-0.885
+"LE14","Ab Kettleby, Leicestershire",52.784,-0.895
+"LE15","Allexton, Leicestershire",52.656,-0.701
+"LE16","Arthingworth, Northamptonshire",52.486,-0.892
+"LE17","Ashby Magna, Leicestershire",52.467,-1.177
+"LE18","Kilby, Leicestershire",52.583,-1.111
+"LE2","Aylestone, Leicester",52.609,-1.115
+"LE3","Braunstone, Leicester",52.628,-1.181
+"LE4","Belgrave, Leicester",52.663,-1.123
+"LE5","Humberstone, Leicester",52.636,-1.086
+"LE6","Groby, Leicestershire",52.663,-1.242
+"LE65","Ashby de la Zouch, Leicestershire",52.748,-1.468
+"LE67","Bagworth, Leicestershire",52.716,-1.36
+"LE7","Anstey, Leicestershire",52.678,-1.068
+"LE8","Arnesby, Leicestershire",52.553,-1.098
+"LE9","Barwell, Leicestershire",52.57,-1.287
+"LL11","Brymbo, Wrexham",53.063,-3.035
+"LL12","Burton Green, Wrexham",53.086,-2.988
+"LL13","Bangor-is-y-coed, Wrexham",53.036,-2.96
+"LL14","Acrefair, Wrexham",52.992,-3.051
+"LL15","Bontuchel, Denbighshire",53.103,-3.315
+"LL16","Bodfari, Denbighshire",53.185,-3.432
+"LL17","Graig, Denbighshire",53.253,-3.435
+"LL18","Bodelwyddan, Denbighshire",53.31,-3.475
+"LL19","Gronant, Flintshire",53.331,-3.408
+"LL20","Dolywern, Wrexham",52.959,-3.159
+"LL21","Bethel, Gwynedd",52.99,-3.409
+"LL22","Abergele, Conwy",53.269,-3.593
+"LL23","Bala, Gwynedd",52.905,-3.6
+"LL24","Betws-y-coed, Conwy",53.057,-3.785
+"LL25","Blaenau Dolwyddelan, Conwy",53.054,-3.878
+"LL26","Capel Garmon, Conwy",53.139,-3.785
+"LL27","Trefriw, Conwy",53.147,-3.824
+"LL28","Bryn-y-maen, Conwy",53.288,-3.76
+"LL29","Colwyn Bay, Conwy",53.289,-3.708
+"LL30","Gogarth, Conwy",53.318,-3.815
+"LL31","Deganwy, Conwy",53.291,-3.81
+"LL32","Caerhun, Conwy",53.26,-3.839
+"LL33","Abergwyngregyn, Gwynedd",53.25,-3.98
+"LL34","Capelulo, Conwy",53.271,-3.912
+"LL35","Aberdyfi, Gwynedd",52.547,-4.041
+"LL36","Abergynolwyn, Gwynedd",52.604,-4.063
+"LL37","Llwyngwril, Gwynedd",52.666,-4.083
+"LL38","Fairbourne, Gwynedd",52.698,-4.039
+"LL39","Arthog, Gwynedd",52.711,-4.011
+"LL40","Abergwynant, Gwynedd",52.756,-3.875
+"LL41","Bethania, Gwynedd",52.969,-3.938
+"LL42","Barmouth, Gwynedd",52.725,-4.054
+"LL43","Tal-y-bont, Gwynedd",52.774,-4.092
+"LL44","Coed Ystumgwern, Gwynedd",52.791,-4.096
+"LL45","Llanbedr, Gwynedd",52.82,-4.095
+"LL46","Eisingrug, Gwynedd",52.854,-4.106
+"LL47","Talsarnau, Gwynedd",52.902,-4.062
+"LL48","Cae Ddafydd, Gwynedd",52.936,-4.07
+"LL49","Borth-y-Gest, Gwynedd",52.929,-4.138
+"LL51","Bryncir, Gwynedd",52.974,-4.238
+"LL52","Criccieth, Gwynedd",52.925,-4.24
+"LL53","Aber, Gwynedd",52.884,-4.491
+"LL54","Aberdesach, Gwynedd",53.059,-4.285
+"LL55","Beddgelert, Gwynedd",53.134,-4.204
+"LL56","Y Felinheli, Gwynedd",53.187,-4.199
+"LL57","Bangor, Gwynedd",53.207,-4.111
+"LL58","Beaumaris, Isle of Anglesey",53.28,-4.099
+"LL59","Llandegfan, Isle of Anglesey",53.235,-4.159
+"LL60","Gaerwen, Isle of Anglesey",53.215,-4.27
+"LL61","Brynsiencyn, Isle of Anglesey",53.195,-4.262
+"LL62","Aberffraw, Isle of Anglesey",53.21,-4.385
+"LL63","",53.219,-4.471
+"LL64","Llanfaelog, Isle of Anglesey",53.228,-4.517
+"LL65","Bodedern, Isle of Anglesey",53.301,-4.569
+"LL66","Rhosgoch, Isle of Anglesey",53.381,-4.405
+"LL67","Cemaes, Isle of Anglesey",53.411,-4.456
+"LL68","Amlwch Port, Isle of Anglesey",53.398,-4.377
+"LL69","Penysarn, Isle of Anglesey",53.386,-4.318
+"LL70","Dulas, Isle of Anglesey",53.364,-4.287
+"LL71","Ceidio, Isle of Anglesey",53.327,-4.368
+"LL72","Moelfre, Isle of Anglesey",53.35,-4.24
+"LL73","Llanallgo, Isle of Anglesey",53.335,-4.244
+"LL74","Benllech, Isle of Anglesey",53.316,-4.232
+"LL75","Pentraeth, Isle of Anglesey",53.283,-4.218
+"LL76","Llanbedrgoch, Isle of Anglesey",53.301,-4.238
+"LL77","Bodffordd, Isle of Anglesey",53.26,-4.311
+"LL78","Brynteg, Isle of Anglesey",53.317,-4.262
+"LN1","Brampton, Lincolnshire",53.259,-0.587
+"LN10","Kirkby on Bain, Lincolnshire",53.158,-0.217
+"LN11","Alvingham, Lincolnshire",53.373,0.024
+"LN12","Mablethorpe, Lincolnshire",53.329,0.266
+"LN13","Aby, Lincolnshire",53.265,0.184
+"LN2","Atterby, Lincolnshire",53.255,-0.508
+"LN3","Apley, Lincolnshire",53.243,-0.419
+"LN4","Ashby de la Launde, Lincolnshire",53.15,-0.384
+"LN5","Aubourn, Lincolnshire",53.172,-0.556
+"LN6","Boultham, Lincolnshire",53.203,-0.594
+"LN7","Cabourne, Lincolnshire",53.492,-0.343
+"LN8","Claxby, Lincolnshire",53.373,-0.324
+"LN9","Ashby Puerorum, Lincolnshire",53.217,-0.111
+"LS1","Leeds, West Yorkshire",53.797,-1.548
+"LS10","Middleton, West Yorkshire",53.762,-1.531
+"LS11","Beeston, West Yorkshire",53.776,-1.556
+"LS12","New Farnley, West Yorkshire",53.791,-1.596
+"LS13","Leeds, West Yorkshire",53.81,-1.634
+"LS14","Scarcroft, West Yorkshire",53.828,-1.456
+"LS15","Barwick in Elmet, West Yorkshire",53.806,-1.444
+"LS16","Adel, West Yorkshire",53.851,-1.602
+"LS17","Alwoodley Park, West Yorkshire",53.859,-1.527
+"LS18","Horsforth, West Yorkshire",53.841,-1.641
+"LS19","Rawdon, West Yorkshire",53.86,-1.683
+"LS2","Leeds, West Yorkshire",53.801,-1.545
+"LS20","Guiseley, West Yorkshire",53.873,-1.713
+"LS21","Askwith, North Yorkshire",53.911,-1.679
+"LS22","Bickerton, North Yorkshire",53.932,-1.394
+"LS23","Boston Spa, West Yorkshire",53.904,-1.354
+"LS24","Barkston, North Yorkshire",53.87,-1.252
+"LS25","Aberford, West Yorkshire",53.785,-1.33
+"LS26","Great Preston, West Yorkshire",53.752,-1.448
+"LS27","Churwell, West Yorkshire",53.749,-1.602
+"LS28","Calverley, West Yorkshire",53.802,-1.669
+"LS29","Addingham, West Yorkshire",53.92,-1.803
+"LS3","",53.801,-1.56
+"LS4","",53.809,-1.581
+"LS5","Kirkstall, West Yorkshire",53.819,-1.601
+"LS6","",53.82,-1.568
+"LS7","Chapel Allerton, West Yorkshire",53.818,-1.539
+"LS8","Gledhow, West Yorkshire",53.824,-1.509
+"LS9","Halton, Leeds",53.799,-1.509
+"LU1","Caddington, Bedfordshire",51.874,-0.424
+"LU2","Cockernhoe, Hertfordshire",51.892,-0.395
+"LU3","Limbury, Luton",51.909,-0.442
+"LU4","Chalton, Bedfordshire",51.898,-0.467
+"LU5","Fancott, Bedfordshire",51.909,-0.513
+"LU6","Church End, Bedfordshire",51.877,-0.536
+"LU7","Billington, Bedfordshire",51.909,-0.664
+"M1","Manchester, Greater Manchester",53.477,-2.235
+"M11","",53.479,-2.18
+"M12","Levenshulme, Greater Manchester",53.464,-2.201
+"M13","Rusholm, Greater Manchester",53.461,-2.215
+"M14","",53.448,-2.224
+"M15","",53.466,-2.25
+"M16","",53.455,-2.263
+"M17","Trafford Park, Greater Manchester",53.469,-2.318
+"M18","Gorton, Greater Manchester",53.461,-2.169
+"M19","Burnage, Greater Manchester",53.437,-2.195
+"M2","Manchester, Greater Manchester",53.48,-2.243
+"M20","Didsbury, Greater Manchester",53.425,-2.23
+"M21","Chorlton-cum-Hardy, Greater Manchester",53.438,-2.271
+"M22","Moss Nook, Greater Manchester",53.386,-2.258
+"M23","Baguley, Greater Manchester",53.399,-2.287
+"M24","Birch, Greater Manchester",53.551,-2.196
+"M25","Prestwich, Greater Manchester",53.528,-2.275
+"M26","Prestolee, Greater Manchester",53.562,-2.333
+"M27","Pendlebury, Greater Manchester",53.512,-2.337
+"M28","Boothstown, Greater Manchester",53.514,-2.397
+"M29","Astley Green, Greater Manchester",53.508,-2.457
+"M3","Manchester, Greater Manchester",53.483,-2.251
+"M30","Eccles, Greater Manchester",53.484,-2.354
+"M31","Carrington, Greater Manchester",53.419,-2.422
+"M32","Stretford, Greater Manchester",53.45,-2.309
+"M33","Ashton upon Mersey, Greater Manchester",53.421,-2.324
+"M34","Audenshaw, Greater Manchester",53.456,-2.117
+"M35","Failsworth, Greater Manchester",53.507,-2.153
+"M38","Little Hulton, Greater Manchester",53.532,-2.421
+"M4","",53.485,-2.229
+"M40","",53.504,-2.19
+"M41","Flixton, Greater Manchester",53.451,-2.364
+"M43","Droylsden, Greater Manchester",53.483,-2.148
+"M44","Cadishead, Greater Manchester",53.441,-2.426
+"M45","Whitefield, Greater Manchester",53.547,-2.289
+"M46","Atherton, Greater Manchester",53.526,-2.49
+"M5","Salford, Greater Manchester",53.479,-2.284
+"M6","",53.492,-2.297
+"M60","Manchester, Greater Manchester",53.486,-2.228
+"M7","Broughton, Greater Manchester",53.505,-2.26
+"M8","Cheetham Hill, Greater Manchester",53.509,-2.239
+"M9","Harpurhey, Greater Manchester",53.522,-2.213
+"M90","",53.363,-2.277
+"ME1","Borstal, Kent",51.372,0.5
+"ME10","Kemsley, Kent",51.343,0.736
+"ME11","Queenborough, Kent",51.413,0.749
+"ME12","Eastchurch, Kent",51.423,0.805
+"ME13","Badlesmere, Kent",51.303,0.896
+"ME14","Bearsted, Kent",51.28,0.542
+"ME15","Dean Street, Kent",51.254,0.534
+"ME16","East Barming, Kent",51.274,0.5
+"ME17","Boughton Green, Kent",51.235,0.61
+"ME18","Benover, Kent",51.244,0.423
+"ME19","Addington, Kent",51.293,0.411
+"ME2","Cuxton, Kent",51.392,0.486
+"ME20","Aylesford, Kent",51.305,0.46
+"ME3","Allhallows, Kent",51.433,0.547
+"ME4","Brompton, Kent",51.38,0.53
+"ME5","Blue Bell Hill, Kent",51.349,0.534
+"ME6","Ham Hill, Kent",51.327,0.441
+"ME7","Bredhurst, Kent",51.379,0.557
+"ME8","Rainham, Kent",51.361,0.599
+"ME9","Bapchild, Kent",51.333,0.725
+"MK1","",52.005,-0.726
+"MK10","Milton Keynes Village, Milton Keynes",52.039,-0.698
+"MK11","Stony Stratford, Milton Keynes",52.052,-0.84
+"MK12","Old Wolverton, Milton Keynes",52.057,-0.816
+"MK13","Bradwell, Milton Keynes",52.052,-0.784
+"MK14","Great Linford, Milton Keynes",52.059,-0.762
+"MK15","Willen, Milton Keynes",52.058,-0.728
+"MK16","Astwood, Milton Keynes",52.089,-0.721
+"MK17","Aspley Guise, Bedfordshire",51.992,-0.7
+"MK18","Addington, Buckinghamshire",51.98,-0.969
+"MK19","Beachampton, Buckinghamshire",52.072,-0.852
+"MK2","Fenny Stratford, Milton Keynes",51.99,-0.724
+"MK3","Bletchley, Milton Keynes",51.997,-0.753
+"MK4","",52.004,-0.777
+"MK40","Bedford, Bedfordshire",52.138,-0.472
+"MK41","Clapham, Bedfordshire",52.151,-0.447
+"MK42","Elstow, Bedfordshire",52.12,-0.473
+"MK43","Bourne End, Bedfordshire",52.118,-0.557
+"MK44","Bletsoe, Bedfordshire",52.194,-0.426
+"MK45","Ampthill, Bedfordshire",52.024,-0.468
+"MK46","Clifton Reynes, Milton Keynes",52.154,-0.691
+"MK5","Loughton, Milton Keynes",52.02,-0.783
+"MK6","Great Woolstone, Milton Keynes",52.03,-0.742
+"MK7","Walton, Milton Keynes",52.019,-0.69
+"MK8","",52.036,-0.803
+"MK9","",52.041,-0.759
+"ML1","Bellside, North Lanarkshire",55.799,-3.976
+"ML10","Caldermill, South Lanarkshire",55.68,-4.069
+"ML11","Auchengray, South Lanarkshire",55.667,-3.786
+"ML12","Abington, South Lanarkshire",55.566,-3.596
+"ML2","Bonkle, North Lanarkshire",55.777,-3.913
+"ML3","Allanton, South Lanarkshire",55.77,-4.054
+"ML4","Bellshill, North Lanarkshire",55.818,-4.02
+"ML5","Coatbridge, North Lanarkshire",55.86,-4.03
+"ML6","Airdrie, North Lanarkshire",55.867,-3.962
+"ML7","Allanton, North Lanarkshire",55.83,-3.793
+"ML8","Braidwood, South Lanarkshire",55.731,-3.841
+"ML9","Ashgill, South Lanarkshire",55.725,-3.967
+"N1","Balls Pond Road, Greater London",51.537,-0.097
+"N10","Cranley Gardens, Greater London",51.594,-0.143
+"N11","Bounds Green, Greater London",51.613,-0.138
+"N12","Colney Hatch, Greater London",51.615,-0.176
+"N13","Bowes Park, Greater London",51.619,-0.102
+"N14","East Barnet, Greater London",51.634,-0.129
+"N15","Seven Sisters, Greater London",51.582,-0.081
+"N16","Newington Green, Greater London",51.563,-0.075
+"N17","Tottenham Hale, Greater London",51.597,-0.07
+"N18","Edmonton, Greater London",51.613,-0.065
+"N19","Archway, Greater London",51.565,-0.128
+"N2","East Finchley, Greater London",51.59,-0.167
+"N20","Highwood Hill, Greater London",51.629,-0.173
+"N21","Grange Park, Greater London",51.636,-0.098
+"N22","Alexandra Palace, Greater London",51.599,-0.11
+"N3","Church End, Greater London",51.6,-0.193
+"N4","Finsbury Park, Greater London",51.571,-0.101
+"N5","Arsenal, Greater London",51.553,-0.097
+"N6","Dartmouth Park, Greater London",51.572,-0.141
+"N7","Caledonian Road, Greater London",51.553,-0.116
+"N8","Crouch End, Greater London",51.584,-0.116
+"N9","Lower Edmonton, Greater London",51.628,-0.057
+"NE1","Newcastle upon Tyne, Tyne and Wear",54.973,-1.611
+"NE10","Felling, Tyne and Wear",54.947,-1.553
+"NE11","Dunston, Tyne and Wear",54.941,-1.631
+"NE12","Benton Square, Tyne and Wear",55.024,-1.569
+"NE13","Brenkley, Tyne and Wear",55.046,-1.645
+"NE15","Harlow Hill, Northumberland",54.984,-1.72
+"NE16","Burnopfield, County Durham",54.932,-1.691
+"NE17","Chopwell, Tyne and Wear",54.913,-1.816
+"NE18","Hawkwell, Northumberland",55.038,-1.861
+"NE19","Bingfield, Northumberland",55.179,-2.096
+"NE2","Heaton, Tyne and Wear",54.987,-1.605
+"NE20","Belsay, Northumberland",55.053,-1.786
+"NE21","Barlow, Tyne and Wear",54.958,-1.719
+"NE22","Bedlington, Northumberland",55.136,-1.584
+"NE23","Backworth, Tyne and Wear",55.08,-1.581
+"NE24","Bebside, Northumberland",55.122,-1.521
+"NE25","Earsdon, Tyne and Wear",55.05,-1.486
+"NE26","Hartley, Northumberland",55.052,-1.456
+"NE27","New York, Tyne and Wear",55.033,-1.511
+"NE28","Wallsend, Tyne and Wear",55,-1.519
+"NE29","Heaton, Tyne and Wear",55.012,-1.464
+"NE3","Fawdon, Tyne and Wear",55.01,-1.633
+"NE30","Cullercoats, Tyne and Wear",55.021,-1.44
+"NE31","Hebburn, Tyne and Wear",54.971,-1.512
+"NE32","Jarrow, Tyne and Wear",54.968,-1.483
+"NE33","South Shields, Tyne and Wear",54.991,-1.428
+"NE34","Harton, Tyne and Wear",54.972,-1.421
+"NE35","Fawdon, Tyne and Wear",54.952,-1.46
+"NE36","Boldon, Tyne and Wear",54.945,-1.439
+"NE37","Fawdon, Tyne and Wear",54.913,-1.526
+"NE38","Fatfield, Tyne and Wear",54.894,-1.524
+"NE39","High Spen, Tyne and Wear",54.924,-1.759
+"NE4","Blakelaw, Tyne and Wear",54.974,-1.643
+"NE40","Coalburns, Tyne and Wear",54.966,-1.772
+"NE41","Wylam, Northumberland",54.976,-1.819
+"NE42","Ovingham, Northumberland",54.962,-1.854
+"NE43","Hedley on the Hill, Northumberland",54.948,-1.905
+"NE44","Barleyhill, Northumberland",54.943,-1.978
+"NE45","Aydon, Northumberland",54.976,-2.016
+"NE46","Acomb, Northumberland",54.979,-2.106
+"NE47","Allendale Town, Northumberland",54.929,-2.251
+"NE48","Barrasford, Northumberland",55.132,-2.257
+"NE49","Haltwhistle, Northumberland",54.967,-2.459
+"NE5","Black Callerton, Tyne and Wear",54.996,-1.687
+"NE6","Byker, Tyne and Wear",54.977,-1.564
+"NE61","Bothal, Northumberland",55.181,-1.688
+"NE62","Guide Post, Northumberland",55.161,-1.592
+"NE63","Ashington, Northumberland",55.178,-1.562
+"NE64","Newbiggin-by-the-Sea, Northumberland",55.184,-1.514
+"NE65","Acklington, Northumberland",55.313,-1.751
+"NE66","Alnmouth, Northumberland",55.428,-1.731
+"NE67","Beadnell, Northumberland",55.534,-1.693
+"NE68","Elford, Northumberland",55.574,-1.658
+"NE69","Bamburgh, Northumberland",55.605,-1.716
+"NE7","Longbenton, Tyne and Wear",55,-1.578
+"NE70","Adderstone, Northumberland",55.594,-1.815
+"NE71","Akeld, Northumberland",55.555,-2.044
+"NE8","Gateshead, Tyne and Wear",54.955,-1.603
+"NE9","Springwell, Tyne and Wear",54.931,-1.584
+"NE99","Newcastle upon Tyne (PO Boxes), Tyne and Wear",54.967,-1.613
+"NG1","Nottingham, Nottinghamshire",52.954,-1.147
+"NG10","Long Eaton, Derbyshire",52.9,-1.282
+"NG11","Barton in Fabis, Nottinghamshire",52.899,-1.173
+"NG12","Bassingfield, Nottinghamshire",52.911,-1.054
+"NG13","Alverton, Nottinghamshire",52.947,-0.92
+"NG14","Bleasby, Nottinghamshire",53.015,-1.037
+"NG15","Annesley Woodhouse, Nottinghamshire",53.045,-1.203
+"NG16","Awsworth, Nottinghamshire",53.027,-1.294
+"NG17","Huthwaite, Nottinghamshire",53.116,-1.26
+"NG18","Mansfield, Nottinghamshire",53.138,-1.183
+"NG19","Forest Town, Nottinghamshire",53.16,-1.197
+"NG2","Gamston, Nottinghamshire",52.935,-1.131
+"NG20","Church Warsop, Nottinghamshire",53.21,-1.183
+"NG21","Blidworth, Nottinghamshire",53.141,-1.104
+"NG22","Askham, Nottinghamshire",53.178,-0.971
+"NG23","Averham, Nottinghamshire",53.116,-0.801
+"NG24","Balderton, Nottinghamshire",53.07,-0.799
+"NG25","Easthorpe, Nottinghamshire",53.073,-0.955
+"NG3","",52.968,-1.128
+"NG31","Grantham, Lincolnshire",52.914,-0.64
+"NG32","Aisby, Lincolnshire",52.949,-0.649
+"NG33","Bassingthorpe, Lincolnshire",52.818,-0.579
+"NG34","Anwick, Lincolnshire",52.988,-0.391
+"NG4","Carlton, Nottinghamshire",52.97,-1.086
+"NG5","Arnold, Nottinghamshire",52.997,-1.143
+"NG6","Bulwell, Nottinghamshire",52.997,-1.191
+"NG7","Nottingham, Nottinghamshire",52.958,-1.175
+"NG8","Bilborough, Nottinghamshire",52.964,-1.212
+"NG9","Attenborough, Nottinghamshire",52.926,-1.236
+"NN1","Northampton, Northamptonshire",52.241,-0.887
+"NN10","Higham Ferrers, Northamptonshire",52.292,-0.597
+"NN11","Aston le Walls, Northamptonshire",52.241,-1.179
+"NN12","Abthorpe, Northamptonshire",52.128,-0.998
+"NN13","Biddlesden, Buckinghamshire",52.032,-1.147
+"NN14","Aldwincle, Northamptonshire",52.41,-0.692
+"NN15","Barton Seagrave, Northamptonshire",52.384,-0.706
+"NN16","Kettering, Northamptonshire",52.406,-0.721
+"NN17","Bulwick, Northamptonshire",52.5,-0.688
+"NN18","Little Oakley, Northamptonshire",52.48,-0.715
+"NN2","Boughton, Northamptonshire",52.262,-0.895
+"NN29","Bozeat, Northamptonshire",52.26,-0.663
+"NN3","Boothville, Northamptonshire",52.261,-0.846
+"NN4","Collingtree, Northamptonshire",52.216,-0.896
+"NN5","Dallington, Northamptonshire",52.248,-0.93
+"NN6","Brixworth, Northamptonshire",52.322,-0.944
+"NN7","Ashton, Northamptonshire",52.21,-0.927
+"NN8","Wellingborough, Northamptonshire",52.303,-0.698
+"NN9","Caldecott, Northamptonshire",52.333,-0.599
+"NP10","Newport, Newport",51.579,-3.045
+"NP11","Abercarn, Caerphilly",51.643,-3.13
+"NP12","Abercarn, Caerphilly",51.668,-3.197
+"NP13","Abercarn, Caerphilly",51.734,-3.14
+"NP15","Abercarn, Caerphilly",51.726,-2.886
+"NP16","Abercarn, Caerphilly",51.65,-2.688
+"NP18","Abercarn, Caerphilly",51.607,-2.943
+"NP19","Newport, Newport",51.589,-2.963
+"NP20","Newport, Newport",51.591,-3.005
+"NP22","Abertysswg, Caerphilly",51.771,-3.257
+"NP23","Ebbw Vale, Blaenau Gwent",51.785,-3.196
+"NP24","Abertysswg, Caerphilly",51.72,-3.237
+"NP25","Abertysswg, Caerphilly",51.803,-2.722
+"NP26","Abertysswg, Caerphilly",51.59,-2.777
+"NP4","Abersychan, Torfaen",51.719,-3.046
+"NP44","Castell-y-bwch, Torfaen",51.651,-3.027
+"NP7","Abergavenny, Monmouthshire",51.829,-3.009
+"NP8","Coed-yr-ynys, Powys",51.86,-3.146
+"NR1","Lakenham, Norfolk",52.626,1.31
+"NR10","Booton, Norfolk",52.736,1.246
+"NR11","Alby Hill, Norfolk",52.841,1.275
+"NR12","Ashmanhaugh, Norfolk",52.76,1.472
+"NR13","Acle, Norfolk",52.634,1.473
+"NR14","Alpington, Norfolk",52.565,1.381
+"NR15","Aslacton, Norfolk",52.506,1.271
+"NR16","Ashwellthorpe, Norfolk",52.476,1.061
+"NR17","Attleborough, Norfolk",52.515,0.996
+"NR18","Crownthorpe, Norfolk",52.571,1.11
+"NR19","Bittering, Norfolk",52.675,0.929
+"NR2","Eaton, Norfolk",52.63,1.285
+"NR20","Bawdeswell, Norfolk",52.724,0.981
+"NR21","Bale, Norfolk",52.841,0.853
+"NR22","East Barsham, Norfolk",52.894,0.867
+"NR23","Cockthorpe, Norfolk",52.949,0.86
+"NR24","Briningham, Norfolk",52.859,1.051
+"NR25","Baconsthorpe, Norfolk",52.92,1.085
+"NR26","Beeston Regis, Norfolk",52.935,1.215
+"NR27","Cromer, Norfolk",52.924,1.302
+"NR28","Antingham, Norfolk",52.822,1.4
+"NR29","Bastwick, Norfolk",52.692,1.639
+"NR3","",52.643,1.296
+"NR30","Caister-on-Sea, Norfolk",52.619,1.729
+"NR31","Belton, Norfolk",52.576,1.711
+"NR32","Blundeston, Suffolk",52.489,1.734
+"NR33","Carlton Colville, Suffolk",52.454,1.719
+"NR34","Aldeby, Norfolk",52.438,1.585
+"NR35","Broome, Norfolk",52.462,1.435
+"NR4","Colney, Norfolk",52.614,1.265
+"NR5","Bowthorpe, Norfolk",52.64,1.235
+"NR6","Catton, Norfolk",52.661,1.283
+"NR8","Costessey, Norfolk",52.678,1.212
+"NR9","Alderford, Norfolk",52.636,1.109
+"NW1","Baker Street, Greater London",51.532,-0.143
+"NW10","Church End, Greater London",51.54,-0.246
+"NW11","Brent Cross, Greater London",51.578,-0.196
+"NW2","Childs Hill, Greater London",51.558,-0.218
+"NW3","Belsize Park, Greater London",51.552,-0.171
+"NW4","Copthall, Greater London",51.587,-0.223
+"NW5","Gospel Oak, Greater London",51.551,-0.143
+"NW6","Brondesbury Park, Greater London",51.541,-0.194
+"NW7","Mill Hill East, Greater London",51.615,-0.235
+"NW8","Abbey Road, Greater London",51.531,-0.171
+"NW9","Colindale, Greater London",51.586,-0.254
+"OL1","Oldham, Greater Manchester",53.549,-2.105
+"OL10","Heywood, Greater Manchester",53.59,-2.222
+"OL11","Castleton, Greater Manchester",53.606,-2.174
+"OL12","Broadley, Lancashire",53.635,-2.164
+"OL13","Bacup, Lancashire",53.701,-2.203
+"OL14","Clough Foot, West Yorkshire",53.714,-2.099
+"OL15","Calderbrook, Greater Manchester",53.644,-2.1
+"OL16","Firgrove, Greater Manchester",53.612,-2.131
+"OL2","Crompton Fold, Greater Manchester",53.572,-2.108
+"OL3","Bleak Hey Nook, Greater Manchester",53.553,-2.009
+"OL4","Grasscroft, Greater Manchester",53.542,-2.073
+"OL5","Micklehurst, Greater Manchester",53.517,-2.038
+"OL6","Hurst, Greater Manchester",53.494,-2.085
+"OL7","Ashton-under-Lyne, Greater Manchester",53.49,-2.105
+"OL8","Bardsley, Greater Manchester",53.526,-2.116
+"OL9","Chadderton, Greater Manchester",53.539,-2.142
+"OX1","Boars Hill, Oxfordshire",51.745,-1.259
+"OX10","Benson, Oxfordshire",51.608,-1.127
+"OX11","Aston Tirrold, Oxfordshire",51.599,-1.246
+"OX12","Ardington, Oxfordshire",51.594,-1.425
+"OX13","Appleton, Oxfordshire",51.678,-1.347
+"OX14","Abingdon, Oxfordshire",51.668,-1.275
+"OX15","Alkerton, Oxfordshire",52.032,-1.407
+"OX16","Banbury, Oxfordshire",52.062,-1.34
+"OX17","Adderbury, Oxfordshire",52.073,-1.289
+"OX18","Alvescot, Oxfordshire",51.762,-1.591
+"OX2","Botley, Oxfordshire",51.764,-1.277
+"OX20","Bladon, Oxfordshire",51.856,-1.358
+"OX25","Botley, Oxfordshire",51.901,-1.213
+"OX26","Botley, Oxfordshire",51.901,-1.151
+"OX27","Botley, Oxfordshire",51.937,-1.147
+"OX28","Botley, Oxfordshire",51.785,-1.487
+"OX29","Botley, Oxfordshire",51.794,-1.432
+"OX3","Beckley, Oxfordshire",51.761,-1.214
+"OX33","Forest Hill, Oxfordshire",51.758,-1.147
+"OX39","Beckley, Oxfordshire",51.701,-0.913
+"OX4","Cowley, Oxfordshire",51.73,-1.215
+"OX44","Chalgrove, Oxfordshire",51.7,-1.13
+"OX49","Cowley, Oxfordshire",51.65,-1
+"OX5","Begbroke, Oxfordshire",51.829,-1.281
+"OX6","Ambrosden, Oxfordshire",51.909,-1.168
+"OX7","Ascott-under-Wychwood, Oxfordshire",51.911,-1.528
+"OX8","Asthall Leigh, Oxfordshire",51.79,-1.455
+"OX9","Adwell, Oxfordshire",51.738,-0.982
+"PA1","Paisley, Renfrewshire",55.845,-4.417
+"PA10","Carruthmuir, Inverclyde",55.833,-4.551
+"PA11","Bridge of Weir, Renfrewshire",55.857,-4.582
+"PA12","Lochwinnoch, Renfrewshire",55.796,-4.623
+"PA13","Auchenbothie, Inverclyde",55.893,-4.629
+"PA14","Langbank, Renfrewshire",55.927,-4.663
+"PA15","Paisley, Renfrewshire",55.942,-4.748
+"PA16","Ardgowan, Inverclyde",55.944,-4.796
+"PA17","Skelmorlie, North Ayrshire",55.865,-4.882
+"PA18","Wemyss Bay, Inverclyde",55.889,-4.887
+"PA19","Castle Levan, Inverclyde",55.953,-4.822
+"PA2","",55.829,-4.434
+"PA20","Ambrismore, Argyll and Bute",55.835,-5.057
+"PA21","Acharosson, Argyll and Bute",55.901,-5.248
+"PA22","",55.97,-5.157
+"PA23","Ardbeg, Argyll and Bute",55.955,-4.932
+"PA24","Ardnahein, Argyll and Bute",56.157,-4.904
+"PA25","Ardnagowan, Argyll and Bute",56.216,-5.04
+"PA26","Achadunan, Argyll and Bute",56.258,-4.938
+"PA27","Balliemeanoch, Argyll and Bute",56.154,-5.084
+"PA28","Ballochgair, Argyll and Bute",55.436,-5.603
+"PA29","Achadacaie, Argyll and Bute",55.804,-5.477
+"PA3","Linwood, Renfrewshire",55.852,-4.447
+"PA30","Ardrishaig, Argyll and Bute",56.014,-5.448
+"PA31","Achahoish, Argyll and Bute",56.053,-5.463
+"PA32","Auchindrain, Argyll and Bute",56.203,-5.117
+"PA33","Accurrach, Argyll and Bute",56.37,-5.055
+"PA34","Achleanan, Highland",56.403,-5.499
+"PA35","Annat, Argyll and Bute",56.405,-5.224
+"PA36","Achallader, Argyll and Bute",56.521,-4.771
+"PA37","Achnacairn, Argyll and Bute",56.469,-5.386
+"PA38","Ardtur, Argyll and Bute",56.592,-5.335
+"PA4","Inchinnan, Renfrewshire",55.875,-4.396
+"PA41","Ardminish, Argyll and Bute",55.674,-5.742
+"PA42","Ardbeg, Argyll and Bute",55.64,-6.186
+"PA43","Bowmore, Argyll and Bute",55.756,-6.283
+"PA44","Aoradh, Argyll and Bute",55.798,-6.292
+"PA45","Ballygrant, Argyll and Bute",55.82,-6.166
+"PA46","Ardnahoe, Argyll and Bute",55.862,-6.119
+"PA47","Kelsay, Argyll and Bute",55.682,-6.503
+"PA48","Carn, Argyll and Bute",55.738,-6.384
+"PA49","Aruadh, Argyll and Bute",55.782,-6.394
+"PA5","Elderslie, Renfrewshire",55.831,-4.509
+"PA6","Crosslee, Renfrewshire",55.864,-4.534
+"PA60","Achamore, Argyll and Bute",55.88,-5.913
+"PA61","Balnahard, Argyll and Bute",56.072,-6.202
+"PA62","Lochbuie, Argyll and Bute",56.359,-5.85
+"PA63","Croggan, Argyll and Bute",56.382,-5.715
+"PA64","Auchnacraig, Argyll and Bute",56.439,-5.675
+"PA65","Ardura, Argyll and Bute",56.469,-5.728
+"PA66","Aridhglas, Argyll and Bute",56.329,-6.354
+"PA67","Ardalanish, Argyll and Bute",56.314,-6.232
+"PA68","Balmeanach, Argyll and Bute",56.437,-6.141
+"PA69","Crosslee, Renfrewshire",56.38,-6.088
+"PA7","Bishopton, Renfrewshire",55.909,-4.5
+"PA70","Carsaig, Argyll and Bute",56.364,-6.033
+"PA71","Gruline, Argyll and Bute",56.481,-5.98
+"PA72","Ardnacross, Argyll and Bute",56.518,-5.964
+"PA73","Ballygown, Argyll and Bute",56.497,-6.183
+"PA74","Kilninian, Argyll and Bute",56.533,-6.229
+"PA75","Achnadrish, Argyll and Bute",56.612,-6.123
+"PA76","Ruanaich, Argyll and Bute",56.334,-6.394
+"PA77","Balemartine, Argyll and Bute",56.494,-6.884
+"PA78","Acha, Argyll and Bute",56.625,-6.545
+"PA8","Erskine, Renfrewshire",55.901,-4.452
+"PA9","Howwood, Renfrewshire",55.81,-4.552
+"PE1","New England, Cambridgeshire",52.587,-0.238
+"PE10","Bourne, Lincolnshire",52.777,-0.376
+"PE11","Church End, Lincolnshire",52.807,-0.166
+"PE12","Aswick Grange, Lincolnshire",52.784,0.029
+"PE13","Church End, Cambridgeshire",52.669,0.139
+"PE14","Christchurch, Cambridgeshire",52.639,0.211
+"PE15","Benwick, Cambridgeshire",52.536,0.087
+"PE16","Chatteris, Cambridgeshire",52.454,0.05
+"PE19","Abbotsley, Cambridgeshire",52.242,-0.258
+"PE2","Alwalton, Cambridgeshire",52.561,-0.263
+"PE20","Algarkirk, Lincolnshire",52.932,-0.102
+"PE21","Boston, Lincolnshire",52.975,-0.021
+"PE22","",53.048,0.045
+"PE23","Asgarby, Lincolnshire",53.173,0.091
+"PE24","Addlethorpe, Lincolnshire",53.165,0.268
+"PE25","Ingoldmells, Lincolnshire",53.153,0.337
+"PE26","Alwalton, Cambridgeshire",52.453,-0.113
+"PE27","Alwalton, Cambridgeshire",52.334,-0.076
+"PE28","Alwalton, Cambridgeshire",52.358,-0.186
+"PE29","Alwalton, Cambridgeshire",52.334,-0.178
+"PE3","Longthorpe, Cambridgeshire",52.587,-0.275
+"PE30","Gaywood, Norfolk",52.759,0.418
+"PE31","Anmer, Norfolk",52.876,0.567
+"PE32","Ashwicken, Norfolk",52.73,0.628
+"PE33","Barton Bendish, Norfolk",52.649,0.469
+"PE34","Clenchwarton, Norfolk",52.724,0.34
+"PE35","Sandringham, Norfolk",52.825,0.512
+"PE36","Holme next the Sea, Norfolk",52.936,0.508
+"PE37","Beechamwell, Norfolk",52.644,0.693
+"PE38","Bexwell, Norfolk",52.589,0.377
+"PE4","Walton, Cambridgeshire",52.612,-0.266
+"PE5","Ailsworth, Cambridgeshire",52.579,-0.344
+"PE6","Baston, Lincolnshire",52.656,-0.255
+"PE7","Caldecote, Cambridgeshire",52.538,-0.198
+"PE8","Achurch, Northamptonshire",52.527,-0.442
+"PE9","Bainton, Cambridgeshire",52.654,-0.48
+"PH1","Airntully, Perth and Kinross",56.421,-3.475
+"PH10","Achalader, Perth and Kinross",56.609,-3.36
+"PH11","Alrick, Angus",56.639,-3.234
+"PH12","Ardler, Perth and Kinross",56.576,-3.152
+"PH13","Arthurstone, Perth and Kinross",56.537,-3.274
+"PH14","Abernyte, Perth and Kinross",56.453,-3.186
+"PH15","Aberfeldy, Perth and Kinross",56.61,-3.941
+"PH16","Aldclune, Perth and Kinross",56.707,-3.809
+"PH17","Aulich, Perth and Kinross",56.688,-4.382
+"PH18","Blair Atholl, Perth and Kinross",56.774,-3.889
+"PH19","Ben Alder Lodge, Highland",56.935,-4.255
+"PH2","Aberargie, Perth and Kinross",56.387,-3.404
+"PH20","Aberarder, Highland",57.054,-4.155
+"PH21","Achlean, Highland",57.089,-4.022
+"PH22","Avielochan, Highland",57.198,-3.806
+"PH23","Bogroy, Highland",57.287,-3.801
+"PH24","Auchgourish, Highland",57.254,-3.748
+"PH25","Aundorach, Highland",57.262,-3.647
+"PH26","Achnahannet, Highland",57.33,-3.605
+"PH3","Aberuthven, Perth and Kinross",56.302,-3.704
+"PH30","Corrour Shooting Lodge, Highland",56.792,-4.6
+"PH31","Bohenie, Highland",56.892,-4.816
+"PH32","Fort Augustus, Highland",57.145,-4.683
+"PH33","Achagavel, Highland",56.822,-5.112
+"PH34","Achnasaul, Highland",56.926,-4.926
+"PH35","Aberchalder, Highland",57.076,-4.93
+"PH36","Acharacle, Highland",56.721,-5.866
+"PH38","Arienskill, Highland",56.845,-5.747
+"PH39","Arisaig, Highland",56.913,-5.841
+"PH4","Blackford, Perth and Kinross",56.261,-3.783
+"PH40","Bracora, Highland",56.964,-5.786
+"PH41","Airor, Highland",57.004,-5.832
+"PH42","Cleadale, Highland",56.902,-6.142
+"PH43","Harris, Highland",57.016,-6.28
+"PH44","",57.057,-6.503
+"PH49","Blackford, Perth and Kinross",56.675,-5.11
+"PH5","Craggan, Perth and Kinross",56.329,-3.828
+"PH50","Craggan, Perth and Kinross",56.714,-4.964
+"PH6","Ardtrostan, Perth and Kinross",56.372,-3.995
+"PH7","Balloch, Perth and Kinross",56.373,-3.826
+"PH8","Achnafauld, Perth and Kinross",56.562,-3.598
+"PH9","Ballechin, Perth and Kinross",56.651,-3.691
+"PL1","Devonport, Devon",50.371,-4.153
+"PL10","Cawsand, Cornwall",50.345,-4.211
+"PL11","Antony, Cornwall",50.373,-4.25
+"PL12","Blunts, Cornwall",50.419,-4.248
+"PL13","Bocaddon, Cornwall",50.357,-4.475
+"PL14","Bylane End, Cornwall",50.463,-4.465
+"PL15","Altarnun, Cornwall",50.632,-4.399
+"PL16","Broadwoodwidger, Devon",50.646,-4.267
+"PL17","Ashton, Cornwall",50.516,-4.305
+"PL18","Albaston, Cornwall",50.515,-4.219
+"PL19","Blackdown, Devon",50.556,-4.154
+"PL2","",50.389,-4.162
+"PL20","Bellever, Devon",50.501,-4.1
+"PL21","Bittaford, Devon",50.385,-3.918
+"PL22","Boconnoc, Cornwall",50.403,-4.651
+"PL23","Bodinnick, Cornwall",50.337,-4.635
+"PL24","Menabilly, Cornwall",50.355,-4.71
+"PL25","Boscoppa, Cornwall",50.341,-4.778
+"PL26","Belowda, Cornwall",50.342,-4.825
+"PL27","Bodieve, Cornwall",50.522,-4.874
+"PL28","Crugmeer, Cornwall",50.533,-4.966
+"PL29","Port Gaverne, Cornwall",50.585,-4.829
+"PL3","Crabtree, Devon",50.387,-4.125
+"PL30","Blisland, Cornwall",50.5,-4.728
+"PL31","Bodmin, Cornwall",50.469,-4.721
+"PL32","Camelford, Cornwall",50.633,-4.66
+"PL33","Delabole, Cornwall",50.621,-4.731
+"PL34","Bossiney, Cornwall",50.659,-4.742
+"PL35","Boscastle, Cornwall",50.684,-4.684
+"PL4","Plymouth, Devon",50.375,-4.128
+"PL5","St Budeaux, Devon",50.41,-4.166
+"PL6","Bickleigh, Devon",50.418,-4.116
+"PL7","Cadover Bridge, Devon",50.392,-4.045
+"PL8","Battisborough Cross, Devon",50.335,-4.012
+"PL9","Down Thomas, Devon",50.354,-4.088
+"PO1","Fratton, Portsmouth",50.799,-1.088
+"PO10","Emsworth, Hampshire",50.851,-0.929
+"PO11","Eastoke, Hampshire",50.791,-0.975
+"PO12","Alverstoke, Hampshire",50.797,-1.141
+"PO13","Bridgemary, Hampshire",50.812,-1.177
+"PO14","Hill Head, Hampshire",50.837,-1.218
+"PO15","Whiteley, Hampshire",50.862,-1.219
+"PO16","Fareham, Hampshire",50.85,-1.159
+"PO17","Boarhunt, Hampshire",50.889,-1.169
+"PO18","Bosham, West Sussex",50.864,-0.814
+"PO19","Chichester, West Sussex",50.837,-0.777
+"PO2","North End, Portsmouth",50.816,-1.077
+"PO20","Aldingbourne, West Sussex",50.783,-0.786
+"PO21","Aldwick, West Sussex",50.784,-0.696
+"PO22","Ancton, West Sussex",50.798,-0.648
+"PO3","Hilsea, Portsmouth",50.816,-1.059
+"PO30","Arreton, Isle of Wight",50.691,-1.313
+"PO31","Cowes, Isle of Wight",50.753,-1.306
+"PO32","East Cowes, Isle of Wight",50.75,-1.28
+"PO33","Binstead, Isle of Wight",50.721,-1.169
+"PO34","Nettlestone, Isle of Wight",50.716,-1.112
+"PO35","Bembridge, Isle of Wight",50.686,-1.084
+"PO36","Alverstone, Isle of Wight",50.658,-1.162
+"PO37","Luccombe Village, Isle of Wight",50.632,-1.177
+"PO38","Bierley, Isle of Wight",50.604,-1.241
+"PO39","Totland, Isle of Wight",50.68,-1.538
+"PO4","Eastney, Portsmouth",50.79,-1.062
+"PO40","Easton, Isle of Wight",50.682,-1.52
+"PO41","Cranmore, Isle of Wight",50.699,-1.477
+"PO5","Portsmouth, Portsmouth",50.789,-1.085
+"PO6","Cosham, Portsmouth",50.846,-1.069
+"PO7","Anthill Common, Hampshire",50.882,-1.038
+"PO8","Blendworth, Hampshire",50.911,-1.012
+"PO9","Bedhampton, Hampshire",50.863,-0.982
+"PR1","Fishwick, Lancashire",53.757,-2.701
+"PR11AA","Bickley, Greater London",53.7537,-2.708
+"PR11AD","Bickley, Greater London",53.7544,-2.7087
+"PR11AH","Bickley, Greater London",53.7596,-2.6995
+"PR11AQ","Bickley, Greater London",53.7525,-2.7073
+"PR11AZ","Bickley, Greater London",53.7596,-2.6995
+"PR11BA","Bickley, Greater London",53.7634,-2.7047
+"PR2","Elston, Lancashire",53.778,-2.708
+"PR25","Elston, Lancashire",53.694,-2.693
+"PR26","Elston, Lancashire",53.687,-2.74
+"PR3","Barton, Lancashire",53.869,-2.716
+"PR4","Becconsall, Lancashire",53.754,-2.833
+"PR5","Bamber Bridge, Lancashire",53.731,-2.656
+"PR6","Abbey Village, Lancashire",53.667,-2.609
+"PR7","Charnock Richard, Lancashire",53.645,-2.652
+"PR8","Ainsdale, Merseyside",53.626,-3.01
+"PR9","Banks, Lancashire",53.66,-2.968
+"RG1","Reading, Berkshire",51.454,-0.969
+"RG10","Cockpole Green, Berkshire",51.48,-0.862
+"RG12","Easthampstead, Berkshire",51.407,-0.749
+"RG14","Donnington, Berkshire",51.399,-1.322
+"RG17","Avington, Berkshire",51.44,-1.488
+"RG18","Cold Ash, Berkshire",51.433,-1.242
+"RG19","Ashford Hill, Hampshire",51.394,-1.241
+"RG2","Arborfield Cross, Berkshire",51.427,-0.955
+"RG20","Ashmansworth, Hampshire",51.403,-1.335
+"RG21","Basingstoke, Hampshire",51.266,-1.089
+"RG22","Kempshott, Hampshire",51.25,-1.122
+"RG23","East Oakley, Hampshire",51.26,-1.146
+"RG24","Chineham, Hampshire",51.281,-1.071
+"RG25","Ashe, Hampshire",51.228,-1.162
+"RG26","Baughurst, Hampshire",51.35,-1.119
+"RG27","Bramshill, Hampshire",51.3,-0.941
+"RG28","Freefolk, Hampshire",51.234,-1.334
+"RG29","Greywell, Hampshire",51.247,-0.946
+"RG30","",51.451,-1.012
+"RG31","Burghfield, Berkshire",51.456,-1.041
+"RG4","Cane End, Oxfordshire",51.48,-0.968
+"RG40","Finchampstead, Berkshire",51.399,-0.835
+"RG41","Barkham, Berkshire",51.415,-0.857
+"RG42","Binfield, Berkshire",51.427,-0.754
+"RG45","Crowthorne, Berkshire",51.375,-0.8
+"RG5","Woodley, Berkshire",51.452,-0.906
+"RG6","",51.439,-0.931
+"RG7","Aldermaston Soke, Hampshire",51.398,-1.077
+"RG8","Aldworth, Berkshire",51.505,-1.105
+"RG9","Aston, Berkshire",51.544,-0.922
+"RH1","Bletchingley, Surrey",51.237,-0.157
+"RH10","Copthorne, Surrey",51.117,-0.157
+"RH11","Crawley, West Sussex",51.111,-0.205
+"RH12","Broadbridge Heath, West Sussex",51.076,-0.333
+"RH13","Ashfold Crossways, West Sussex",51.037,-0.325
+"RH14","Adversane, West Sussex",51.032,-0.483
+"RH15","Burgess Hill, West Sussex",50.957,-0.133
+"RH16","Haywards Heath, West Sussex",51.002,-0.097
+"RH17","Ansty, West Sussex",51.021,-0.115
+"RH18","Ashurstwood, West Sussex",51.097,0.031
+"RH19","Brockhurst, West Sussex",51.125,-0.012
+"RH2","Doversgreen, Surrey",51.235,-0.202
+"RH20","Abingworth, West Sussex",50.937,-0.47
+"RH3","Betchworth, Surrey",51.232,-0.279
+"RH4","Dorking, Surrey",51.229,-0.334
+"RH5","Abinger Common, Surrey",51.194,-0.341
+"RH6","Burstow, Surrey",51.171,-0.162
+"RH7","Blindley Heath, Surrey",51.174,-0.016
+"RH8","Holland, Surrey",51.251,0.003
+"RH9","Godstone, Surrey",51.236,-0.068
+"RM1","Romford, Greater London",51.581,0.184
+"RM10","Dagenham, Greater London",51.545,0.159
+"RM11","Romford, Greater London",51.57,0.22
+"RM12","Elm Park, Greater London",51.553,0.209
+"RM13","Rainham, Greater London",51.524,0.195
+"RM14","Bulphan, Essex",51.556,0.264
+"RM15","Aveley, Essex",51.508,0.278
+"RM16","Baker Street, Essex",51.492,0.341
+"RM17","Grays, Essex",51.479,0.33
+"RM18","East Tilbury, Essex",51.467,0.377
+"RM19","Purfleet, Essex",51.482,0.249
+"RM2","Gidea Park, Greater London",51.583,0.202
+"RM20","West Thurrock, Essex",51.478,0.289
+"RM3","Harold Hill, Greater London",51.602,0.226
+"RM4","Abridge, Essex",51.633,0.16
+"RM5","Collier Row, Greater London",51.599,0.167
+"RM6","Marks Gate, Greater London",51.575,0.133
+"RM7","Rush Green, Greater London",51.574,0.17
+"RM8","Barking & Dagenham, Greater London",51.556,0.132
+"RM9","Becontree, Greater London",51.54,0.136
+"S1","Sheffield, South Yorkshire",53.38,-1.468
+"S10","Fulwood, South Yorkshire",53.377,-1.517
+"S11","",53.361,-1.506
+"S12","Gleadless, South Yorkshire",53.348,-1.405
+"S13","Handsworth, South Yorkshire",53.364,-1.383
+"S14","",53.346,-1.443
+"S17","Dore, South Yorkshire",53.321,-1.526
+"S18","Apperknowle, Derbyshire",53.299,-1.472
+"S2","Sheffield, South Yorkshire",53.37,-1.446
+"S20","",53.335,-1.35
+"S21","",53.312,-1.339
+"S25","",53.369,-1.214
+"S26","",53.357,-1.287
+"S3","",53.387,-1.472
+"S32","",53.295,-1.638
+"S33","",53.341,-1.721
+"S35","Chapeltown, South Yorkshire",53.457,-1.495
+"S36","",53.503,-1.613
+"S4","",53.399,-1.45
+"S40","Brampton, Derbyshire",53.234,-1.446
+"S41","Hasland, Derbyshire",53.247,-1.427
+"S42","Alton, Derbyshire",53.201,-1.422
+"S43","Barlborough, Derbyshire",53.267,-1.342
+"S44","Arkwright, Derbyshire",53.225,-1.313
+"S45","Ashover, Derbyshire",53.166,-1.421
+"S5","Fir Vale, South Yorkshire",53.422,-1.462
+"S6","Birley Carr, South Yorkshire",53.402,-1.51
+"S60","Brinsworth, South Yorkshire",53.414,-1.348
+"S61","Greasbrough, South Yorkshire",53.443,-1.393
+"S62","Nether Haugh, South Yorkshire",53.465,-1.347
+"S63","Bolton upon Dearne, South Yorkshire",53.518,-1.329
+"S64","Adwick upon Dearne, South Yorkshire",53.491,-1.298
+"S65","Dalton, South Yorkshire",53.436,-1.32
+"S66","Braithwell, South Yorkshire",53.42,-1.242
+"S7","",53.354,-1.489
+"S70","Barnsley, South Yorkshire",53.541,-1.473
+"S71","Ardsley, South Yorkshire",53.573,-1.456
+"S72","Billingley, South Yorkshire",53.578,-1.391
+"S73","Brampton, South Yorkshire",53.524,-1.393
+"S74","Elsecar, South Yorkshire",53.501,-1.439
+"S75","Cawthorne, South Yorkshire",53.562,-1.519
+"S8","Beauchief, South Yorkshire",53.34,-1.476
+"S80","Carburton, Nottinghamshire",53.292,-1.15
+"S81","Blyth, Nottinghamshire",53.338,-1.122
+"S9","Darnall, South Yorkshire",53.398,-1.417
+"SA1","Bon-y-maen, Swansea",51.627,-3.939
+"SA10","Aberdulais, Neath Port Talbot",51.687,-3.799
+"SA11","Aber-pergwm, Neath Port Talbot",51.674,-3.761
+"SA12","Aberavon, Neath Port Talbot",51.607,-3.794
+"SA13","Abergwynfi, Neath Port Talbot",51.606,-3.725
+"SA14","Bryn, Carmarthenshire",51.733,-4.107
+"SA15","Bancffosfelen, Carmarthenshire",51.7,-4.167
+"SA16","Burry Port, Carmarthenshire",51.689,-4.255
+"SA17","Broadlay, Carmarthenshire",51.758,-4.286
+"SA18","Ammanford, Carmarthenshire",51.798,-3.958
+"SA19","Aber Bowlan, Carmarthenshire",51.952,-3.948
+"SA2","Dunvant, Swansea",51.62,-3.994
+"SA20","Abercrychan, Carmarthenshire",52.01,-3.786
+"SA3","Bishopston, Swansea",51.58,-4.051
+"SA31","Abergwili, Carmarthenshire",51.856,-4.307
+"SA32","Abergorlech, Carmarthenshire",51.886,-4.171
+"SA33","Abernant, Carmarthenshire",51.85,-4.436
+"SA34","Blaenwaun, Carmarthenshire",51.853,-4.619
+"SA35","Bwlch-y-groes, Pembrokeshire",51.973,-4.56
+"SA36","Hermon, Pembrokeshire",51.958,-4.607
+"SA37","Abercych, Pembrokeshire",52.017,-4.592
+"SA38","Aberarad, Carmarthenshire",52.04,-4.474
+"SA39","Dol-gran, Carmarthenshire",52.02,-4.241
+"SA4","Bolgoed, Swansea",51.671,-4.048
+"SA40","Aber, Ceredigion",52.084,-4.174
+"SA41","Brynberian, Pembrokeshire",51.997,-4.706
+"SA42","Bryn-henllan, Pembrokeshire",52.015,-4.852
+"SA43","Aberporth, Ceredigion",52.086,-4.629
+"SA44","Aber-banc, Ceredigion",52.086,-4.371
+"SA45","Cross Inn, Ceredigion",52.208,-4.358
+"SA46","Aberaeron, Ceredigion",52.233,-4.249
+"SA47","Llanarth, Ceredigion",52.191,-4.295
+"SA48","Abermeurig, Ceredigion",52.144,-4.111
+"SA5","Cadle, Swansea",51.649,-3.969
+"SA6","Clydach, Swansea",51.675,-3.921
+"SA61","Haverfordwest, Pembrokeshire",51.8,-4.973
+"SA62","Abercastle, Pembrokeshire",51.841,-5.063
+"SA63","Clarbeston Road, Pembrokeshire",51.874,-4.854
+"SA64","Dyffryn, Pembrokeshire",52.001,-5.011
+"SA65","Fishguard, Pembrokeshire",51.988,-4.968
+"SA66","Bletherston, Pembrokeshire",51.881,-4.744
+"SA67","Amroth, Pembrokeshire",51.782,-4.732
+"SA68","Begelly, Pembrokeshire",51.729,-4.767
+"SA69","Pentlepoir, Pembrokeshire",51.71,-4.705
+"SA7","Birchgrove, Swansea",51.662,-3.89
+"SA70","Carew Cheriton, Pembrokeshire",51.672,-4.738
+"SA71","Angle, Pembrokeshire",51.667,-4.929
+"SA72","Cosheston, Pembrokeshire",51.692,-4.934
+"SA73","Burton, Pembrokeshire",51.717,-5.012
+"SA8","Alltwen, Neath Port Talbot",51.721,-3.847
+"SA9","Abercraf, Powys",51.781,-3.767
+"SE1","Bermondsey, Greater London",51.498,-0.089
+"SE10","Greenwich, Greater London",51.481,-0.001
+"SE11","Kennington, Greater London",51.489,-0.109
+"SE12","Grove Park, Greater London",51.445,0.025
+"SE13","Hither Green, Greater London",51.459,-0.008
+"SE14","Deptford, Greater London",51.475,-0.041
+"SE15","Nunhead, Greater London",51.472,-0.064
+"SE16","Bermondsey, Greater London",51.496,-0.052
+"SE16AD","Bermondsey, Greater London",51.4965,-0.0938
+"SE16AE","Bermondsey, Greater London",51.4963,-0.0925
+"SE16AF","Bermondsey, Greater London",51.4954,-0.0924
+"SE16AG","Bermondsey, Greater London",51.4956,-0.0908
+"SE16AH","Bermondsey, Greater London",51.4944,-0.0932
+"SE16AJ","Bermondsey, Greater London",51.4945,-0.0939
+"SE16AL","Bermondsey, Greater London",51.4945,-0.0944
+"SE16AN","Bermondsey, Greater London",51.4946,-0.0951
+"SE16AP","Bermondsey, Greater London",51.4981,-0.095
+"SE16AQ","Bermondsey, Greater London",51.4945,-0.0931
+"SE16AR","Bermondsey, Greater London",51.4981,-0.095
+"SE16AW","Bermondsey, Greater London",51.499,-0.0964
+"SE16AZ","Bermondsey, Greater London",51.4982,-0.0965
+"SE16BA","Bermondsey, Greater London",51.496,-0.0992
+"SE16BB","Bermondsey, Greater London",51.496,-0.0992
+"SE16BD","Bermondsey, Greater London",51.4977,-0.0982
+"SE16BN","Bermondsey, Greater London",51.4969,-0.0991
+"SE16BT","Bermondsey, Greater London",51.496,-0.0992
+"SE16BW","Bermondsey, Greater London",51.496,-0.0992
+"SE16BX","Bermondsey, Greater London",51.496,-0.0992
+"SE16DB","Bermondsey, Greater London",51.496,-0.0992
+"SE16DD","Bermondsey, Greater London",51.4981,-0.099
+"SE16DF","Bermondsey, Greater London",51.4976,-0.0992
+"SE16DG","Bermondsey, Greater London",51.4976,-0.0995
+"SE16DH","Bermondsey, Greater London",51.4973,-0.0983
+"SE16DP","Bermondsey, Greater London",51.4976,-0.0992
+"SE16DQ","Bermondsey, Greater London",51.496,-0.0992
+"SE16DR","Bermondsey, Greater London",51.4987,-0.0981
+"SE16DS","Bermondsey, Greater London",51.4981,-0.0988
+"SE16DX","Bermondsey, Greater London",51.496,-0.0992
+"SE16ED","Bermondsey, Greater London",51.4991,-0.0965
+"SE16EF","Bermondsey, Greater London",51.4969,-0.0997
+"SE16EP","Bermondsey, Greater London",51.4955,-0.1033
+"SE16EQ","Bermondsey, Greater London",51.4954,-0.108
+"SE16ER","Bermondsey, Greater London",51.4958,-0.1045
+"SE16ES","Bermondsey, Greater London",51.4953,-0.1027
+"SE16ET","Bermondsey, Greater London",51.4959,-0.1032
+"SE16EU","Bermondsey, Greater London",51.4967,-0.1055
+"SE16EW","Bermondsey, Greater London",51.4954,-0.1032
+"SE16EX","Bermondsey, Greater London",51.497,-0.1061
+"SE16EY","Bermondsey, Greater London",51.4974,-0.1048
+"SE16EZ","Bermondsey, Greater London",51.4969,-0.1047
+"SE16HA","Bermondsey, Greater London",51.4969,-0.1053
+"SE16HB","Bermondsey, Greater London",51.4973,-0.1041
+"SE16HD","Bermondsey, Greater London",51.4967,-0.1045
+"SE16HE","Bermondsey, Greater London",51.4965,-0.1041
+"SE16HF","Bermondsey, Greater London",51.4965,-0.1036
+"SE16HG","Bermondsey, Greater London",51.4961,-0.1026
+"SE16HH","Bermondsey, Greater London",51.496,-0.1024
+"SE16HJ","Bermondsey, Greater London",51.4956,-0.1019
+"SE16HQ","Bermondsey, Greater London",51.4957,-0.1028
+"SE16HR","Bermondsey, Greater London",51.4978,-0.1069
+"SE16HS","Bermondsey, Greater London",51.4984,-0.1049
+"SE16HT","Bermondsey, Greater London",51.4983,-0.1057
+"SE16HU","Bermondsey, Greater London",51.4978,-0.1069
+"SE16HW","Bermondsey, Greater London",51.4972,-0.1041
+"SE16HX","Bermondsey, Greater London",51.4981,-0.1087
+"SE16HY","Bermondsey, Greater London",51.4978,-0.1088
+"SE16HZ","Bermondsey, Greater London",51.496,-0.1083
+"SE16JP","Bermondsey, Greater London",51.4956,-0.1019
+"SE16JR","Bermondsey, Greater London",51.4958,-0.1019
+"SE16JS","Bermondsey, Greater London",51.4958,-0.1019
+"SE16JW","Bermondsey, Greater London",51.4968,-0.1027
+"SE16JX","Bermondsey, Greater London",51.4973,-0.1035
+"SE16JY","Bermondsey, Greater London",51.4973,-0.1035
+"SE16JZ","Bermondsey, Greater London",51.4979,-0.1042
+"SE16LF","Bermondsey, Greater London",51.4981,-0.1037
+"SE16LH","Bermondsey, Greater London",51.4963,-0.1007
+"SE16LN","Bermondsey, Greater London",51.4969,-0.1013
+"SE16LS","Bermondsey, Greater London",51.4978,-0.098
+"SE16LW","Bermondsey, Greater London",51.4958,-0.1007
+"SE16NG","Bermondsey, Greater London",51.4981,-0.1016
+"SE16NJ","Bermondsey, Greater London",51.4974,-0.1023
+"SE16NL","Bermondsey, Greater London",51.4996,-0.0923
+"SE16NP","Bermondsey, Greater London",51.4985,-0.0998
+"SE16NR","Bermondsey, Greater London",51.4996,-0.0923
+"SE16NT","Bermondsey, Greater London",51.4966,-0.0989
+"SE16NX","Bermondsey, Greater London",51.498,-0.0978
+"SE16NY","Bermondsey, Greater London",51.4972,-0.0978
+"SE16NZ","Bermondsey, Greater London",51.4971,-0.0985
+"SE16PA","Bermondsey, Greater London",51.4996,-0.0923
+"SE16PB","Bermondsey, Greater London",51.4958,-0.0961
+"SE16PD","Bermondsey, Greater London",51.4964,-0.0986
+"SE16PE","Bermondsey, Greater London",51.4965,-0.0983
+"SE16PF","Bermondsey, Greater London",51.4956,-0.0972
+"SE16PG","Bermondsey, Greater London",51.4953,-0.0961
+"SE16PH","Bermondsey, Greater London",51.4952,-0.0975
+"SE16PJ","Bermondsey, Greater London",51.4952,-0.0975
+"SE16PL","Bermondsey, Greater London",51.4962,-0.0976
+"SE16PN","Bermondsey, Greater London",51.4965,-0.0972
+"SE16PP","Bermondsey, Greater London",51.497,-0.097
+"SE16PQ","Bermondsey, Greater London",51.4954,-0.097
+"SE16PR","Bermondsey, Greater London",51.497,-0.097
+"SE16PS","Bermondsey, Greater London",51.4968,-0.0966
+"SE16PT","Bermondsey, Greater London",51.4969,-0.0963
+"SE16PU","Bermondsey, Greater London",51.4971,-0.096
+"SE16PW","Bermondsey, Greater London",51.4966,-0.0969
+"SE16PX","Bermondsey, Greater London",51.4973,-0.0958
+"SE16QD","Bermondsey, Greater London",51.4973,-0.095
+"SE16QE","Bermondsey, Greater London",51.4968,-0.0959
+"SE16QF","Bermondsey, Greater London",51.4964,-0.0966
+"SE16QG","Bermondsey, Greater London",51.4961,-0.0967
+"SE16QH","Bermondsey, Greater London",51.4958,-0.0961
+"SE16QJ","Bermondsey, Greater London",51.4962,-0.0959
+"SE16QL","Bermondsey, Greater London",51.4962,-0.0959
+"SE16QN","Bermondsey, Greater London",51.4962,-0.0947
+"SE16QP","Bermondsey, Greater London",51.4958,-0.0953
+"SE16QQ","Bermondsey, Greater London",51.496,-0.0972
+"SE16QS","Bermondsey, Greater London",51.4996,-0.0923
+"SE16QW","Bermondsey, Greater London",51.4962,-0.0947
+"SE16RB","Bermondsey, Greater London",51.4947,-0.0963
+"SE16RD","Bermondsey, Greater London",51.4947,-0.0959
+"SE16RF","Bermondsey, Greater London",51.4947,-0.0951
+"SE16RG","Bermondsey, Greater London",51.4948,-0.0966
+"SE16RH","Bermondsey, Greater London",51.4951,-0.0944
+"SE16RJ","Bermondsey, Greater London",51.4954,-0.0933
+"SE16RL","Bermondsey, Greater London",51.4954,-0.0933
+"SE16RN","Bermondsey, Greater London",51.4958,-0.094
+"SE16RP","Bermondsey, Greater London",51.4965,-0.0938
+"SE16RQ","Bermondsey, Greater London",51.4951,-0.0944
+"SE16RT","Bermondsey, Greater London",51.4951,-0.095
+"SE16RW","Bermondsey, Greater London",51.4958,-0.094
+"SE16RY","Bermondsey, Greater London",51.4947,-0.0952
+"SE16SB","Bermondsey, Greater London",51.4945,-0.1012
+"SE16SD","Bermondsey, Greater London",51.4941,-0.1012
+"SE16SE","Bermondsey, Greater London",51.4926,-0.1006
+"SE16SF","Bermondsey, Greater London",51.4925,-0.101
+"SE16SG","Bermondsey, Greater London",51.4926,-0.1006
+"SE16SJ","Bermondsey, Greater London",51.4996,-0.0923
+"SE16SL","Bermondsey, Greater London",51.4922,-0.0999
+"SE16SN","Bermondsey, Greater London",51.4924,-0.0989
+"SE16SP","Bermondsey, Greater London",51.4924,-0.0993
+"SE16SQ","Bermondsey, Greater London",51.4936,-0.1016
+"SE16SW","Bermondsey, Greater London",51.4927,-0.0989
+"SE16SX","Bermondsey, Greater London",51.4929,-0.1001
+"SE16SY","Bermondsey, Greater London",51.4929,-0.1001
+"SE16SZ","Bermondsey, Greater London",51.4938,-0.0997
+"SE16TA","Bermondsey, Greater London",51.4938,-0.0997
+"SE16TB","Bermondsey, Greater London",51.4945,-0.1
+"SE16TE","Bermondsey, Greater London",51.4945,-0.0999
+"SE16TG","Bermondsey, Greater London",51.4945,-0.1003
+"SE16TH","Bermondsey, Greater London",51.4929,-0.1001
+"SE16TJ","Bermondsey, Greater London",51.4947,-0.0987
+"SE16TL","Bermondsey, Greater London",51.4921,-0.1005
+"SE16TQ","Bermondsey, Greater London",51.4945,-0.0999
+"SE16TT","Bermondsey, Greater London",51.4938,-0.0997
+"SE16TU","Bermondsey, Greater London",51.4938,-0.0937
+"SE16TW","Bermondsey, Greater London",51.4946,-0.0977
+"SE16TX","Bermondsey, Greater London",51.4938,-0.0932
+"SE16TY","Bermondsey, Greater London",51.4938,-0.0929
+"SE16UA","Bermondsey, Greater London",51.4939,-0.0921
+"SE16WA","Bermondsey, Greater London",51.4961,-0.092
+"SE16WD","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WG","Bermondsey, Greater London",51.496,-0.092
+"SE16WH","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WJ","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WP","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WS","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WT","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WU","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WW","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WX","Bermondsey, Greater London",51.4996,-0.0923
+"SE16WY","Bermondsey, Greater London",51.496,-0.092
+"SE16XA","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XE","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XF","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XG","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XH","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XQ","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XS","Bermondsey, Greater London",51.496,-0.092
+"SE16XT","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XY","Bermondsey, Greater London",51.4996,-0.0923
+"SE16XZ","Bermondsey, Greater London",51.4996,-0.0923
+"SE16YA","Bermondsey, Greater London",51.4996,-0.0923
+"SE16YE","Bermondsey, Greater London",51.4996,-0.0923
+"SE16YG","Bermondsey, Greater London",51.496,-0.092
+"SE16YH","Bermondsey, Greater London",51.496,-0.092
+"SE16YL","Bermondsey, Greater London",51.4996,-0.0923
+"SE16YQ","Bermondsey, Greater London",51.496,-0.092
+"SE16ZA","Bermondsey, Greater London",51.4996,-0.0923
+"SE16ZB","Bermondsey, Greater London",51.4996,-0.0923
+"SE16ZE","Bermondsey, Greater London",51.4996,-0.0923
+"SE16ZG","Bermondsey, Greater London",51.4996,-0.0923
+"SE16ZU","Bermondsey, Greater London",51.4996,-0.0923
+"SE16ZW","Bermondsey, Greater London",51.496,-0.092
+"SE17","Elephant & Castle, Greater London",51.488,-0.092
+"SE17AA","Bermondsey, Greater London",51.5021,-0.1106
+"SE17AB","Bermondsey, Greater London",51.5015,-0.1117
+"SE17AD","Bermondsey, Greater London",51.501,-0.1128
+"SE17AE","Bermondsey, Greater London",51.5005,-0.1137
+"SE17AJ","Bermondsey, Greater London",51.5001,-0.1128
+"SE17AL","Bermondsey, Greater London",51.5001,-0.1128
+"SE17AN","Bermondsey, Greater London",51.5001,-0.1119
+"SE17AQ","Bermondsey, Greater London",51.5021,-0.1163
+"SE17AR","Bermondsey, Greater London",51.4998,-0.1123
+"SE17AT","Bermondsey, Greater London",51.4997,-0.112
+"SE17AU","Bermondsey, Greater London",51.5005,-0.1107
+"SE17AW","Bermondsey, Greater London",51.5021,-0.1163
+"SE17AX","Bermondsey, Greater London",51.5005,-0.1107
+"SE17AY","Bermondsey, Greater London",51.501,-0.1102
+"SE17AZ","Bermondsey, Greater London",51.5008,-0.1104
+"SE17BA","Bermondsey, Greater London",51.5008,-0.1094
+"SE17BB","Bermondsey, Greater London",51.5002,-0.1094
+"SE17BD","Bermondsey, Greater London",51.4999,-0.1103
+"SE17BE","Bermondsey, Greater London",51.5009,-0.1088
+"SE17BG","Bermondsey, Greater London",51.5002,-0.109
+"SE17BJ","Bermondsey, Greater London",51.4969,-0.1121
+"SE17BL","Bermondsey, Greater London",51.4975,-0.1122
+"SE17BN","Bermondsey, Greater London",51.498,-0.1124
+"SE17BU","Bermondsey, Greater London",51.4972,-0.1137
+"SE17BW","Bermondsey, Greater London",51.4976,-0.1123
+"SE17BX","Bermondsey, Greater London",51.4974,-0.1122
+"SE17BY","Bermondsey, Greater London",51.4968,-0.113
+"SE17BZ","Bermondsey, Greater London",51.4968,-0.113
+"SE17DA","Bermondsey, Greater London",51.4968,-0.113
+"SE17DB","Bermondsey, Greater London",51.4982,-0.1135
+"SE17DD","Bermondsey, Greater London",51.4965,-0.1143
+"SE17DE","Bermondsey, Greater London",51.496,-0.1143
+"SE17DF","Bermondsey, Greater London",51.4962,-0.1135
+"SE17DG","Bermondsey, Greater London",51.4959,-0.1131
+"SE17DJ","Bermondsey, Greater London",51.4982,-0.1135
+"SE17DP","Bermondsey, Greater London",51.4986,-0.1128
+"SE17DQ","Bermondsey, Greater London",51.4962,-0.1122
+"SE17DR","Bermondsey, Greater London",51.4989,-0.114
+"SE17DU","Bermondsey, Greater London",51.4982,-0.1135
+"SE17DX","Bermondsey, Greater London",51.4976,-0.1133
+"SE17DZ","Bermondsey, Greater London",51.4972,-0.1137
+"SE17EA","Bermondsey, Greater London",51.4977,-0.1138
+"SE17ED","Bermondsey, Greater London",51.4973,-0.1137
+"SE17EE","Bermondsey, Greater London",51.496,-0.1128
+"SE17EF","Bermondsey, Greater London",51.4975,-0.1141
+"SE17EG","Bermondsey, Greater London",51.4979,-0.1141
+"SE17EH","Bermondsey, Greater London",51.4979,-0.1196
+"SE17EL","Bermondsey, Greater London",51.5002,-0.1142
+"SE17EP","Bermondsey, Greater London",51.5004,-0.1176
+"SE17EQ","Bermondsey, Greater London",51.4992,-0.1166
+"SE17ER","Bermondsey, Greater London",51.4999,-0.1162
+"SE17EU","Bermondsey, Greater London",51.4999,-0.1162
+"SE17EW","Bermondsey, Greater London",51.5004,-0.1176
+"SE17FA","Bermondsey, Greater London",51.4996,-0.0923
+"SE17FF","Bermondsey, Greater London",51.4996,-0.0923
+"SE17FW","Bermondsey, Greater London",51.4966,-0.1157
+"SE17GA","Bermondsey, Greater London",51.5016,-0.1175
+"SE17GB","Bermondsey, Greater London",51.5016,-0.1175
+"SE17GD","Bermondsey, Greater London",51.5016,-0.1175
+"SE17GE","Bermondsey, Greater London",51.5016,-0.1175
+"SE17GF","Bermondsey, Greater London",51.5026,-0.1167
+"SE17GH","Bermondsey, Greater London",51.5026,-0.1167
+"SE17GL","Bermondsey, Greater London",51.5015,-0.118
+"SE17GN","Bermondsey, Greater London",51.5022,-0.1176
+"SE17GP","Bermondsey, Greater London",51.5015,-0.118
+"SE17GQ","Bermondsey, Greater London",51.5022,-0.1176
+"SE17HA","Bermondsey, Greater London",51.4985,-0.1119
+"SE17HD","Bermondsey, Greater London",51.492,-0.1207
+"SE17HE","Bermondsey, Greater London",51.492,-0.1207
+"SE17HF","Bermondsey, Greater London",51.492,-0.1207
+"SE17HG","Bermondsey, Greater London",51.492,-0.1207
+"SE17HH","Bermondsey, Greater London",51.492,-0.1207
+"SE17HJ","Bermondsey, Greater London",51.4993,-0.114
+"SE17HL","Bermondsey, Greater London",51.4973,-0.1103
+"SE17HN","Bermondsey, Greater London",51.4978,-0.1114
+"SE17HP","Bermondsey, Greater London",51.4989,-0.1131
+"SE17HR","Bermondsey, Greater London",51.4991,-0.1133
+"SE17HS","Bermondsey, Greater London",51.4984,-0.1116
+"SE17HT","Bermondsey, Greater London",51.4979,-0.1099
+"SE17HW","Bermondsey, Greater London",51.4988,-0.1129
+"SE17HX","Bermondsey, Greater London",51.492,-0.1207
+"SE17HY","Bermondsey, Greater London",51.4982,-0.1088
+"SE17HZ","Bermondsey, Greater London",51.4984,-0.1116
+"SE17JA","Bermondsey, Greater London",51.5028,-0.1192
+"SE17JB","Bermondsey, Greater London",51.4983,-0.1073
+"SE17JD","Bermondsey, Greater London",51.4991,-0.1133
+"SE17JE","Bermondsey, Greater London",51.4982,-0.1083
+"SE17JF","Bermondsey, Greater London",51.4955,-0.1164
+"SE17JG","Bermondsey, Greater London",51.4974,-0.111
+"SE17JH","Bermondsey, Greater London",51.495,-0.1168
+"SE17JJ","Bermondsey, Greater London",51.495,-0.1168
+"SE17JL","Bermondsey, Greater London",51.4945,-0.1186
+"SE17JN","Bermondsey, Greater London",51.4945,-0.1192
+"SE17JP","Bermondsey, Greater London",51.4947,-0.1183
+"SE17JQ","Bermondsey, Greater London",51.4982,-0.1109
+"SE17JR","Bermondsey, Greater London",51.4931,-0.1199
+"SE17JS","Bermondsey, Greater London",51.4931,-0.1205
+"SE17JT","Bermondsey, Greater London",51.4953,-0.1201
+"SE17JU","Bermondsey, Greater London",51.4953,-0.1201
+"SE17JW","Bermondsey, Greater London",51.4955,-0.1164
+"SE17JX","Bermondsey, Greater London",51.4952,-0.1189
+"SE17JY","Bermondsey, Greater London",51.4954,-0.1169
+"SE17LA","Bermondsey, Greater London",51.4996,-0.0923
+"SE17LB","Bermondsey, Greater London",51.495,-0.1202
+"SE17LD","Bermondsey, Greater London",51.4964,-0.1151
+"SE17LE","Bermondsey, Greater London",51.4963,-0.116
+"SE17LF","Bermondsey, Greater London",51.4969,-0.1158
+"SE17LG","Bermondsey, Greater London",51.4976,-0.1155
+"SE17LH","Bermondsey, Greater London",51.4994,-0.1142
+"SE17LJ","Bermondsey, Greater London",51.5038,-0.1147
+"SE17LL","Bermondsey, Greater London",51.499,-0.116
+"SE17LN","Bermondsey, Greater London",51.499,-0.116
+"SE17LP","Bermondsey, Greater London",51.4941,-0.1176
+"SE17LQ","Bermondsey, Greater London",51.4955,-0.1164
+"SE17LS","Bermondsey, Greater London",51.4945,-0.1186
+"SE17LT","Bermondsey, Greater London",51.5031,-0.1132
+"SE17LU","Bermondsey, Greater London",51.5031,-0.1132
+"SE17LW","Bermondsey, Greater London",51.499,-0.116
+"SE17LY","Bermondsey, Greater London",51.5031,-0.1132
+"SE17LZ","Bermondsey, Greater London",51.5042,-0.1159
+"SE17NA","Bermondsey, Greater London",51.5037,-0.1157
+"SE17ND","Bermondsey, Greater London",51.5033,-0.1163
+"SE17NE","Bermondsey, Greater London",51.4996,-0.0923
+"SE17NJ","Bermondsey, Greater London",51.5033,-0.1152
+"SE17NN","Bermondsey, Greater London",51.5018,-0.1159
+"SE17NQ","Bermondsey, Greater London",51.5033,-0.1152
+"SE17NR","Bermondsey, Greater London",51.5021,-0.1163
+"SE17NS","Bermondsey, Greater London",51.5031,-0.1132
+"SE17NT","Bermondsey, Greater London",51.5001,-0.1136
+"SE17NU","Bermondsey, Greater London",51.5021,-0.1163
+"SE17NW","Bermondsey, Greater London",51.5037,-0.1157
+"SE17NX","Bermondsey, Greater London",51.5038,-0.1147
+"SE17NY","Bermondsey, Greater London",51.5018,-0.1165
+"SE17NZ","Bermondsey, Greater London",51.5019,-0.1165
+"SE18","Plumstead, Greater London",51.484,0.074
+"SE19","Crystal Palace, Greater London",51.418,-0.084
+"SE2","Abbey Wood, Greater London",51.489,0.117
+"SE20","Anerley, Greater London",51.412,-0.057
+"SE21","Dulwich, Greater London",51.438,-0.087
+"SE22","East Dulwich, Greater London",51.454,-0.071
+"SE23","Forest Hill, Greater London",51.44,-0.048
+"SE24","Herne Hill, Greater London",51.454,-0.099
+"SE25","Elmers End, Greater London",51.397,-0.075
+"SE26","Crystal Palace, Greater London",51.427,-0.053
+"SE27","Tulse Hill, Greater London",51.43,-0.1
+"SE28","Riverside, Greater London",51.502,0.109
+"SE3","Blackheath Park, Greater London",51.469,0.02
+"SE4","Brockley, Greater London",51.461,-0.033
+"SE5","Camberwell, Greater London",51.473,-0.091
+"SE6","Bellingham, Greater London",51.438,-0.015
+"SE7","Charlton, Greater London",51.484,0.036
+"SE8","Deptford High Street, Greater London",51.481,-0.028
+"SE9","Avery Hill, Greater London",51.445,0.057
+"SG1","Stevenage, Hertfordshire",51.911,-0.195
+"SG10","Green Tye, Hertfordshire",51.845,0.072
+"SG11","Albury, Hertfordshire",51.881,0.032
+"SG12","",51.813,-0.016
+"SG13","Bayford, Hertfordshire",51.787,-0.069
+"SG14","Bengeo, Hertfordshire",51.807,-0.091
+"SG15","Arlesey, Bedfordshire",52.013,-0.262
+"SG16","Henlow, Bedfordshire",52.015,-0.296
+"SG17","Campton, Bedfordshire",52.034,-0.33
+"SG18","Biggleswade, Bedfordshire",52.082,-0.266
+"SG19","Beeston, Bedfordshire",52.139,-0.241
+"SG2","Ardeley, Hertfordshire",51.896,-0.165
+"SG3","",51.86,-0.181
+"SG4","Bendish, Hertfordshire",51.921,-0.259
+"SG5","Apsley End, Bedfordshire",51.967,-0.286
+"SG6","Letchworth, Hertfordshire",51.979,-0.221
+"SG7","Ashwell, Hertfordshire",52.004,-0.174
+"SG8","Abington Pigotts, Cambridgeshire",52.064,-0.014
+"SG9","Anstey, Hertfordshire",51.946,-0.007
+"SK1","Stockport, Greater Manchester",53.408,-2.15
+"SK10","Adlington, Cheshire",53.278,-2.129
+"SK11","Allgreave, Cheshire",53.247,-2.143
+"SK12","Birch Vale, Derbyshire",53.351,-2.091
+"SK13","Chunal, Derbyshire",53.448,-1.963
+"SK14","Broadbottom, Greater Manchester",53.451,-2.055
+"SK15","Stalybridge, Greater Manchester",53.486,-2.046
+"SK16","Dukinfield, Greater Manchester",53.474,-2.082
+"SK17","Biggin, Derbyshire",53.244,-1.879
+"SK2","Heaviley, Greater Manchester",53.394,-2.132
+"SK22","Heaviley, Greater Manchester",53.373,-1.985
+"SK23","Chapel-en-le-Frith, Derbyshire",53.328,-1.949
+"SK3","",53.398,-2.17
+"SK4","Heaton Moor, Greater Manchester",53.419,-2.179
+"SK5","Reddish, Greater Manchester",53.434,-2.152
+"SK6","Bredbury, Greater Manchester",53.405,-2.08
+"SK7","Bramhall, Greater Manchester",53.37,-2.141
+"SK8","Cheadle Hulme, Greater Manchester",53.38,-2.207
+"SK9","Alderley Edge, Cheshire",53.327,-2.23
+"SL0","Iver Heath, Buckinghamshire",51.524,-0.514
+"SL1","Burnham, Buckinghamshire",51.517,-0.619
+"SL2","Farnham Common, Buckinghamshire",51.534,-0.603
+"SL3","Coln-brook, Berkshire",51.499,-0.552
+"SL4","Boveney, Buckinghamshire",51.475,-0.625
+"SL5","Ascot, Berkshire",51.405,-0.661
+"SL6","Bray Wick, Berkshire",51.523,-0.726
+"SL7","Bisham, Berkshire",51.574,-0.776
+"SL8","Bourne End, Buckinghamshire",51.578,-0.707
+"SL9","Chalfont Common, Buckinghamshire",51.597,-0.554
+"SM1","",51.366,-0.191
+"SM2","Belmont, Greater London",51.352,-0.197
+"SM3","Cheam, Greater London",51.37,-0.213
+"SM4","Merton, Greater London",51.392,-0.199
+"SM5","Carshalton, Greater London",51.368,-0.166
+"SM6","Beddington, Greater London",51.36,-0.143
+"SM7","Banstead, Surrey",51.323,-0.2
+"SN1","Swindon, Swindon",51.557,-1.774
+"SN10","All Cannings, Wiltshire",51.336,-1.986
+"SN11","Blackland, Wiltshire",51.439,-1.999
+"SN12","Atworth, Wiltshire",51.372,-2.137
+"SN13","Ashley, Wiltshire",51.424,-2.211
+"SN14","Alderton, Wiltshire",51.475,-2.194
+"SN15","Bewley Common, Wiltshire",51.473,-2.079
+"SN16","Brokenborough, Wiltshire",51.593,-2.09
+"SN2","Blunsdon St Andrew, Swindon",51.579,-1.782
+"SN25","Blunsdon St Andrew, Swindon",51.591,-1.796
+"SN26","Blunsdon St Andrew, Swindon",51.611,-1.783
+"SN3","Coate, Swindon",51.561,-1.743
+"SN4","Badbury, Swindon",51.531,-1.819
+"SN5","Lydiard Millicent, Wiltshire",51.565,-1.837
+"SN6","Ashbury, Oxfordshire",51.62,-1.741
+"SN7","Baulking, Oxfordshire",51.649,-1.564
+"SN8","Aldbourne, Wiltshire",51.407,-1.685
+"SN9","Alton Barnes, Wiltshire",51.324,-1.786
+"SO14","Northam, Southampton",50.908,-1.395
+"SO15","Freemantle, Southampton",50.916,-1.423
+"SO16","Bassett, Southampton",50.935,-1.431
+"SO17","Portswood, Southampton",50.926,-1.394
+"SO18","Bitterne, Southampton",50.924,-1.36
+"SO19","Itchen, Southampton",50.902,-1.354
+"SO20","Ashley, Hampshire",51.114,-1.505
+"SO21","Avington, Hampshire",51.075,-1.314
+"SO22","Littleton, Hampshire",51.065,-1.331
+"SO23","Headbourne Worthy, Hampshire",51.067,-1.308
+"SO24","Beauworth, Hampshire",51.084,-1.147
+"SO30","Botley, Hampshire",50.919,-1.306
+"SO31","Burridge, Hampshire",50.869,-1.296
+"SO32","",50.948,-1.208
+"SO40","Ashurst, Hampshire",50.915,-1.5
+"SO41","Battramsley, Hampshire",50.755,-1.565
+"SO42","Balmerlawn, Hampshire",50.81,-1.534
+"SO43","Bank, Hampshire",50.887,-1.583
+"SO45","Blackfield, Hampshire",50.847,-1.394
+"SO50","Bishopstoke, Hampshire",50.969,-1.339
+"SO51","Abbottswood, Hampshire",50.994,-1.503
+"SO52","North Baddesley, Hampshire",50.977,-1.441
+"SO53","",50.984,-1.38
+"SP1","Laverstock, Wiltshire",51.074,-1.789
+"SP10","Andover, Hampshire",51.211,-1.483
+"SP11","Abbotts Ann, Hampshire",51.227,-1.514
+"SP2","Burcombe, Wiltshire",51.074,-1.825
+"SP3","Ansty, Wiltshire",51.101,-2.006
+"SP4","Allington, Wiltshire",51.165,-1.764
+"SP5","Alderbury, Wiltshire",51.023,-1.772
+"SP6","Alderholt, Dorset",50.936,-1.801
+"SP7","Bedchester, Dorset",51.004,-2.183
+"SP8","Bourton, Dorset",51.037,-2.289
+"SP9","North Tidworth, Wiltshire",51.23,-1.66
+"SR1","Sunderland, Tyne and Wear",54.907,-1.379
+"SR2","Hendon, Tyne and Wear",54.887,-1.376
+"SR3","Herrington, Tyne and Wear",54.877,-1.415
+"SR4","South Hylton, Tyne and Wear",54.901,-1.424
+"SR5","Castletown, Tyne and Wear",54.924,-1.424
+"SR6","Cleadon, Tyne and Wear",54.935,-1.378
+"SR7","Cold Hesledon, County Durham",54.83,-1.362
+"SR8","Easington Colliery, County Durham",54.766,-1.335
+"SR9","",54.902,-1.374
+"SS0","Prittlewell, Essex",51.546,0.692
+"SS1","Southchurch, Essex",51.537,0.733
+"SS11","Battlesbridge, Essex",51.615,0.538
+"SS12","Nevendon, Essex",51.605,0.522
+"SS13","Bowers Gifford, Essex",51.574,0.51
+"SS14","Basildon, Essex",51.575,0.476
+"SS15","Laindon, Essex",51.577,0.431
+"SS16","Dry Street, Essex",51.562,0.454
+"SS17","Corringham, Essex",51.521,0.441
+"SS2","",51.55,0.717
+"SS3","Barling, Essex",51.543,0.793
+"SS4","Ashingdon, Essex",51.594,0.715
+"SS5","Hawkwell, Essex",51.607,0.65
+"SS6","Rayleigh, Essex",51.588,0.609
+"SS7","Daws Heath, Essex",51.562,0.579
+"SS8","Canvey Island, Essex",51.522,0.591
+"SS9","Eastwood, Essex",51.554,0.652
+"ST1","Hanley, Stoke-on-Trent",53.026,-2.172
+"ST10","Alton, Staffordshire",52.989,-1.963
+"ST11","Blythe Bridge, Staffordshire",52.967,-2.065
+"ST12","Barlaston, Staffordshire",52.948,-2.171
+"ST13","Ball Haye Green, Staffordshire",53.101,-2.018
+"ST14","Beamhurst, Staffordshire",52.903,-1.868
+"ST15","Aston-by-Stone, Staffordshire",52.9,-2.148
+"ST16","Castle Bank, Staffordshire",52.813,-2.118
+"ST17","Bednall, Staffordshire",52.789,-2.099
+"ST18","Acton Trussell, Staffordshire",52.814,-2.081
+"ST19","Bickford, Staffordshire",52.713,-2.147
+"ST2","Abbey Hulton, Stoke-on-Trent",53.027,-2.135
+"ST20","Adbaston, Staffordshire",52.798,-2.263
+"ST21","",52.868,-2.259
+"ST3","Cookshill, Staffordshire",52.981,-2.122
+"ST4","Beech, Staffordshire",52.995,-2.183
+"ST5","",53.015,-2.237
+"ST6","Brown Edge, Staffordshire",53.057,-2.189
+"ST7","Alsager, Cheshire",53.088,-2.265
+"ST8","Biddulph Moor, Staffordshire",53.115,-2.167
+"ST9","Bagnall, Staffordshire",53.05,-2.099
+"SW1","Belgravia, Greater London",51.496,-0.139
+"SW10","Chelsea, Greater London",51.483,-0.181
+"SW11","Battersea, Greater London",51.466,-0.164
+"SW12","Balham, Greater London",51.446,-0.148
+"SW13","Barnes Bridge, Greater London",51.475,-0.244
+"SW14","East Sheen, Greater London",51.465,-0.265
+"SW15","East Putney, Greater London",51.457,-0.226
+"SW16","Norbury, Greater London",51.422,-0.128
+"SW17","Furzedown, Greater London",51.43,-0.163
+"SW18","Earlsfield, Greater London",51.45,-0.19
+"SW19","Colliers Wood, Greater London",51.423,-0.203
+"SW1A","Westminster Abbey, Greater London",51.503,-0.132
+"SW1E","Belgravia, Greater London",51.497,-0.138
+"SW1H","Belgravia, Greater London",51.498,-0.133
+"SW1P","Belgravia, Greater London",51.495,-0.132
+"SW1V","Belgravia, Greater London",51.49,-0.138
+"SW1W","Belgravia, Greater London",51.493,-0.147
+"SW1X","Belgravia, Greater London",51.498,-0.153
+"SW1Y","Belgravia, Greater London",51.505,-0.133
+"SW2","Brixton, Greater London",51.449,-0.119
+"SW20","Bushey Mead, Greater London",51.411,-0.225
+"SW3","Brompton Road, Greater London",51.489,-0.165
+"SW4","Clapham Common, Greater London",51.461,-0.135
+"SW5","Cromwell Road, Greater London",51.49,-0.189
+"SW6","Fulham Broadway, Greater London",51.476,-0.2
+"SW7","Brompton, Greater London",51.496,-0.175
+"SW8","Nine Elms, Greater London",51.476,-0.131
+"SW9","Coldharbour Lane, Greater London",51.469,-0.112
+"SY1","Battlefield, Shropshire",52.723,-2.74
+"SY10","Abertridwr, Powys",52.836,-3.121
+"SY11","Babbinswood, Shropshire",52.867,-3.029
+"SY12","Bagley, Shropshire",52.903,-2.893
+"SY13","Alkington, Shropshire",52.952,-2.689
+"SY14","Barton, Cheshire",53.03,-2.763
+"SY15","Abermule, Powys",52.555,-3.13
+"SY16","Aberhafesp, Powys",52.52,-3.311
+"SY17","Caersws, Powys",52.517,-3.465
+"SY18","Cwmbelan, Powys",52.441,-3.548
+"SY19","Bont Dolgadfan, Powys",52.574,-3.611
+"SY2","Sutton, Shropshire",52.707,-2.728
+"SY20","Aber-cywarch, Gwynedd",52.614,-3.819
+"SY21","Aberriw, Powys",52.658,-3.205
+"SY22","Arddlin, Powys",52.756,-3.186
+"SY23","Aberffrwd, Ceredigion",52.381,-4.051
+"SY24","Bont-goch, Ceredigion",52.47,-4.023
+"SY25","Capel Betws Lleucu, Ceredigion",52.238,-3.936
+"SY3","Bayston Hill, Shropshire",52.699,-2.77
+"SY4","Albrighton, Shropshire",52.795,-2.751
+"SY5","Acton Burnell, Shropshire",52.653,-2.827
+"SY6","Acton Scott, Shropshire",52.539,-2.79
+"SY7","Abdon, Shropshire",52.425,-2.887
+"SY8","Ashford Bowdler, Shropshire",52.365,-2.695
+"SY9","Acton, Shropshire",52.498,-2.986
+"TA1","Bathpool, Somerset",51.013,-3.101
+"TA10","Aller, Somerset",51.033,-2.825
+"TA11","Babcary, Somerset",51.06,-2.702
+"TA12","Ash, Somerset",50.974,-2.772
+"TA13","East Lambrook, Somerset",50.946,-2.81
+"TA14","Chiselborough, Somerset",50.946,-2.75
+"TA15","Montacute, Somerset",50.951,-2.718
+"TA16","Merriott, Somerset",50.907,-2.792
+"TA17","Dinnington, Somerset",50.908,-2.835
+"TA18","Clapton, Somerset",50.882,-2.786
+"TA19","Ashill, Somerset",50.934,-2.914
+"TA2","Adsborough, Somerset",51.033,-3.102
+"TA20","Bishopswood, Somerset",50.873,-2.962
+"TA21","Appley, Somerset",50.977,-3.245
+"TA22","Battleton, Somerset",51.045,-3.545
+"TA23","Doniford, Somerset",51.162,-3.352
+"TA24","Alcombe, Somerset",51.182,-3.51
+"TA3","Angersleigh, Somerset",50.994,-3.039
+"TA4","Ash Priors, Somerset",51.071,-3.268
+"TA5","Broomfield, Somerset",51.146,-3.104
+"TA6","Bridgwater, Somerset",51.125,-3
+"TA7","Ashcott, Somerset",51.13,-2.912
+"TA8","Berrow, Somerset",51.244,-2.994
+"TA9","Bason Bridge, Somerset",51.226,-2.956
+"TD1","Ashiestiel, Scottish Borders",55.624,-2.811
+"TD10","Greenlaw, Scottish Borders",55.712,-2.449
+"TD11","Abbey St Bathans, Scottish Borders",55.788,-2.316
+"TD12","Birgham, Scottish Borders",55.653,-2.239
+"TD13","Bilsdean, East Lothian",55.93,-2.37
+"TD14","Auchencrow, Scottish Borders",55.868,-2.124
+"TD15","Ancroft, Northumberland",55.747,-2.012
+"TD2","Lauder, Scottish Borders",55.733,-2.753
+"TD3","Gordon, Scottish Borders",55.7,-2.572
+"TD4","Birkhill, Scottish Borders",55.642,-2.671
+"TD5","Blakelaw, Scottish Borders",55.587,-2.416
+"TD6","Bemersyde, Scottish Borders",55.583,-2.694
+"TD7","Aikwood Tower, Scottish Borders",55.537,-2.871
+"TD8","Ancrum, Scottish Borders",55.475,-2.541
+"TD9","Abbotrule, Scottish Borders",55.397,-2.776
+"TF1","Arleston, Shropshire",52.703,-2.503
+"TF10","Adeney, Shropshire",52.769,-2.385
+"TF11","Beckbury, Shropshire",52.663,-2.36
+"TF12","Barrow, Shropshire",52.612,-2.48
+"TF13","Bourton, Shropshire",52.578,-2.582
+"TF2","Donnington, Shropshire",52.7,-2.439
+"TF3","Hollinswood, Shropshire",52.664,-2.444
+"TF4","Dawley, Shropshire",52.661,-2.467
+"TF5","Admaston, Shropshire",52.715,-2.536
+"TF6","Aston, Shropshire",52.735,-2.554
+"TF7","Madeley, Shropshire",52.636,-2.449
+"TF8","Buildwas, Shropshire",52.63,-2.479
+"TF9","Adderley, Shropshire",52.897,-2.469
+"TN1","Royal Tunbridge Wells, Kent",51.135,0.269
+"TN10","Higham Wood, Kent",51.21,0.286
+"TN11","Chiddingstone Causeway, Kent",51.206,0.269
+"TN12","Beltring, Kent",51.172,0.44
+"TN13","Chipstead, Kent",51.276,0.186
+"TN14","Badgers Mount, Kent",51.295,0.162
+"TN15","Borough Green, Kent",51.3,0.27
+"TN16","Biggin Hill, Greater London",51.294,0.052
+"TN17","Bedgebury Cross, Kent",51.096,0.538
+"TN18","Four Throws, Kent",51.043,0.526
+"TN19","Boarzell, East Sussex",51.002,0.408
+"TN2","Hawkenbury, Kent",51.138,0.287
+"TN20","",51.026,0.256
+"TN21","Broadoak, East Sussex",50.959,0.265
+"TN22","Blackboys, East Sussex",50.981,0.101
+"TN23","Great Chart, Kent",51.139,0.86
+"TN24","Ashford, Kent",51.15,0.887
+"TN25","Aldington, Kent",51.144,0.94
+"TN26","Appledore Heath, Kent",51.1,0.806
+"TN27","Biddenden, Kent",51.166,0.707
+"TN28","Greatstone-on-Sea, Kent",50.982,0.953
+"TN29","Brenzett, Kent",50.993,0.934
+"TN3","Ashurst, Kent",51.122,0.252
+"TN30","Ashenden, Kent",51.062,0.698
+"TN31","Beckley, East Sussex",50.963,0.687
+"TN32","Bodiam, East Sussex",50.98,0.49
+"TN33","Ashburnham Place, East Sussex",50.91,0.477
+"TN34","Hastings, East Sussex",50.864,0.583
+"TN35","Cliff End, East Sussex",50.88,0.612
+"TN36","Icklesham, East Sussex",50.921,0.702
+"TN37","Baldslow, East Sussex",50.871,0.558
+"TN38","Bulverhythe, East Sussex",50.863,0.546
+"TN39","Cooden, East Sussex",50.846,0.455
+"TN4","Bidborough, Kent",51.146,0.259
+"TN40","Bexhill, East Sussex",50.844,0.484
+"TN5","Best Beech Hill, East Sussex",51.064,0.362
+"TN6","Boarshead, East Sussex",51.053,0.175
+"TN7","",51.092,0.109
+"TN8","Bough Beech, Kent",51.195,0.079
+"TN9","Tonbridge, Kent",51.191,0.276
+"TQ1","Babbacombe, Devon",50.471,-3.521
+"TQ10","Avonwick, Devon",50.424,-3.819
+"TQ11","Buckfast, Devon",50.481,-3.782
+"TQ12","Abbotskerswell, Devon",50.529,-3.612
+"TQ13","Ashburton, Devon",50.593,-3.718
+"TQ14","Bishopsteignton, Devon",50.55,-3.507
+"TQ2","Barton, Devon",50.474,-3.543
+"TQ3","Blagdon, Devon",50.443,-3.575
+"TQ4","Goodrington, Devon",50.423,-3.57
+"TQ5","Brixham, Devon",50.391,-3.522
+"TQ6","Boohay, Devon",50.347,-3.589
+"TQ7","Ashford, Devon",50.282,-3.783
+"TQ8","East Portlemouth, Devon",50.237,-3.771
+"TQ9","Allaleigh, Devon",50.416,-3.69
+"TR1","Gloweth, Cornwall",50.263,-5.054
+"TR10","Edgcumbe, Cornwall",50.166,-5.118
+"TR11","Brill, Cornwall",50.149,-5.086
+"TR12","Berepper, Cornwall",50.043,-5.179
+"TR13","Ashton, Cornwall",50.109,-5.285
+"TR14","Barripper, Cornwall",50.21,-5.296
+"TR15","Carn Brea, Cornwall",50.233,-5.237
+"TR16","Bridge, Cornwall",50.232,-5.221
+"TR17","Marazion, Cornwall",50.125,-5.468
+"TR18","Chyandour, Cornwall",50.117,-5.541
+"TR19","Bojewyan, Cornwall",50.1,-5.627
+"TR2","Bohortha, Cornwall",50.253,-4.952
+"TR20","Amalebra, Cornwall",50.131,-5.488
+"TR21","Hugh Town, Isles of Scilly",49.93,-6.256
+"TR22","Bohortha, Cornwall",49.892,-6.344
+"TR23","Bohortha, Cornwall",49.953,-6.352
+"TR24","Bohortha, Cornwall",49.955,-6.334
+"TR25","Higher Town, Isles of Scilly",49.964,-6.293
+"TR26","Carbis Bay, Cornwall",50.202,-5.478
+"TR27","Angarrack, Cornwall",50.182,-5.403
+"TR3","Baldhu, Cornwall",50.217,-5.109
+"TR4","Bissoe, Cornwall",50.283,-5.136
+"TR5","Goonbell, Cornwall",50.308,-5.191
+"TR6","Bolingey, Cornwall",50.342,-5.152
+"TR7","Newquay, Cornwall",50.413,-5.074
+"TR8","Black Cross, Cornwall",50.399,-5.037
+"TR9","Fraddon, Cornwall",50.414,-4.936
+"TS1","Middlesbrough, Middlesbrough",54.572,-1.238
+"TS10","Coatham, Redcar and Cleveland",54.607,-1.068
+"TS11","Marske-by-the-Sea, Redcar and Cleveland",54.588,-1.026
+"TS12","Boosbeck, Redcar and Cleveland",54.562,-0.965
+"TS13","Borrowby, North Yorkshire",54.55,-0.854
+"TS14","Dunsdale, Redcar and Cleveland",54.532,-1.06
+"TS15","Crathorne, North Yorkshire",54.491,-1.331
+"TS16","Eaglescliffe, Stockton-on-Tees",54.524,-1.353
+"TS17","Thornaby-on-Tees, Stockton-on-Tees",54.537,-1.302
+"TS18","Hartburn, Stockton-on-Tees",54.562,-1.323
+"TS19","Stockton-on-Tees, Stockton-on-Tees",54.577,-1.345
+"TS2","Port Clarence, Stockton-on-Tees",54.585,-1.235
+"TS20","Norton, Stockton-on-Tees",54.586,-1.313
+"TS21","Bishopton, Darlington",54.627,-1.425
+"TS22","Brierton, Hartlepool",54.618,-1.313
+"TS23","Billingham, Stockton-on-Tees",54.608,-1.285
+"TS24","Crimdon Park, Hartlepool",54.696,-1.21
+"TS25","Greatham, Hartlepool",54.663,-1.223
+"TS26","High Throston, Hartlepool",54.688,-1.229
+"TS27","Blackhall Colliery, County Durham",54.723,-1.288
+"TS28","Station Town, County Durham",54.725,-1.373
+"TS29","Trimdon Colliery, County Durham",54.71,-1.419
+"TS3","Cargo Fleet, Middlesbrough",54.561,-1.196
+"TS4","",54.556,-1.222
+"TS5","Acklam, Middlesbrough",54.551,-1.251
+"TS6","Eston, Redcar and Cleveland",54.566,-1.153
+"TS7","Marton, Middlesbrough",54.534,-1.183
+"TS8","Hemlington, Middlesbrough",54.522,-1.23
+"TS9","Battersby, North Yorkshire",54.466,-1.163
+"TW1","Marble Hill, Greater London",51.45,-0.325
+"TW10","Ham House, Greater London",51.45,-0.302
+"TW11","Teddington, Greater London",51.426,-0.331
+"TW12","Bushy Park, Greater London",51.422,-0.368
+"TW13","Feltham, Greater London",51.438,-0.4
+"TW14","East Bedfont, Greater London",51.452,-0.419
+"TW15","Ashford, Surrey",51.43,-0.456
+"TW16","Sunbury, Surrey",51.416,-0.416
+"TW17","Littleton, Surrey",51.397,-0.447
+"TW18","Laleham, Surrey",51.428,-0.506
+"TW19","Hythe End, Berkshire",51.452,-0.502
+"TW2","",51.446,-0.35
+"TW20","",51.427,-0.55
+"TW3","Hounslow Central, Greater London",51.467,-0.362
+"TW4","Hounslow, Greater London",51.466,-0.383
+"TW5","Cranford, Greater London",51.48,-0.381
+"TW6","",51.47,-0.446
+"TW7","Isleworth, Greater London",51.473,-0.332
+"TW8","Boston Manor, Greater London",51.486,-0.307
+"TW9","Kew Gardens, Greater London",51.468,-0.293
+"UB1","Southall, Greater London",51.514,-0.372
+"UB10","Hillingdon, Greater London",51.548,-0.453
+"UB11","Southall, Greater London",51.519,-0.458
+"UB2","Norwood Green, Greater London",51.499,-0.378
+"UB3","Hayes, Greater London",51.505,-0.422
+"UB4","Yeading, Greater London",51.524,-0.407
+"UB5","Northolt, Greater London",51.543,-0.375
+"UB6","Greenford, Greater London",51.539,-0.342
+"UB7","Harmondsworth, Greater London",51.506,-0.469
+"UB8","Cowley, Greater London",51.535,-0.473
+"UB9","Denham Green, Buckinghamshire",51.581,-0.49
+"W1","Bond Street, Greater London",51.515,-0.142
+"W10","Kensal Town, Greater London",51.521,-0.213
+"W11","Holland Park, Greater London",51.512,-0.204
+"W12","Bedford Park, Greater London",51.508,-0.23
+"W13","Drayton Green, Greater London",51.513,-0.32
+"W14","Brook Green, Greater London",51.494,-0.209
+"W1B","",51.514,-0.139
+"W1C","",51.514,-0.148
+"W1D","",51.513,-0.131
+"W1F","",51.513,-0.135
+"W1G","",51.519,-0.147
+"W1H","",51.517,-0.159
+"W1J","",51.507,-0.143
+"W1K","",51.511,-0.149
+"W1M","Marylebone, Greater London",51.518,-0.149
+"W1S","",51.511,-0.141
+"W1T","",51.52,-0.135
+"W1U","",51.518,-0.152
+"W1W","",51.519,-0.14
+"W2","Bayswater Road, Greater London",51.515,-0.178
+"W3","Acton, Greater London",51.509,-0.268
+"W4","Acton Green, Greater London",51.491,-0.262
+"W5","Acton Town, Greater London",51.512,-0.301
+"W6","Barons Court, Greater London",51.492,-0.229
+"W7","Boston Manor, Greater London",51.511,-0.334
+"W8","High Street Kensington, Greater London",51.5,-0.193
+"W9","Maida Hill, Greater London",51.526,-0.191
+"WA1","Martinscroft, Cheshire",53.394,-2.569
+"WA10","Eccleston, Merseyside",53.454,-2.755
+"WA11","Crank, Merseyside",53.477,-2.719
+"WA12","Earlestown, Merseyside",53.454,-2.632
+"WA13","Broomedge, Cheshire",53.382,-2.468
+"WA14","Altrincham, Greater Manchester",53.386,-2.359
+"WA15","Ashley, Cheshire",53.384,-2.325
+"WA16","High Legh, Cheshire",53.303,-2.371
+"WA2","Fearnhead, Cheshire",53.41,-2.58
+"WA3","Croft, Cheshire",53.453,-2.548
+"WA4","Appleton Thorn, Cheshire",53.365,-2.574
+"WA5","Burtonwood, Cheshire",53.399,-2.636
+"WA6","Alvanley, Cheshire",53.273,-2.722
+"WA7","Aston, Cheshire",53.33,-2.703
+"WA8","Bold Heath, Merseyside",53.372,-2.741
+"WA9","Clock Face, Merseyside",53.436,-2.718
+"WC1","Bloomsbury, Greater London",51.521,-0.122
+"WC1A","Bloomsbury, Greater London",51.517,-0.125
+"WC1B","Bloomsbury, Greater London",51.518,-0.126
+"WC1E","Bloomsbury, Greater London",51.52,-0.131
+"WC1H","Bloomsbury, Greater London",51.524,-0.126
+"WC1N","Bloomsbury, Greater London",51.522,-0.12
+"WC1R","Bloomsbury, Greater London",51.519,-0.116
+"WC1V","Bloomsbury, Greater London",51.517,-0.118
+"WC1X","Bloomsbury, Greater London",51.525,-0.116
+"WC2","Aldwych, Greater London",51.513,-0.123
+"WC2A","Aldwych, Greater London",51.516,-0.115
+"WC2B","Aldwych, Greater London",51.515,-0.121
+"WC2E","Aldwych, Greater London",51.512,-0.123
+"WC2H","Aldwych, Greater London",51.513,-0.127
+"WC2N","Aldwych, Greater London",51.51,-0.125
+"WC2R","Aldwych, Greater London",51.512,-0.119
+"WD1","Bushey, Hertfordshire",51.647,-0.4
+"WD17","Bushey, Hertfordshire",51.661,-0.405
+"WD18","Bushey, Hertfordshire",51.648,-0.414
+"WD19","Bushey, Hertfordshire",51.631,-0.391
+"WD2","Abbots Langley, Hertfordshire",51.667,-0.377
+"WD23","Abbots Langley, Hertfordshire",51.645,-0.365
+"WD24","Abbots Langley, Hertfordshire",51.67,-0.398
+"WD25","Abbots Langley, Hertfordshire",51.684,-0.389
+"WD3","Batchworth Heath, Hertfordshire",51.645,-0.481
+"WD4","Bucks Hill, Hertfordshire",51.709,-0.456
+"WD5","Bedmond, Hertfordshire",51.705,-0.417
+"WD6","Borehamwood, Hertfordshire",51.657,-0.275
+"WD7","Radlett, Hertfordshire",51.686,-0.309
+"WF1","Outwood, West Yorkshire",53.687,-1.492
+"WF10","Allerton Bywater, West Yorkshire",53.724,-1.344
+"WF11","Birkin, North Yorkshire",53.711,-1.256
+"WF12","Dewsbury, West Yorkshire",53.684,-1.62
+"WF13","Ravensthorpe, West Yorkshire",53.692,-1.645
+"WF14","Mirfield, West Yorkshire",53.68,-1.693
+"WF15","Liversedge, West Yorkshire",53.708,-1.698
+"WF16","Heckmondwike, West Yorkshire",53.71,-1.669
+"WF17","Batley, West Yorkshire",53.719,-1.641
+"WF2","Crigglestone, West Yorkshire",53.673,-1.511
+"WF3","Carlton, West Yorkshire",53.723,-1.524
+"WF4","Crofton, West Yorkshire",53.647,-1.519
+"WF5","Ossett, West Yorkshire",53.68,-1.576
+"WF6","Altofts, West Yorkshire",53.7,-1.414
+"WF7","Ackton, West Yorkshire",53.667,-1.35
+"WF8","Carleton, West Yorkshire",53.685,-1.299
+"WF9","Badsworth, West Yorkshire",53.606,-1.32
+"WN1","Marylebone, Greater Manchester",53.554,-2.626
+"WN2","Abram, Greater Manchester",53.537,-2.582
+"WN3","Ince-in-Makerfield, Greater Manchester",53.529,-2.645
+"WN4","Ashton-in-Makerfield, Greater Manchester",53.495,-2.643
+"WN5","Billinge, Merseyside",53.532,-2.685
+"WN6","Appley Bridge, Lancashire",53.574,-2.669
+"WN7","Lately Common, Greater Manchester",53.498,-2.517
+"WN8","Crawford, Lancashire",53.553,-2.768
+"WR1","Worcester, Hereford and Worcester",52.197,-2.217
+"WR10","Abberton, Hereford and Worcester",52.114,-2.064
+"WR11","",52.095,-1.929
+"WR12","Aston Somerville, Hereford and Worcester",52.043,-1.874
+"WR13","Birts Street, Hereford and Worcester",52.094,-2.342
+"WR14","",52.113,-2.319
+"WR15","Bank Street, Hereford and Worcester",52.305,-2.568
+"WR2","Callow End, Hereford and Worcester",52.19,-2.241
+"WR3","Claines, Hereford and Worcester",52.216,-2.21
+"WR4","Warndon, Hereford and Worcester",52.205,-2.184
+"WR5","Draycott, Hereford and Worcester",52.177,-2.199
+"WR6","Abberley, Hereford and Worcester",52.228,-2.37
+"WR7","Abbots Morton, Hereford and Worcester",52.197,-2.052
+"WR8","Baughton, Hereford and Worcester",52.082,-2.203
+"WR9","Cutnall Green, Hereford and Worcester",52.268,-2.157
+"WS1","Maw Green, West Midlands",52.579,-1.977
+"WS10","Darlaston, West Midlands",52.56,-2.021
+"WS11","Bridgtown, Staffordshire",52.689,-2.017
+"WS12","Hazelslade, Staffordshire",52.706,-1.999
+"WS13","Chorley, Staffordshire",52.692,-1.818
+"WS14","Chesterfield, Staffordshire",52.663,-1.814
+"WS15","Abbots Bromley, Staffordshire",52.758,-1.917
+"WS2","",52.588,-2.002
+"WS3","Bloxwich, West Midlands",52.618,-1.99
+"WS4","Rushall, West Midlands",52.605,-1.959
+"WS5","",52.567,-1.959
+"WS6","Cheslyn Hay, Staffordshire",52.658,-2.022
+"WS7","Burntwood Green, Staffordshire",52.68,-1.913
+"WS8","Brownhills, West Midlands",52.646,-1.933
+"WS9","Aldridge, West Midlands",52.609,-1.917
+"WV1","Monmore Green, West Midlands",52.586,-2.115
+"WV10","Bushbury, West Midlands",52.617,-2.112
+"WV11","Essington, Staffordshire",52.61,-2.071
+"WV12","New Invention, West Midlands",52.606,-2.039
+"WV13","Willenhall, West Midlands",52.585,-2.06
+"WV14","Bilston, West Midlands",52.557,-2.078
+"WV15","Allscot, Shropshire",52.516,-2.375
+"WV16","Acton Round, Shropshire",52.511,-2.44
+"WV2","Blakenhall, West Midlands",52.574,-2.118
+"WV3","Bradmore, West Midlands",52.58,-2.151
+"WV4","Ettingshall, West Midlands",52.563,-2.142
+"WV5","Claverley, Shropshire",52.533,-2.209
+"WV6","Ackleton, Shropshire",52.596,-2.181
+"WV7","Albrighton, Wolverhampton",52.633,-2.27
+"WV8","Bilbrook, Staffordshire",52.623,-2.183
+"WV9","Coven, Staffordshire",52.633,-2.14
+"YO1","Dunnington, York",53.958,-1.081
+"YO10","Dunnington, York",53.95,-1.058
+"YO11","Cayton, North Yorkshire",54.265,-0.395
+"YO12","East Ayton, North Yorkshire",54.274,-0.422
+"YO13","Brompton, North Yorkshire",54.288,-0.496
+"YO14","Filey, North Yorkshire",54.199,-0.297
+"YO15","Bempton, E Riding of Yorkshire",54.094,-0.177
+"YO16","Bessingby, E Riding of Yorkshire",54.095,-0.201
+"YO17","Acklam, North Yorkshire",54.136,-0.753
+"YO18","Aislaby, North Yorkshire",54.258,-0.767
+"YO19","Crockey Hill, York",53.91,-1.021
+"YO21","Ainthorpe, North Yorkshire",54.477,-0.712
+"YO22","Beck Hole, North Yorkshire",54.451,-0.621
+"YO23","Acaster Malbis, York",53.925,-1.121
+"YO24","Acomb, York",53.946,-1.114
+"YO25","Aike, E Riding of Yorkshire",54.005,-0.413
+"YO26","Knapton, York",53.975,-1.172
+"YO30","Beningbrough, North Yorkshire",53.986,-1.114
+"YO31","New Earswick, York",53.969,-1.063
+"YO32","Brockfield, North Yorkshire",54.011,-1.059
+"YO41","Gate Helmsley, North Yorkshire",53.969,-0.902
+"YO42","Barmby Moor, E Riding of Yorkshire",53.923,-0.79
+"YO43","Holme-on-Spalding-Moor, E Riding of Yorkshire",53.85,-0.69
+"YO51","Marton, North Yorkshire",54.082,-1.376
+"YO60","Bulmer, North Yorkshire",54.082,-0.941
+"YO61","Alne, North Yorkshire",54.115,-1.193
+"YO62","Ampleforth, North Yorkshire",54.242,-0.993
+"YO7","Ainderby Quernhow, North Yorkshire",54.224,-1.35
+"YO8","Barlby, North Yorkshire",53.781,-1.058
+"ZE1","Burwick, Shetland Islands",60.152,-1.168
+"ZE2","Aith, Shetland Islands",60.331,-1.226
+"ZE3","Exnaboe, Shetland Islands",59.884,-1.302
